@@ -23,3 +23,9 @@ third_nav_title: Mathematics
 *   ICAN (Improving Confidence and Achievement in Numeracy): levels up confidence and achievement of low progress students.
 *   Learning Support for Mathematics (P1 – P2): provides early support for Primary One and Two students who have weak basic numeracy skills during Mathematics lessons in smaller groups. The programme focuses on basic Mathematics skills and concepts to build good foundation in students.
 *   MBL (Mastery Based Learning) (P1 – P4): provides support for students who have weak basic numeracy after school.
+
+![](/images/Curriculum/Key%20Prog%201.jpg)
+![](/images/Curriculum/Key%20Prog%202.jpg)
+![](/images/Curriculum/Key%20Prog%203.jpg)
+![](/images/Curriculum/Key%20Prog%204.jpg)
+![](/images/Curriculum/Key%20Prog%205.jpg)
