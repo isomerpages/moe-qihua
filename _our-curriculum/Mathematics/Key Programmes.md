@@ -44,9 +44,9 @@ third_nav_title: Mathematics
 *   E-Learning: provides opportunities for self-directed learning.
 
 <img src="/images/Curriculum/Key%20Prog%206.jpg"  
-     style="width:75%">
+     style="width:70%">
 <img src="/images/Curriculum/Key%20Prog%207.jpg"  
-     style="width:75%">
+     style="width:70%">
 
 **Programmes to ENRICH:**
 
