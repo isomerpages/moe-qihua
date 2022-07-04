@@ -52,7 +52,7 @@ Mother Tongue Language Fortnight aims to cultivate students’ interest in the l
 <img src="/images/Curriculum/Chinese%207.jpeg"  
      style="width:60%">
 
-**Enabling budding learners**
+**<center>Enabling budding learners</center>**
 
 **Mother Tongue Support Programme( MTSP)**
 
