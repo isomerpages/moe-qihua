@@ -29,7 +29,8 @@ To deliver quality learning experiences for the development of 21st century comp
 Qihua Primary School uses Behaviour Standards from a well-known secular Chinese Classics to teach children character development and good behaviour. The Behaviour Standards emphasises on the basic requisites for being a good person and guidelines for living in harmony with others. The Behaviour Standards cover the same core values found in MOE R3ICH values – Respect, Responsibility, Resilience, Integrity, Care and Harmony. In our efforts to promote Character Education, Qihua Primary School also engages parents and students by inviting them to a series of Character Education Sharing Sessions conducted in English and Chinese.
 
 <img src="/images/Curriculum/CCE/CCE%201.jpeg"  
-     style="width:50%">
+     style="width:60%">
+		 
 <img src="/images/Curriculum/CCE/CCE%202.jpeg"  
      style="width:40%">
 
@@ -40,10 +41,15 @@ Start It Right is our school-based Character and Citizenship Education programme
 
 The first day of the term is set aside for teachers to set the tone for joyful learning and creating a caring and safe environment for both teachers and students. The programme provides quality interaction time between form teachers and students. It also enables teachers to observe and assess their students’ behaviour and use “teachable moments” to impart values and SEL skills (self-awareness, self-management, social awareness, relationship management & responsible decision-making) in them.
 
-![](/images/Curriculum/CCE/CCE%203.jpg)
-![](/images/Curriculum/CCE/CCE%204.jpg)
-![](/images/Curriculum/CCE/CCE%205.jpeg)
-![](/images/Curriculum/CCE/CCE%206.jpeg)
+<img src="/images/Curriculum/CCE/CCE%203.jpg"  
+     style="width:60%">
+<img src="/images/Curriculum/CCE/CCE%204.jpg"  
+     style="width:60%">
+<img src="/images/Curriculum/CCE/CCE%205.jpeg"  
+     style="width:60%">
+<img src="/images/Curriculum/CCE/CCE%206.jpeg"  
+     style="width:60%">
+
 
 **3) End It Well**
 
