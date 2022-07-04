@@ -27,6 +27,15 @@ A vibrant environment for the pupils to grow in Mother Tongue Language.
 
 During the MTL Fortnight 2020, students took part in various activities in class to understand and appreciate the uniqueness of their own mother tongue language and culture. These activities aim to provide the exposure and experience to pique the student’s interest and be inquisitive learners. Students are given opportunities to take part in hands-on activities and share their learning with their teachers and friends using their mother tongue language confidently.
 
+<img src="/images/Curriculum/Malay%201.jpg"  
+     style="width:35%">
+<img src="/images/Curriculum/Malay%202.jpg"  
+     style="width:50%">
+<img src="/images/Curriculum/Malay%203.jpg"  
+     style="width:35%">
+<img src="/images/Curriculum/Malay%204.jpg"  
+     style="width:35%">
+
 ![](/images/Curriculum/Malay%201.jpg)
 ![](/images/Curriculum/Malay%202.jpg)
 ![](/images/Curriculum/Malay%203.jpg)
