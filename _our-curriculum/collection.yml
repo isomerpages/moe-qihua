@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Management.md
       - CCE.md
       - Mother Tongue Development/Tamil Language.md
       - Mother Tongue Development/Malay Language.md
