@@ -33,18 +33,23 @@ Mother Tongue Language Fortnight aims to cultivate students’ interest in the l
 
 <img src="/images/Curriculum/Chinese%201.jpeg"  
      style="width:35%">
+		 
 <img src="/images/Curriculum/Chinese%202.jpeg"  
      style="width:35%">
 <img src="/images/Curriculum/Chinese%203.jpeg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%204.jpeg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%205.jpeg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%206.jpeg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%207.jpeg"  
-     style="width:75%">
+     style="width:60%">
 
 **Enabling budding learners**
 
@@ -62,15 +67,19 @@ _**The key features include:**_
 
 
 <img src="/images/Curriculum/Chinese%208.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%209.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2010.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2011.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2012.jpg"  
-     style="width:75%">
+     style="width:60%">
 
 
 **Enriching the learning experiences**
@@ -89,25 +98,34 @@ c. Chinese Oratorical Skill Training (口语训练)
 d. Overseas Immersion Programme (for P5 level only) (五年级海外浸濡）
 
 <img src="/images/Curriculum/Chinese%2012.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2013.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2014.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2015.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2016.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2017.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2018.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2019.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2020.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2021.jpg"  
-     style="width:75%">
+     style="width:60%">
 
 
 **Thumbs Up**
@@ -122,8 +140,10 @@ This programme aims to stretch students beyond school curriculum:
 ● Exposure to current affairs, broaden their horizons.
 
 <img src="/images/Curriculum/Chinese%2022.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2023.jpg"  
-     style="width:75%">
+     style="width:60%">
+
 <img src="/images/Curriculum/Chinese%2024.jpg"  
-     style="width:75%">
+     style="width:60%">
