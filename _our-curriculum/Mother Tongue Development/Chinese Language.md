@@ -125,8 +125,6 @@ d. Overseas Immersion Programme (for P5 level only) (五年级海外浸濡）
 <img src="/images/Curriculum/Chinese%2021.jpg"  
      style="width:60%">
 
-<img src="/images/Curriculum/Chinese%2021.jpg"  
-     style="width:60%">
 
 
 **Thumbs Up**
