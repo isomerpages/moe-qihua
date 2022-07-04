@@ -11,7 +11,8 @@ third_nav_title: School Profile
 
 **<font size=6>School History</font>**
 
-![](/images/About%20Us/school-crest-435x600.jpg)
+<img src="/images/About%20Us/school-crest-435x600.jpg"  
+     style="width:25%">
 
           The school was founded in 1938 by a group of warm-hearted pioneer educators led by Mr Neo Tiew, a well-known philanthropist in Lim Chu Kang. The literal meaning of ‘Qi Hua (启化）’ means ‘rousing the learning spirit’ of the young as it nurtures and prepares its charges for the future, regardless of their race or creed.
 
