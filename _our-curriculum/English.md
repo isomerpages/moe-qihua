@@ -3,7 +3,7 @@ title: English
 permalink: /curriculum/english-department/
 description: ""
 ---
-><img src="/images/Picture-1-min.jpg"  
+><img src="images/Curriculum/Picture-3-min.jpg"  
      style="width:60%"
 			align="left"><br><br><br><br><br><br><br>
 >Our Curriculum
