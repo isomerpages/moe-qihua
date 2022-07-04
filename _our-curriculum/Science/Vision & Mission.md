@@ -11,10 +11,10 @@ third_nav_title: Science
 
 **<font size=6>Vision & Mission</font>**
 
-**Vision:**
+**<font size=5>Vision</font>**
 
 Every pupil to be a self-directed learner with the skills to inquire and excel
 
-**Mission:**
+**<font size=5>Mission:</font>**
 
 To equip Science learners with thinking skills, positive attitude and values through exploration
