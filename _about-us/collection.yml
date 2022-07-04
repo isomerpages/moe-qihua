@@ -2,23 +2,23 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff/Other Support Staff.md
-      - Our Staff/ICT and MRL Support Staff.md
-      - Our Staff/Admin Staff.md
-      - Our Staff/Allied Educators and Counsellors.md
-      - Our Staff/Tamil Language Teachers.md
-      - Our Staff/Malay Language Teachers.md
-      - Our Staff/Chinese Language Teachers.md
-      - Our Staff/P6 Teachers.md
-      - Our Staff/P5 Teachers.md
-      - Our Staff/P4 Teachers.md
-      - Our Staff/P3 Teachers.md
-      - Our Staff/P2 Teachers.md
-      - Our Staff/P1 Teachers.md
-      - Our Staff/Lead or Senior Teachers.md
-      - Our Staff/Key Personnel.md
-      - Our Staff/School Leaders.md
       - Our Staff/.keep
+      - Our Staff/School Leaders.md
+      - Our Staff/Key Personnel.md
+      - Our Staff/Lead or Senior Teachers.md
+      - Our Staff/P1 Teachers.md
+      - Our Staff/P2 Teachers.md
+      - Our Staff/P3 Teachers.md
+      - Our Staff/P4 Teachers.md
+      - Our Staff/P5 Teachers.md
+      - Our Staff/P6 Teachers.md
+      - Our Staff/Chinese Language Teachers.md
+      - Our Staff/Malay Language Teachers.md
+      - Our Staff/Tamil Language Teachers.md
+      - Our Staff/Allied Educators and Counsellors.md
+      - Our Staff/Admin Staff.md
+      - Our Staff/ICT and MRL Support Staff.md
+      - Our Staff/Other Support Staff.md
       - Learning Environment.md
       - School Rules and Regulations.md
       - School Profile/.keep
