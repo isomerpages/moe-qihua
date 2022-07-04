@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/P1 Teachers.md
       - Our Staff/Senior Teachers.md
       - Our Staff/Key Personnel.md
       - Our Staff/School Leaders.md
