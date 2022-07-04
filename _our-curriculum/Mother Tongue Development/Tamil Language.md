@@ -70,7 +70,7 @@ The programme focuses on building basic listening and speaking. The lessons are 
 The National Tamil Debate (Primary school series) is organized once every 2 years. Through the participation of this competition, our students can improve their proficiency in Tamil Language, both spoken and written, through debating and articulation. Our Qihuaians did us proud in 2021 as our participants, Karthick Adhithi, Narayanan Yuga, BVD Dhanya Shree from 5/1 and Shuruthy Ramkumar from 5/2, made their victorious way to the semifinals.
 
 <img src="/images/Curriculum/Tamil%207.jpg"  
-     style="width:60%">
+     style="width:80%">
 		 
 <img src="/images/Curriculum/Tamil%208.jpg"  
-     style="width:60%">
+     style="width:80%">
