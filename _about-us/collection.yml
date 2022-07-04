@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Admin Staff.md
       - Our Staff/Allied Educators and Counsellors.md
       - Our Staff/Tamil Language Teachers.md
       - Our Staff/Malay Language Teachers.md
