@@ -2,6 +2,19 @@ collections:
   about-us:
     output: true
     order:
+      - About Us.md
+      - Principal's Message.md
+      - General Information/.keep
+      - General Information/General Information.md
+      - General Information/School Hours.md
+      - General Information/Information on Road Safety.md
+      - School Profile/.keep
+      - School Profile/School Crest.md
+      - School Profile/School Ethos.md
+      - School Profile/School History.md
+      - School Profile/School Song.md
+      - School Rules and Regulations.md
+      - Learning Environment.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/Key Personnel.md
@@ -19,16 +32,3 @@ collections:
       - Our Staff/Admin Staff.md
       - Our Staff/ICT and MRL Support Staff.md
       - Our Staff/Other Support Staff.md
-      - Learning Environment.md
-      - School Rules and Regulations.md
-      - School Profile/.keep
-      - School Profile/School Crest.md
-      - School Profile/School Ethos.md
-      - School Profile/School History.md
-      - School Profile/School Song.md
-      - About Us.md
-      - Principal's Message.md
-      - General Information/.keep
-      - General Information/General Information.md
-      - General Information/School Hours.md
-      - General Information/Information on Road Safety.md
