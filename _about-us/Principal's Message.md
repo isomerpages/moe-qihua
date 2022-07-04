@@ -67,3 +67,7 @@ Kami amat menghargai kepercayaan dan sokongan yang diberikan oleh Ibu Bapa. Teri
 Program EAGLETS yang bermula pada 2020 setelah Pemutus Litar telah terus melengkapkan para pelajar dengan kemahiran belajar secara kendiri. Ini  membantu para pelajar Qihua supaya tekal dan tekun dalam pembelajaran serta lebih bersedia untuk pembelajaran di rumah yang bermula pada akhir penggal 3. Kami dapat melihat bagaimana teknologi boleh lebih dimanfaatkan bagi mengembangkan dunia kanak-kanak dan meluaskan lingkungan pengetahuan mereka. Sebelum itu, mereka harus belajar untuk menjadi pengguna teknologi yang bertanggungjawab dan pelajar aktif yang mengambil berat terhadap pembelajaran mereka. Itulah visi kami untuk para pelajar Qihua. Kami berusaha untuk mencapai visi tersebut melalui penyampaian dalam kurikulum dan pelaksanaan pelbagai program.
 
 Selanjutnya, kami akan berusaha untuk mencipta lebih banyak peluang agar suara para pelajar Qihua dapat didengar melalui pelbagai wadah dan platform. Ayuh, kita kekalkan kepercayaan bahawa perwatakan para pelajar Qihua harus diutamakan dan mereka harus sentiasa hormat-menghormati serta bertanggungjawab dengan keputusan dan tingkah laku mereka. Dengan cara ini, para pelajar Qihua akan dibentuk supaya menjadi seorang anak dan pelajar yang baik serta berpegang pada nilai-nilai dan dibimbing oleh standard tingkah laku Qihua.
+
+![](/images/About%20Us/Tamil-1-542x600.jpg)
+![](/images/About%20Us/Tamil-2-497x600.jpg)
+![](/images/About%20Us/Tamil-3-600x284.jpg)
