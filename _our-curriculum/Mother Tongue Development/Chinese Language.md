@@ -58,3 +58,19 @@ _**The key features include:**_
 ![](/images/Curriculum/Chinese%2010.jpg)
 ![](/images/Curriculum/Chinese%2011.jpg)
 ![](/images/Curriculum/Chinese%2012.jpg)
+
+**Enriching the learning experiences**
+
+**BICEP**
+
+In 2020, Qihua Primary had collaborated with Singapore Hokkien Huay Kuan(HKHK) to launch the BiCEP. Singapore Hokkien Huay Kuan has been offering the 3-year BiCEP for selected students from Primary 4 to Primary 6 in all its 5 affiliated primary schools since 2007. BiCEP is designed by a team of experienced Chinese Language teachers, in consultation with relevant experts. . The programme aims to develop a core group of effective bilinguals; with a strong emphasis on empowering the participants to discover their Asian heritage and to gain a deeper understanding of the Chinese culture and values.
+
+The programme aims to develop a core group of effective bilinguals; with a strong emphasis on empowering the participants to discover their Asian heritage and to gain a deeper understanding of the Chinese culture and values.
+
+_**The programme includes four components namely:**_
+
+a. Children’s Literature Appreciation and Creative Writing (儿童文学赏析与创作)  
+b. A Recapitulation of Chinese Culture and History (中华文化)  
+c. Chinese Oratorical Skill Training (口语训练)  
+d. Overseas Immersion Programme (for P5 level only) (五年级海外浸濡）
+
