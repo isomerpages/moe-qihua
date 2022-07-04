@@ -22,3 +22,11 @@ third_nav_title: School Profile
            In 1980, Kay Wah Branch II adopted English as its medium of instruction. When the farming community in Lim Chu Kang was resettled, Kay Wah Main and Branch II closed. Kay Wah Branch I shifted to its current address in Woodlands under the headship of Mr Choo Phie Ching in 1988. He initiated a name change to its Hanyu Pinyin name: “Qihua”. It was officially opened by Mr Lee Yiok Seng, Senior Parliamentary Secretary (National Development) and MP for Bukit Panjang on November15, 1990.
 
            Mr Seah Chong Kiat ran the school from 1989 to 1997. Mrs Bilveer Singh took over the headship of the school from 1998 to 2005, and Mrs Koh-Ho Sau Peng headed the school from 2006 to 2016. Currently, the responsibility of headship is under our 9th Principal, Mrs Lee Hui Feng.
+					 
+![](/images/About%20Us/Kay-Wah-History-Photots_0008-600x386.jpg)
+![](/images/About%20Us/Kay-Wah-History-Photots_0013-600x380.jpg)
+![](/images/About%20Us/Kay-Wah-History-Photots_0021-600x407.jpg)
+![](/images/About%20Us/Kay-Wah-History-Photots_0034-600x388.jpg)
+![](/images/About%20Us/Kay-Wah-History-Photots_0036-600x314.jpg)
+![](/images/About%20Us/Kay-Wah-History-Photots_0038-600x385.jpg)
+![](/images/About%20Us/Kay-Wah-History-Photots_0040-600x406.jpg)
