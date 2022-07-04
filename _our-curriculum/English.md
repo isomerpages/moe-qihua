@@ -66,3 +66,20 @@ Buddy Reading
 ![](/images/Curriculum/Buddy-reading-2.jpeg)
 Buddy Reading
 
+**<font size=5>Enriching the learning experiences</font>**
+
+**1) APEX – High Achievers Programme**
+
+Primary 3 to 5 students are selected to take part in enrichment programmes which include debate and persuasive writing, journalism and fractured fairy tales. These programmes, apart from being aligned and relevant to the English curriculum, extend students’ learning of the English language beyond the classroom.
+
+**2) Literature Appreciation Programme for Primary 4 and 5**
+
+In Qihua, we broaden the scope of English learning for our students by giving them the opportunities to think critically and creatively. The literature programmes tailored for selected Primary 4 and 5 students expose our students to rich texts and introduce them to a range of literary devices.
+
+**3) What’s Up Newspaper**
+
+Students from Primary 4 to 6 subscribe to the Whatsup newspaper which supports their learning of the English language. Through meaningful activities and discussions, students keep abreast of current affairs and expand their vocabulary.
+
+**4) External Competitions**
+
+Every year, students are chosen to participate in external competitions such as Wits and Words, PESA etc.
