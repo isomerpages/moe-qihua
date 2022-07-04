@@ -12,7 +12,7 @@ third_nav_title: School Profile
 **<font size=6>School Crest</font>**
 
 <img src="/images/About%20Us/school_logo.jpg"  
-     style="width:35%">
+     style="width:25%">
 		 
 
 Qihua is a school where pupils persevere to succeed and aspire for knowledge and life-long learning in the context of our national education goals.
