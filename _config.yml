@@ -3,7 +3,7 @@ url: ""
 favicon: /images/Qihua-Primary-School-logo-900dpi-test.jpg
 colors:
   primary-color: "#bc3a1a"
-  secondary-color: "#ffffff"
+  secondary-color: "#bc3a1a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
