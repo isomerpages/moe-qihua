@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - CCA/Learning Experiences.md
-      - CCA/CCAs offered in Qihua Primary School.md
-      - CCA/CCA.md
       - CCA/.keep
+      - CCA/CCA.md
+      - CCA/CCAs offered in Qihua Primary School.md
+      - CCA/Learning Experiences.md
       - Physical Education.md
       - Aesthetics Music and Art.md
       - ICT and MRL.md
