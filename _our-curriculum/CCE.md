@@ -46,7 +46,7 @@ The first day of the term is set aside for teachers to set the tone for joyful l
 <img src="/images/Curriculum/CCE/CCE%204.jpg"  
      style="width:60%">
 <img src="/images/Curriculum/CCE/CCE%205.jpeg"  
-     style="width:60%">
+     style="width:45%">
 <img src="/images/Curriculum/CCE/CCE%206.jpeg"  
      style="width:60%">
 
