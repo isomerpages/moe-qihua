@@ -44,13 +44,16 @@ Through the use of myON, an online reading platform, all our primary 1 to 5 stud
 
 This yearly event consists of activities that provide students with joyful learning experiences. Students get the chance to apply their language skills in a fun and authentic way.
 
-![](/images/Curriculum/EL-Fiesta-Pic-1.jpg)
+<img src="/images/Curriculum/EL-Fiesta-Pic-1.jpg"  
+     style="width:50%">
 
 **_Reader’s Theatre in progress. Hush…_**
 
 Stories with these characters were shared with the students. Can you name all the books?
 
-![](/images/Curriculum/EL-Fiesta-Pic-2.jpg)
+<img src="/images/Curriculum/EL-Fiesta-Pic-2.jpg"  
+     style="width:50%">
+
 
 **Enabling budding learners**
 
@@ -60,10 +63,12 @@ Stories with these characters were shared with the students. Can you name all th
 4) Mastery-based Learning (P1 to 4)  
 5) Morning Buddy Programme (P1 & 2)
 
-![](/images/Curriculum/Buddy-reading-1.jpeg)
+<img src="/images/Curriculum/Buddy-reading-1.jpeg"  
+     style="width:50%">
 Buddy Reading
 
-![](/images/Curriculum/Buddy-reading-2.jpeg)
+<img src="/images/Curriculum/Buddy-reading-2.jpeg"  
+     style="width:50%">
 Buddy Reading
 
 **<font size=5>Enriching the learning experiences</font>**
