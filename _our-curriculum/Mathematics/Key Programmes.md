@@ -43,8 +43,10 @@ third_nav_title: Mathematics
 *   SSM (Sustained Support for Mathematics): provides hands-on activities which develop conceptual understanding of Mathematics.
 *   E-Learning: provides opportunities for self-directed learning.
 
-![](/images/Curriculum/Key%20Prog%206.jpg)
-![](/images/Curriculum/Key%20Prog%207.jpg)
+<img src="/images/Curriculum/Key%20Prog%206.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Key%20Prog%207.jpg"  
+     style="width:75%">
 
 **Programmes to ENRICH:**
 
