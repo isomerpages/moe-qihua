@@ -43,3 +43,26 @@ Through the use of myON, an online reading platform, all our primary 1 to 5 stud
 **4) English Fiesta**
 
 This yearly event consists of activities that provide students with joyful learning experiences. Students get the chance to apply their language skills in a fun and authentic way.
+
+![](/images/Curriculum/EL-Fiesta-Pic-1.jpg)
+
+**_Reader’s Theatre in progress. Hush…_**
+
+Stories with these characters were shared with the students. Can you name all the books?
+
+![](/images/Curriculum/EL-Fiesta-Pic-2.jpg)
+
+**Enabling budding learners**
+
+1) Learning Support Programme (P1 & P2)  
+2) Reading Remediation Programme (P3 & 4)  
+3) School-based Dyslexia Programme (P3 & 4)  
+4) Mastery-based Learning (P1 to 4)  
+5) Morning Buddy Programme (P1 & 2)
+
+![](/images/Curriculum/Buddy-reading-1.jpeg)
+Buddy Reading
+
+![](/images/Curriculum/Buddy-reading-2.jpeg)
+Buddy Reading
+
