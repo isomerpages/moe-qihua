@@ -29,10 +29,13 @@ During the MTL Fortnight 2020, students took part in various activities in class
 
 <img src="/images/Curriculum/Malay%201.jpg"  
      style="width:35%">
+
 <img src="/images/Curriculum/Malay%202.jpg"  
      style="width:50%">
+
 <img src="/images/Curriculum/Malay%203.jpg"  
      style="width:35%">
+
 <img src="/images/Curriculum/Malay%204.jpg"  
      style="width:35%">
 
@@ -48,10 +51,13 @@ MTSP lessons are specifically designed to be more interactive and engaging to in
 
 <img src="/images/Curriculum/Malay%205.jpg"  
      style="width:50%">
+
 <img src="/images/Curriculum/Malay%206.jpg"  
      style="width:50%">
+
 <img src="/images/Curriculum/Malay%207.jpg"  
      style="width:50%">
+
 <img src="/images/Curriculum/Malay%208.jpg"  
      style="width:50%">
 
