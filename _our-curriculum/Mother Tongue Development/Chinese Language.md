@@ -83,7 +83,7 @@ _**The key features include:**_
      style="width:60%">
 
 
-**Enriching the learning experiences**
+**<center>Enriching the learning experiences</center>**
 
 **BICEP**
 
