@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - ICT and MRL.md
       - Student Management.md
       - CCE.md
       - Mother Tongue Development/Tamil Language.md
