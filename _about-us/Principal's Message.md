@@ -71,11 +71,11 @@ Program EAGLETS yang bermula pada 2020 setelah Pemutus Litar telah terus melengk
 Selanjutnya, kami akan berusaha untuk mencipta lebih banyak peluang agar suara para pelajar Qihua dapat didengar melalui pelbagai wadah dan platform. Ayuh, kita kekalkan kepercayaan bahawa perwatakan para pelajar Qihua harus diutamakan dan mereka harus sentiasa hormat-menghormati serta bertanggungjawab dengan keputusan dan tingkah laku mereka. Dengan cara ini, para pelajar Qihua akan dibentuk supaya menjadi seorang anak dan pelajar yang baik serta berpegang pada nilai-nilai dan dibimbing oleh standard tingkah laku Qihua.
 
 <img src="/images/About%20Us/Tamil-1-542x600.jpg"  
-     style="width:25%"
+     style="width:70%"
 		 align="left">
 <img src="/images/About%20Us/Tamil-2-497x600.jpg"  
-     style="width:25%"
+     style="width:70%"
 		 align="left">
 <img src="/images/About%20Us/Tamil-3-600x284.jpg"  
-     style="width:25%"
+     style="width:70%"
 		 align="left">
