@@ -98,9 +98,6 @@ b. A Recapitulation of Chinese Culture and History (中华文化)
 c. Chinese Oratorical Skill Training (口语训练)  
 d. Overseas Immersion Programme (for P5 level only) (五年级海外浸濡）
 
-<img src="/images/Curriculum/Chinese%2012.jpg"  
-     style="width:60%">
-
 <img src="/images/Curriculum/Chinese%2013.jpg"  
      style="width:60%">
 
@@ -123,6 +120,9 @@ d. Overseas Immersion Programme (for P5 level only) (五年级海外浸濡）
      style="width:60%">
 
 <img src="/images/Curriculum/Chinese%2020.jpg"  
+     style="width:60%">
+
+<img src="/images/Curriculum/Chinese%2021.jpg"  
      style="width:60%">
 
 <img src="/images/Curriculum/Chinese%2021.jpg"  
