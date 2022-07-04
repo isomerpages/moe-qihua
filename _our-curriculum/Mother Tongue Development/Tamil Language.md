@@ -29,17 +29,24 @@ A vibrant environment for the pupils to grow in Mother Tongue Language.
   
 Tamil Language month is officially commemorated in Singapore during the month of April every year since 2007. The Tamil Language Festival (TLF) was first organized in 2007, aimed at encouraging the Tamil community in Singapore to use the language in their daily lives. The festival is a community effort supported by Tamil organisations, community partners and other agencies. This year, due to Covid restrictions, Woodlands CC organized a virtual Tamil Language Festival. The virtual festival features literary, oratorical and cultural programmes, with “Love Tamil, Speak Tamil” as the theme. The occasion was specially graced by Ms Mariam Jaafar, Grassroots advisor for Woodlands. Some of our Qihuaians participated in the story telling, Tamil poems and proverbs (Thirukkural) recitation competition.
 
-![](/images/Curriculum/Tamil%201.jpg)
-![](/images/Curriculum/Tamil%202.jpg)
+<img src="/images/Curriculum/Tamil%201.jpg"  
+     style="width:35%">
+<img src="/images/Curriculum/Tamil%202.jpg"  
+     style="width:35%">
+
 
 **Mother Tongue Language (MTL) Fortnight**
 
   
 Mother Tongue Language (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. In Qihua, we provide students with authentic opportunities for them to use MTL and learn about their traditions and culture.
 
-![](/images/Curriculum/Tamil%203.jpg)
-![](/images/Curriculum/Tamil%204.jpg)
-![](/images/Curriculum/Tamil%205.jpg)
+<img src="/images/Curriculum/Tamil%203.jpg"  
+     style="width:35%">
+<img src="/images/Curriculum/Tamil%204.jpg"  
+     style="width:35%">
+<img src="/images/Curriculum/Tamil%205.jpg"  
+     style="width:35%">
+
 
 **Enabling budding learners**
    
@@ -49,7 +56,9 @@ Mother Tongue Language (MTL) Fortnight aims to create an immersive environment f
 MTSP is a customised programme implemented by MOE to support the learning of pupils in Mother Tongue Languages in Primary 3 and Primary 4.  
 The programme focuses on building basic listening and speaking. The lessons are designed to be more fun-filled, with language activities and games.
 
-![](/images/Curriculum/Tamil%206.jpg)
+<img src="/images/Curriculum/Tamil%206.jpg"  
+     style="width:35%">
+
 
 **Enriching the learning experiences**
 
@@ -57,5 +66,7 @@ The programme focuses on building basic listening and speaking. The lessons are 
 
 The National Tamil Debate (Primary school series) is organized once every 2 years. Through the participation of this competition, our students can improve their proficiency in Tamil Language, both spoken and written, through debating and articulation. Our Qihuaians did us proud in 2021 as our participants, Karthick Adhithi, Narayanan Yuga, BVD Dhanya Shree from 5/1 and Shuruthy Ramkumar from 5/2, made their victorious way to the semifinals.
 
-![](/images/Curriculum/Tamil%207.jpg)
-![](/images/Curriculum/Tamil%208.jpg)
+<img src="/images/Curriculum/Tamil%207.jpg"  
+     style="width:35%">
+<img src="/images/Curriculum/Tamil%208.jpg"  
+     style="width:35%">
