@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - General Information/Information on Road Safety.md
-      - General Information/School Hours.md
       - General Information/.keep
+      - General Information/School Hours.md
+      - General Information/Information on Road Safety.md
       - Principal's Message.md
       - About Us.md
