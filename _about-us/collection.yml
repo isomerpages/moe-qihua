@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Learning Environment.md
       - School Rules and Regulations.md
       - School Profile/.keep
       - School Profile/School Crest.md
