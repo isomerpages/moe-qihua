@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 ><img src="/images/Picture-1-min.jpg"  
-     style="width:50%"
+     style="width:70%"
 			align="left"><br><br><br><br><br><br>
 >About Us
 
