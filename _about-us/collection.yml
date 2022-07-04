@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Malay Language Teachers.md
       - Our Staff/Chinese Language Teachers.md
       - Our Staff/P6 Teachers.md
       - Our Staff/P5 Teachers.md
