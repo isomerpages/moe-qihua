@@ -38,3 +38,23 @@ Mother Tongue Language Fortnight aims to cultivate students’ interest in the l
 ![](/images/Curriculum/Chinese%205.jpeg)
 ![](/images/Curriculum/Chinese%206.jpeg)
 ![](/images/Curriculum/Chinese%207.jpeg)
+
+**Enabling budding learners**
+
+**Mother Tongue Support Programme( MTSP)**
+
+MTSP was introduced to all primary schools in 2017. It is a customised programme to support pupils in the learning of Mother Tongue Language (MTL) in Primary 3 and 4.
+
+_**The key features include:**_
+
+● Smaller class size during curriculum time or after school  
+● Focus on building a stronger foundation in their oracy and literacy skills  
+● Acquisition of key content and skills in a fun manner  
+● Immersive language environment to enable students to learn MTL with confidence and joy.  
+● Taught by specially trained Mother Tongue Language teachers.
+
+![](/images/Curriculum/Chinese%208.jpg)
+![](/images/Curriculum/Chinese%209.jpg)
+![](/images/Curriculum/Chinese%2010.jpg)
+![](/images/Curriculum/Chinese%2011.jpg)
+![](/images/Curriculum/Chinese%2012.jpg)
