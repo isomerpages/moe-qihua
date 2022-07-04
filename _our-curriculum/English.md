@@ -65,11 +65,11 @@ Stories with these characters were shared with the students. Can you name all th
 
 <img src="/images/Curriculum/Buddy-reading-1.jpeg"  
      style="width:50%">
-Buddy Reading
+<center>Buddy Reading</center>
 
 <img src="/images/Curriculum/Buddy-reading-2.jpeg"  
      style="width:50%">
-Buddy Reading
+<center>Buddy Reading</center>
 
 **<font size=5>Enriching the learning experiences</font>**
 
