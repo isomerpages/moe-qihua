@@ -43,10 +43,13 @@ The first day of the term is set aside for teachers to set the tone for joyful l
 
 <img src="/images/Curriculum/CCE/CCE%203.jpg"  
      style="width:60%">
+
 <img src="/images/Curriculum/CCE/CCE%204.jpg"  
      style="width:60%">
+
 <img src="/images/Curriculum/CCE/CCE%205.jpeg"  
      style="width:45%">
+
 <img src="/images/Curriculum/CCE/CCE%206.jpeg"  
      style="width:60%">
 
@@ -55,9 +58,15 @@ The first day of the term is set aside for teachers to set the tone for joyful l
 
 End It Well includes an end-of-school-year party as a celebration of a community of learners who have grown into a cohesive classroom team. It is a fun and meaningful way to wrap the year as students have spent a lot of time together and every class has developed a distinct group personality. Students and teachers party with food, share their feelings and relive favourite memories with one another.
 
-![](/images/Curriculum/CCE/CCE%207.jpeg)
-![](/images/Curriculum/CCE/CCE%208.jpeg)
-![](/images/Curriculum/CCE/CCE%209.jpeg)
+<img src="/images/Curriculum/CCE/CCE%207.jpeg"  
+     style="width:50%">
+		 
+<img src="/images/Curriculum/CCE/CCE%208.jpeg"  
+     style="width:60%">
+
+<img src="/images/Curriculum/CCE/CCE%209.jpeg"  
+     style="width:60%">
+
 
 **<font size=5>Enabling budding learners</font>**
 
