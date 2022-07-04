@@ -31,6 +31,20 @@ A vibrant environment for the pupils to grow in Mother Tongue Language.
 
 Mother Tongue Language Fortnight aims to cultivate students’ interest in the learning of Mother Tongue language through interesting cultural activities. These activities allow students to experience the unique cultural elements and create opportunities that encourage students to use Mother Language in the activities.
 
+<img src="/images/Curriculum/Chinese%201.jpeg"  
+     style="width:35%">
+<img src="/images/Curriculum/Chinese%202.jpeg"  
+     style="width:35%">
+<img src="/images/Curriculum/Chinese%203.jpeg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%204.jpeg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%205.jpeg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%206.jpeg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%207.jpeg"  
+     style="width:75%">
 ![](/images/Curriculum/Chinese%201.jpeg)
 ![](/images/Curriculum/Chinese%202.jpeg)
 ![](/images/Curriculum/Chinese%203.jpeg)
