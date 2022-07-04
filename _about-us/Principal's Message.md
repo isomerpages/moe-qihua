@@ -5,7 +5,7 @@ description: ""
 ---
 ><img src="/images/Picture-1-min.jpg"  
      style="width:70%"
-			align="left"><br><br><br><br><br><br>
+			align="left"><br><br><br><br><br><br><br><br>
 >About Us
 
 **<font size=6>Principal's Message for 2022</font>**
