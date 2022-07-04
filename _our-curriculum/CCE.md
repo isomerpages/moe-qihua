@@ -74,8 +74,12 @@ End It Well includes an end-of-school-year party as a celebration of a community
 
 To help our Primary 1 students to adapt to primary school life, each Primary 1 student is assigned to a Primary 4 buddy. Care for Buddy provides a platform for our Primary 4 students to practise care for their juniors as well as develop their leadership skills. At the same time, the Primary 4 students could also develop social awareness and demonstrate interpersonal skills to build and maintain positive relationships with others.
 
-![](/images/Curriculum/CCE/CCE%2010.jpeg)
-![](/images/Curriculum/CCE/CCE%2011.jpeg)
+<img src="/images/Curriculum/CCE/CCE%2010.jpeg"  
+     style="width:60%">
+
+<img src="/images/Curriculum/CCE/CCE%2011.jpeg"  
+     style="width:60%">
+
 
 **2) HatBITS**
 
@@ -86,21 +90,33 @@ In Qihua, we always believe in establishing rules and routines as this encourage
 **1) Overseas Learning Experiences (OLE)**
 
 Overseas Learning Journeys are organised to broaden our students’ global vision and develop their understanding and appreciation of what they have in Singapore. Going overseas without their parents will promote team bonding among the participants and enable them to develop independence, resilience and adaptability.
+<img src="/images/Curriculum/CCE/CCE%2012.jpeg"  
+     style="width:60%">
 
-![](/images/Curriculum/CCE/CCE%2012.jpeg)
-![](/images/Curriculum/CCE/CCE%2013.jpeg)
-![](/images/Curriculum/CCE/CCE%2014.jpeg)
-![](/images/Curriculum/CCE/CCE%2015.jpeg)
+<img src="/images/Curriculum/CCE/CCE%2013.jpeg"  
+     style="width:60%">
+
+<img src="/images/Curriculum/CCE/CCE%2014.jpeg"  
+     style="width:60%">
+
+<img src="/images/Curriculum/CCE/CCE%2015.jpeg"  
+     style="width:60%">
+
 
 **2) International Collaborative Classrooms Project (ICCP)**
 
 Globalisation and technological advancements are some of the key driving forces of the future. Qihua Primary School is committed to help its students develop the necessary competencies to thrive in a fast-changing world. Hence, our collaboration with Higashidai Elementary School provides our students with opportunities to communicate effectively and forge global friendships with peers though technology.
 
-![](/images/Curriculum/CCE/CCE%2016.jpeg)
+<img src="/images/Curriculum/CCE/CCE%2016.jpeg"  
+     style="width:60%">
+
 
 **3) Distribution Events**
 
 As part of our outreach efforts to our community, we collaborate with the Woodlands Community Centre on two distribution events – Mandarin Orange and National Day Distributions. Through these events, our students learn to demonstrate the importance of caring, sharing and giving. Students are also given the opportunities to understand the community better and build relationships with people around them.
 
-![](/images/Curriculum/CCE/CCE%2017.jpeg)
-![](/images/Curriculum/CCE/CCE%2018.jpeg)
+<img src="/images/Curriculum/CCE/CCE%2011.jpeg"  
+     style="width:60%">
+
+<img src="/images/Curriculum/CCE/CCE%2011.jpeg"  
+     style="width:60%">
