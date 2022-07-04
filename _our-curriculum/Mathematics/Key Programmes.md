@@ -25,15 +25,15 @@ third_nav_title: Mathematics
 *   MBL (Mastery Based Learning) (P1 – P4): provides support for students who have weak basic numeracy after school.
 
 <img src="/images/Curriculum/Key%20Prog%201.jpg"  
-     style="width:75%">
+     style="width:70%">
 <img src="/images/Curriculum/Key%20Prog%202.jpg"  
-     style="width:75%">
+     style="width:50%">
 <img src="/images/Curriculum/Key%20Prog%203.jpg"  
-     style="width:75%">
+     style="width:70%">
 <img src="/images/Curriculum/Key%20Prog%204.jpg"  
-     style="width:75%">
+     style="width:55%">
 <img src="/images/Curriculum/Key%20Prog%205.jpg"  
-     style="width:75%">
+     style="width:70%">
 
 
 **Programmes to ENGAGE:**
