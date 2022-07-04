@@ -36,6 +36,7 @@ Mother Tongue Language Fortnight aims to cultivate students’ interest in the l
 		 
 <img src="/images/Curriculum/Chinese%202.jpeg"  
      style="width:35%">
+		 
 <img src="/images/Curriculum/Chinese%203.jpeg"  
      style="width:60%">
 
