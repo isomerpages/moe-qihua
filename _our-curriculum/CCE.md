@@ -116,7 +116,7 @@ Globalisation and technological advancements are some of the key driving forces 
 As part of our outreach efforts to our community, we collaborate with the Woodlands Community Centre on two distribution events – Mandarin Orange and National Day Distributions. Through these events, our students learn to demonstrate the importance of caring, sharing and giving. Students are also given the opportunities to understand the community better and build relationships with people around them.
 
 <img src="/images/Curriculum/CCE/CCE%2017.jpeg"  
-     style="width:60%">
+     style="width:50%">
 
 <img src="/images/Curriculum/CCE/CCE%2018.jpeg"  
-     style="width:60%">
+     style="width:50%">
