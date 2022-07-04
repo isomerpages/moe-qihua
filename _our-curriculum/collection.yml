@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Science/Key Programmes.md
-      - Science/Vision & Mission.md
       - Science/.keep
+      - Science/Vision & Mission.md
+      - Science/Key Programmes.md
       - Mathematics/.keep
       - Mathematics/Vision & Mission.md
       - Mathematics/Key Programmes.md
