@@ -3,7 +3,9 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
->![](/images/Picture-1-min.jpg)
+><img src="/images/Picture-1-min.jpg"  
+     style="width:50%"
+			align="left"><br><br><br><br><br>
 >About Us
 
 **<font size=6>Principal's Message for 2022</font>**
