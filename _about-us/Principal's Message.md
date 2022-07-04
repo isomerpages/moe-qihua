@@ -11,7 +11,7 @@ description: ""
 <img src="/images/About%20Us/Mrs-Lee-365x600.jpeg"  
      style="width:25%"
 		 align="left">
-		 <br><br><br><br><br><br><br><br>
+		 <br><br><br><br><br><br><br><br><br><br>
 		 
 
 Dear parents,
