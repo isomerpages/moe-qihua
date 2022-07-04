@@ -45,13 +45,6 @@ Mother Tongue Language Fortnight aims to cultivate students’ interest in the l
      style="width:75%">
 <img src="/images/Curriculum/Chinese%207.jpeg"  
      style="width:75%">
-![](/images/Curriculum/Chinese%201.jpeg)
-![](/images/Curriculum/Chinese%202.jpeg)
-![](/images/Curriculum/Chinese%203.jpeg)
-![](/images/Curriculum/Chinese%204.jpeg)
-![](/images/Curriculum/Chinese%205.jpeg)
-![](/images/Curriculum/Chinese%206.jpeg)
-![](/images/Curriculum/Chinese%207.jpeg)
 
 **Enabling budding learners**
 
@@ -67,11 +60,18 @@ _**The key features include:**_
 ● Immersive language environment to enable students to learn MTL with confidence and joy.  
 ● Taught by specially trained Mother Tongue Language teachers.
 
-![](/images/Curriculum/Chinese%208.jpg)
-![](/images/Curriculum/Chinese%209.jpg)
-![](/images/Curriculum/Chinese%2010.jpg)
-![](/images/Curriculum/Chinese%2011.jpg)
-![](/images/Curriculum/Chinese%2012.jpg)
+
+<img src="/images/Curriculum/Chinese%208.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%209.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2010.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2011.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2012.jpg"  
+     style="width:75%">
+
 
 **Enriching the learning experiences**
 
@@ -88,15 +88,27 @@ b. A Recapitulation of Chinese Culture and History (中华文化)
 c. Chinese Oratorical Skill Training (口语训练)  
 d. Overseas Immersion Programme (for P5 level only) (五年级海外浸濡）
 
-![](/images/Curriculum/Chinese%2013.jpg)
-![](/images/Curriculum/Chinese%2014.jpg)
-![](/images/Curriculum/Chinese%2015.jpg)
-![](/images/Curriculum/Chinese%2016.jpg)
-![](/images/Curriculum/Chinese%2017.jpg)
-![](/images/Curriculum/Chinese%2018.jpg)
-![](/images/Curriculum/Chinese%2019.jpg)
-![](/images/Curriculum/Chinese%2020.jpg)
-![](/images/Curriculum/Chinese%2021.jpg)
+<img src="/images/Curriculum/Chinese%2012.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2013.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2014.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2015.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2016.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2017.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2018.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2019.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2020.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2021.jpg"  
+     style="width:75%">
+
 
 **Thumbs Up**
 
@@ -109,6 +121,9 @@ This programme aims to stretch students beyond school curriculum:
 ● Develop interests in CL  
 ● Exposure to current affairs, broaden their horizons.
 
-![](/images/Curriculum/Chinese%2022.jpg)
-![](/images/Curriculum/Chinese%2023.jpg)
-![](/images/Curriculum/Chinese%2024.jpg)
+<img src="/images/Curriculum/Chinese%2022.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2023.jpg"  
+     style="width:75%">
+<img src="/images/Curriculum/Chinese%2024.jpg"  
+     style="width:75%">
