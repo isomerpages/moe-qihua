@@ -1,7 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /about-us/
-    sublinks: []
+    collection: about-us
   - title: School Calendar
     url: /events
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Assessment & Awards Matters
+    collection: assessment-and-awards-matters
+  - title: Useful Information
+    collection: useful-information
