@@ -114,7 +114,9 @@ Champion in Community Service (ChiCS) is a programme that enables students to ex
   
 Mentors Uplift Me (MUM) is a mentoring programme which supports selected students through their primary school journey, tapping on the strength of strong TSR, committed teacher individuals and dedicated volunteers from our community partners.
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2013.png)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2013.png"  
+     style="width:30%">
+
 
 _**\*Photos taken before COVID-19**_
 
@@ -145,14 +147,18 @@ A room has been refurbished to be the place for students to do self-studying, re
 
 IBEEP received positive responses from the students. Through this platform, they have been supported in their journey of self-discovery. Being able to explore their interests has made coming to school so much more engaging and fun!
 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2014.jpg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2015.jpg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2016.jpg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2017.jpg"  
+     style="width:40%">
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2014.jpg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2015.jpg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2016.jpg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2017.jpg)
 
 
 _**\*Photos taken before COVID-19**_
