@@ -63,9 +63,13 @@ P4 students attended a Social Entrepreneurship Innovation Programme, Make-The-Ch
 
 Our P5 students discovered for themselves the magic of coding and the joy in inventing products of their imagination. During the project, our futuristic young wizards battled with time to innovate and invent products! They toggled with the micro:bit codings and brainstormed for ideas to build fitness products and design games for varying target groups. They whisked through the design thinking process to integrate micro:bit with their designs.
 
-![](/images/Programmes/ALP%209.jpg)
+<img src="/images/Programmes/ALP%209.jpg"  
+     style="width:50%">
 
-![](/images/Programmes/ALP%2010.jpeg)
+
+<img src="/images/Programmes/ALP%2010.jpeg"  
+     style="width:50%">
+
 
 **P5 – IvP (Innovation Programme)**
 
