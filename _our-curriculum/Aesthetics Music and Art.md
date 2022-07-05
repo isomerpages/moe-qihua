@@ -63,3 +63,22 @@ Museum Based Learning (MBL) is a compulsory module for all Primary 4 students. T
 **1)**     **P4 and 6 Digital Photography Workshop**
 
 Selected P4 and P6 students went through a Digital Photography workshop led by an experienced photographer. They had the opportunity to handle a DSLR camera, learn more about its functions and techniques on how to take creative photographs. The students had lots of fun discovering new things about photography and were given opportunities to put their skills to the test as they were assigned the role of the student photographer at school events.
+
+![](/images/Curriculum/Music%20And%20Art/Music%20and%20Art%209.jpg)
+
+![](/images/Curriculum/Music%20And%20Art/Music%20and%20Art%2010.jpg)
+
+![](/images/Curriculum/Music%20And%20Art/Music%20and%20Art%2011.jpg)
+
+* **Excel**
+    
+
+**1)**     **Young Illustrators – Collaboration with Xingnan Primary School and community partners**
+
+The project aims to engage aspiring young illustrators to come up with their own comic book based on their learning journey experience during the Jurong heritage tour.
+
+Working closely with the school’s art teachers and Illustrator, Mr Shum Kah Fai, who is trained in storyboarding and has illustrated a number of books for children’s writing, the young illustrators were guided through the processes in making a comic book. The book is expected to be published by the end of 2021.
+
+![](/images/Curriculum/Music%20And%20Art/Music%20and%20Art%2012.jpg)
+
+![](/images/Curriculum/Music%20And%20Art/Music%20and%20Art%2013.jpg)
