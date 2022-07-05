@@ -42,7 +42,11 @@ Another feature of the programme is that the EAGLETS Days are carried out both i
 
 Find out more about how this programme started in 2020 and how it is being carried out since then from our school e-newsletters:
 
+<br>
+
 **<font size=5> E NEWSLETTERS BELOW HERE THAT HAVE TO BE INSERTED BY SCHOOL</font>**
+
+<br>
 
 [QihuaConnect 2020 Issue 2](https://qihuapri.moe.edu.sg/wp-content/uploads/flipbook/2020_Issue_Two/mobile/index.html)
 
