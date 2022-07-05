@@ -47,11 +47,17 @@ Inter-disciplinary Project Work (IPW) for P3 , enabled students to acquire skill
 
 P4 students attended a Social Entrepreneurship Innovation Programme, Make-The-Change which helped students to recognise the various social issues faced in our communities. This programme inculcated positive values and habits through exposure to real life situations and case studies. Students were then given the opportunity to actualise their innovative solutions through a social campaign based on design thinking skills.
 
-![](/images/Programmes/ALP%206.jpg)
+<img src="/images/Programmes/ALP%206.jpg"  
+     style="width:40%">
 
-![](/images/Programmes/ALP%207.jpg)
 
-![](/images/Programmes/ALP%208.jpg)
+<img src="/images/Programmes/ALP%207.jpg"  
+     style="width:50%">
+
+
+<img src="/images/Programmes/ALP%208.jpg"  
+     style="width:50%">
+
 
 **P5 – Interdisciplinary Project Work (IPW) – Micro:bit**
 
