@@ -44,7 +44,7 @@ Find out more about how this programme started in 2020 and how it is being carri
 
 <br>
 
-**<font size=5> E NEWSLETTERS BELOW HERE THAT HAVE TO BE INSERTED BY SCHOOL</font>**
+**<font size=5> E NEWSLETTERS BELOW (CANT DOWNLOAD IT FROM ORIGINAL WEBSITE)</font>**
 
 <br>
 
