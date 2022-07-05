@@ -55,10 +55,10 @@ In promoting inclusivity of students with SEN and deepening the culture of care,
 As part of the school’s efforts to promote the message of anti-bullying, various activities were organised, targeting different groups of students. Students from IBEEP and selected student leaders participated in a workshop and camp as part of their learning and in empowering them, as anti-bullying advocates, to lead their peers in championing for a bully free zone. This group of students, together with some personnels from Singapore Children’s Society, organised an anti-bullying campaign and led in promoting bully-free messages to their peers. Awareness to the general student population was carried out through an assembly programme and activities that were planned during the different recesses.
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%205.jpg"  
-     style="width:40%">
+     style="width:50%">
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%206.jpg"  
-     style="width:40%">
+     style="width:50%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%207.jpg"  
      style="width:30%">
@@ -75,7 +75,7 @@ While striving for academic success, it is equally important to care for our stu
 As part of our continuing efforts, we conducted a 3-day workshop where students focused on reviewing their target setting and time management, as well as practising effective study skills. In the months to come, we will continue to support the students and motivate them. With determination and follow-through, the goals they have set for themselves can be achieved!
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%208.jpeg"  
-     style="width:40%">
+     style="width:50%">
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%209.jpeg"  
      style="width:30%">
@@ -88,13 +88,13 @@ As part of our continuing efforts, we conducted a 3-day workshop where students 
 From face-to-face sessions to online workshops, our prefects are continuously provided with opportunities to be trained and developed in their leadership qualities and skills. For example, the senior prefects from Primary 6, mentor and train the Primary 5 prefects to lead the school, especially for the morning assembly.It is hoped that this on-the-job training will hone their leadership qualities and skills further.
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2010.jpeg"  
-     style="width:40%">
+     style="width:45%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2011.jpeg"  
-     style="width:40%">
+     style="width:45%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2012.jpeg"  
-     style="width:40%">
+     style="width:45%">
 
 
 **Enriching the learning experiences**
@@ -115,7 +115,7 @@ Champion in Community Service (ChiCS) is a programme that enables students to ex
 Mentors Uplift Me (MUM) is a mentoring programme which supports selected students through their primary school journey, tapping on the strength of strong TSR, committed teacher individuals and dedicated volunteers from our community partners.
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2013.png"  
-     style="width:30%">
+     style="width:40%">
 
 
 _**\*Photos taken before COVID-19**_
@@ -148,16 +148,16 @@ A room has been refurbished to be the place for students to do self-studying, re
 IBEEP received positive responses from the students. Through this platform, they have been supported in their journey of self-discovery. Being able to explore their interests has made coming to school so much more engaging and fun!
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2014.jpg"  
-     style="width:40%">
+     style="width:55%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2015.jpg"  
-     style="width:40%">
+     style="width:55%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2016.jpg"  
      style="width:40%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2017.jpg"  
-     style="width:40%">
+     style="width:55%">
 
 
 
@@ -171,13 +171,13 @@ Qihua engaged Heartware Network, a charitable youth organisation, to provide tar
 The tuition programme aims to enhance academic interest and motivation in our graduating students. A select group of P6 students were selected to participate in the 2020 Heartware programme. Supported by student volunteers from tertiary institutions, our students had weekly coaching sessions for Math. The sessions not only helped to boost the self- esteem and confidence of our students, but the volunteers served as good role models to them.
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2018.jpg"  
-     style="width:40%">
+     style="width:55%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2019.jpg"  
      style="width:25%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2020.jpg"  
-     style="width:40%">
+     style="width:55%">
 		 
 
 **<font size=5>Service Leadership</font>**
@@ -195,10 +195,10 @@ As a Strategic Leader in Qihua, one aims to lead and inspire. Our Strategic Lead
 In line with WeCare @ North West – Service Weeks, North West CDC organised a festive distribution to needy families from 22 January to 07 February 2021. Each year, the NWCDC will distribute festive goodies bags for identified households and Qihua Primary School was part of the action in spreading festive cheers to our needy families this year. Selected Primary 6 student leaders and IBEEP students managed to pack 150 goodies bags in a record time of two hours! They worked as a team and enjoyed the experience in their effort to give back to the community.
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2021.jpg"  
-     style="width:40%">
+     style="width:45%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2022.jpg"  
-     style="width:40%">
+     style="width:45%">
 		 
 
 For their continuous effort and contribution, a ceremony called the Student Leaders’ Investiture is held yearly. This is held to reaffirm the commitment and recognise the contribution of our student leaders such as the prefects and Co-curricular leaders, in our school. Last year for the first time, we streamed the event to the whole school. During the investiture, we introduced our newly appointed prefects and the Prefect Executive Committee for 2021. We also acknowledge the contribution of our P6 prefects through the years that they had rendered their invaluable services to the school. To start off this memorable event, we had our former Head Prefect of 2019, Azizy, to share with us his experience as a leader in Qihua and how it has helped him grow as a leader in his current school. We had a special handing over ceremony where the current co-curricular leaders handed over a symbolic item, representing their CCAs, to the incumbent leaders.
@@ -206,16 +206,16 @@ For their continuous effort and contribution, a ceremony called the Student Lead
   
 We hope to inspire our students to be future leaders in their own rights, leading self and others.
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2023.jpg"  
-     style="width:40%">
+     style="width:50%">
+		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2024.jpg"  
-     style="width:40%">
+     style="width:50%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2025.jpg"  
-     style="width:40%">
+     style="width:50%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2026.jpg"  
-     style="width:40%">
+     style="width:50%">
 		 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2027.jpg"  
-     style="width:40%">
-		 
+     style="width:50%">
