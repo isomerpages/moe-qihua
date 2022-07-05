@@ -5,7 +5,7 @@ description: ""
 ---
 ><img src="/images/Programmes/EAGLETS 1.jpg"  
      style="width:50%"
-			align="left"><br><br><br><br><br><br><br><br><br><br>
+			align="left"><br><br><br><br><br><br><br>
 >Programmes
 
 **<font size=6>EAGLETS</font>**
