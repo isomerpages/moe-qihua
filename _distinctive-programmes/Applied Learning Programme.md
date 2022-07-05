@@ -5,7 +5,7 @@ description: ""
 ---
 ><img src="/images/Programmes/No-name.jpeg"  
      style="width:50%"
-			align="left"><br><br><br><br><br>
+			align="left"><br><br><br><br><br><br><br>
 >Applied Learning Programme
 
 **Innovation and Entrepreneurship Excellence Programme**
