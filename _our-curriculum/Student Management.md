@@ -102,6 +102,9 @@ From face-to-face sessions to online workshops, our prefects are continuously pr
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%2012.jpeg"  
      style="width:50%">
 
+<br>
+
+<br>
 
 **Enriching the learning experiences**
 
