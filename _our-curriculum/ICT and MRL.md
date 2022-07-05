@@ -39,7 +39,9 @@ ICLAP+ aims to enable students to
 ● select and put together different media elements to construct a digital artefact.  
 ● exchange digital information with other synchronously and asynchronously.
 
-![](/images/Curriculum/ICT%20MRL/ICT%20MRL%201.jpg)
+<img src="/images/Curriculum/ICT%20MRL/ICT%20MRL%201.jpg"  
+     style="width:50%">
+
 
 _**<center>An iClap+ lesson in a classroom</center>**_
 
@@ -53,7 +55,8 @@ These are the topics that will be covered:
 
 The programmes will be carried out on different platforms.
 
-![](/images/Curriculum/ICT%20MRL/ICT%20MRL%202.png)
+<img src="/images/Curriculum/ICT%20MRL/ICT%20MRL%202.png"
+     style="width:60%">
 
 Cyberwellness Programme aims to enable students to  
 ● recognise copyright regulations governing the use of digital information.  
