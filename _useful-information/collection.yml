@@ -2,5 +2,6 @@ collections:
   useful-information:
     output: true
     order:
+      - Parent Support Group/.keep
       - Schemes to Support SG Students/.keep
       - Student Wellness Resource/.keep
