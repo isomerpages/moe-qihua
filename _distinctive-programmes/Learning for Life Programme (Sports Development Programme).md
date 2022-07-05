@@ -38,11 +38,17 @@ Students compete in a series of games that require them to use the fundamental m
 
 All P3 to P6 students have the opportunity to take part in Inter-house games. Each level will have a friendly inter-house competition based on two or three sport(s) which they have learnt for the year. This is an extension of the school efforts to build positive student-teacher relationship and bonding among the students. Form Teachers will be present at the games to help organise and support the students. It is through such activities that talented players are also spotted by the relevant sports related CCA teachers. School values such as teamwork, integrity and resilience are emphasised in this programme.
 
-![](/images/Programmes/LLP%203.jpg)
+<img src="/images/Programmes/LLP%203.jpg"  
+     style="width:50%">
 
-![](/images/Programmes/LLP%204.jpg)
 
-![](/images/Programmes/LLP%205.jpg)
+<img src="/images/Programmes/LLP%204.jpg"  
+     style="width:50%">
+
+
+<img src="/images/Programmes/LLP%205.jpg"  
+     style="width:50%">
+
 
 3. **Sports Carnival**
 
