@@ -39,13 +39,16 @@ The Active Play Programme creates an avenue for students to stay active and enjo
 
 The Annual Sports Carnival is conducted to promote friendly competition among the four Houses, develop school values and values of fair play and good sportsmanship, promote healthy lifestyle and build strong positive bonds among students and between students and teachers. Students and teachers try out an array of sporting activities such as mini trampoline, inflatables, carnival games, sports tryout and PE challenge. Students are also reminded about the need to exhibit the school values during the activities. In addition, medals are awarded to students who set the best records for the PE challenge.
 
-![](/images/Curriculum/PE/PE%203.png)
+<img src="/images/Curriculum/PE/PE%203.png"  
+     style="width:60%">
 _**<center>Carnival games</center>**_
 
-![](/images/Curriculum/PE/PE%204.jpg)
+<img src="/images/Curriculum/PE/PE%204.jpg"  
+     style="width:60%">
 _**<center>Trampoline</center>**_
 
-![](/images/Curriculum/PE/PE%205.jpg)
+<img src="/images/Curriculum/PE/PE%205.jpg"  
+     style="width:60%">
 _**<center>VR</center>**_
 
 <br>
