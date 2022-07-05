@@ -90,8 +90,13 @@ P6 students participated in a 4-week I&E programme under the guidance of their t
 
 InnoJOY is a platform to showcase our students’ innovative works and develop their confidence and communication skills . Through this platform, the innovation and entrepreneurship spirit is encouraged among staff and students.
 
-![](/images/Programmes/ALP%2013.jpg)
+<img src="/images/Programmes/ALP%2013.jpg"  
+     style="width:50%">
 
-![](/images/Programmes/ALP%2014.jpg)
 
-![](/images/Programmes/ALP%2015.jpg)
+<img src="/images/Programmes/ALP%2014.jpg"  
+     style="width:50%">
+
+
+<img src="/images/Programmes/ALP%2015.jpg"  
+     style="width:50%">
