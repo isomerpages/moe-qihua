@@ -40,3 +40,5 @@ ICLAP+ aims to enable students to
 ● exchange digital information with other synchronously and asynchronously.
 
 ![](/images/Curriculum/ICT%20MRL/ICT%20MRL%201.jpg)
+
+_**<center>An iClap+ lesson in a classroom</center>**_
