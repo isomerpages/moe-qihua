@@ -31,7 +31,11 @@ One prominent feature of the programme is to devote time to build the S.O.A.R ha
 
 Another feature of the programme is that the EAGLETS Days are carried out both in school and at home. As students build familiarity and confidence in school, they will be in a better stead to manage their own learning at home. Through this programme, we hope that parents find that their children are more able to cope with HBL independently.
 
+<br>
+
 **<font size=5>INSERT VIDEO HERE</font>**
+
+<br>
 
 <iframe width="746" height="418" src="https://www.youtube.com/embed/wvHM_194SRE" title="EAGLETS@Qihua (720p)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
