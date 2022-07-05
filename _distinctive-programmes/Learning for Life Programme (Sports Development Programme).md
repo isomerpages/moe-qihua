@@ -54,13 +54,18 @@ All P3 to P6 students have the opportunity to take part in Inter-house games. Ea
 
 The Annual Sports Carnival is conducted to promote friendly competition among the four Houses, develop school values and values of fair play and good sportsmanship, promote healthy lifestyle and build strong positive bonds among students and between students and teachers. Students and teachers try out an array of sporting activities such as mini trampoline, inflatables, carnival games, sports tryout and PE challenge. Students are also reminded about the need to exhibit the school values during the activities. In addition, medals are awarded to students who set the best records for the PE challenge.
 
-![](/images/Programmes/LLP%206.png)
+<img src="/images/Programmes/LLP%206.png"  
+     style="width:50%">
 
-![](/images/Programmes/LLP%207.jpg)
+<img src="/images/Programmes/LLP%207.jpg"  
+     style="width:45%">
 
-![](/images/Programmes/LLP%208.jpg)
+<img src="/images/Programmes/LLP%208.jpg"  
+     style="width:50%">
 
-![](/images/Programmes/LLP%209.jpg)
+<img src="/images/Programmes/LLP%209.jpg"  
+     style="width:50%">
+
 
 **4\. Sports Camp**
 
