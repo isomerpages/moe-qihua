@@ -66,6 +66,9 @@ As part of the school’s efforts to promote the message of anti-bullying, vario
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%207.jpg"  
      style="width:30%">
 
+<br>
+
+<br>
 
 **<font size=5>Enabling budding learners</font>**
 
