@@ -54,11 +54,15 @@ In promoting inclusivity of students with SEN and deepening the culture of care,
   
 As part of the school’s efforts to promote the message of anti-bullying, various activities were organised, targeting different groups of students. Students from IBEEP and selected student leaders participated in a workshop and camp as part of their learning and in empowering them, as anti-bullying advocates, to lead their peers in championing for a bully free zone. This group of students, together with some personnels from Singapore Children’s Society, organised an anti-bullying campaign and led in promoting bully-free messages to their peers. Awareness to the general student population was carried out through an assembly programme and activities that were planned during the different recesses.
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%205.jpg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%205.jpg"  
+     style="width:40%">
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%206.jpg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%206.jpg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%207.jpg"  
+     style="width:30%">
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%207.jpg)
 
 **<font size=5>Enabling budding learners</font>**
 
@@ -70,9 +74,12 @@ While striving for academic success, it is equally important to care for our stu
 
 As part of our continuing efforts, we conducted a 3-day workshop where students focused on reviewing their target setting and time management, as well as practising effective study skills. In the months to come, we will continue to support the students and motivate them. With determination and follow-through, the goals they have set for themselves can be achieved!
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%208.jpeg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%208.jpeg"  
+     style="width:40%">
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%209.jpeg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%209.jpeg"  
+     style="width:30%">
+
 
 
 **Learning and Leading from within**
