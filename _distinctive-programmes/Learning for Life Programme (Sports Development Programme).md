@@ -68,4 +68,6 @@ The Sports camp aims to provide student athletes with real-life experiential lea
 
 ![](/images/Programmes/LLP%2015.jpeg)
 
-![](/images/Programmes/LLP%2016.jpg)
+![](/images/Programmes/LLP%2016.jpg
+
+\* _**Photos taken before COVID-19**_
