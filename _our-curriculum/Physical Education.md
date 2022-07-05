@@ -63,3 +63,50 @@ The annual Health Week features health quizzes, Milovan, Fruittie-Veggie Bite pr
 ![](/images/Curriculum/PE/PE%2010.jpeg)
 
 ![](/images/Curriculum/PE/PE%2011.jpeg)
+
+**_\*Photos taken before COVID-19_**
+
+**Enrich**
+
+
+**1) P1 and P2 Structured Play (EAGLETS day)**
+
+During the P1 and P2 structured play on EAGLETS day, students participate in a variety of sports which help in the development of numerous life skills. They learn to develop sports skills and inculcate school values, good habits and learning dispositions such as thinking independently., Students also gain understanding of the format and game rules along with the fundamental skills required for Floorball, Basketball, Sepak Takraw and Table Tennis through modified play. Through individual and group activities, students learn to be patient and resilient in the face of challenges, demonstrate team spirit and develop core values such as respect and self-discipline.
+
+![](/images/Curriculum/PE/PE%2012.png)
+
+![](/images/Curriculum/PE/PE%2013.png)
+
+**2) P3 Swimsafer Programme**
+
+All P3 students participated in this 8-week modular swimming programme to develop water competency in a fun and safe way. The SwimSafer programme consists of six progressive stages. Survival and activity skills are taught in each stage of the programme and students work progressively toward the next stage. At the end of the programme, students have a chance to earn a Swimsafer certificate if they pass both the practical and theory components successfully.
+
+![](/images/Curriculum/PE/PE%2014.jpeg)
+
+![](/images/Curriculum/PE/PE%2015.jpeg)
+
+**_\*Photos taken before COVID-19_**
+
+**3) P5 Camp**
+
+During the P5 annual camp, students participate in a variety of team-building and outdoor activities. Strong mutual support is developed among peers as students step out of their comfort zones to live independently for 3 days and 2 nights.
+
+![](/images/Curriculum/PE/PE%2016.jpeg)
+
+![](/images/Curriculum/PE/PE%2017.jpeg)
+
+**_\*Photos taken before COVID-19_**
+
+<br>
+
+**Excel**
+
+1) National Physical Fitness Award (P4 and P6)
+
+2) Junior Sports Academy
+
+3) External Sports Competition
+
+4) Direct School Admission (Singapore Sports School)
+
+5) National School Games
