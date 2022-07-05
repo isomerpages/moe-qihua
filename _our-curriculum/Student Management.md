@@ -147,3 +147,9 @@ _**\*Photos taken before COVID-19**_
   
 Qihua engaged Heartware Network, a charitable youth organisation, to provide targeted support to a small group of students. The selected lower primary students went through The Heartware Learning Together Programme where the volunteers used online platforms to engage students in one-on-one lessons to improve their literacy skills through language activities. Through these activities students expand their vocabulary, acquire comprehension skills and improve their reading ability. Volunteers use stories, songs, video clips to arouse interest and engage students.  
 The tuition programme aims to enhance academic interest and motivation in our graduating students. A select group of P6 students were selected to participate in the 2020 Heartware programme. Supported by student volunteers from tertiary institutions, our students had weekly coaching sessions for Math. The sessions not only helped to boost the self- esteem and confidence of our students, but the volunteers served as good role models to them.
+
+![](/images/Curriculum/Student%20Management/Stud%20Mag%2018.jpg)
+
+![](/images/Curriculum/Student%20Management/Stud%20Mag%2019.jpg)
+
+![](/images/Curriculum/Student%20Management/Stud%20Mag%2020.jpg)
