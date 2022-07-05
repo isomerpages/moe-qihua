@@ -48,6 +48,9 @@ In promoting inclusivity of students with SEN and deepening the culture of care,
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%204.jpg"  
      style="width:40%">
 
+<br>
+
+<br>
 
 **Bully Free Zone**
 
