@@ -3,7 +3,9 @@ title: Applied Learning Programme
 permalink: /programmes/alp/
 description: ""
 ---
->![](/images/Programmes/No-name.jpeg)
+
+><img src="/images/Programmes/No-name.jpeg"  
+     style="width:50%">
 >Applied Learning Programme
 
 **Innovation and Entrepreneurship Excellence Programme**
