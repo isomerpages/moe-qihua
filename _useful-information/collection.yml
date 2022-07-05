@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - P1 Registration.md
       - Leave of Absence (LOA).md
       - School Newsletter.md
       - School Notifications.md
