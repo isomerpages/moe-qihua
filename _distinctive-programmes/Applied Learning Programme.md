@@ -3,7 +3,6 @@ title: Applied Learning Programme
 permalink: /programmes/alp/
 description: ""
 ---
-
 ><img src="/images/Programmes/No-name.jpeg"  
      style="width:50%">
 >Applied Learning Programme
@@ -22,19 +21,27 @@ Through our ALP (Applied Learning Programme) – Innovation and Entrepreneurship
 
 Students learn different ways to solve the problems faced by the characters in fairy tales. Using Growth Mindset and design thinking skills, students think of solutions for the given challenges.
 
-![](/images/Programmes/ALP%201.jpeg)
+<img src="/images/Programmes/ALP%201.jpeg"  
+     style="width:50%">
 
-![](/images/Programmes/ALP%202.jpeg)
+<img src="/images/Programmes/ALP%202.jpeg"  
+     style="width:50%">
 
 **P3 Interdisciplinary Project Work (IPW) – Sail Car**
 
 Inter-disciplinary Project Work (IPW) for P3 , enabled students to acquire skills like design thinking, collaboration, communication and independent learning, Hence our budding Qihua engineers created, experimented and raced their unique designs in the classrooms.
 
-![](/images/Programmes/ALP%203.jpeg)
+<img src="/images/Programmes/ALP%203.jpeg"  
+     style="width:50%">
 
-![](/images/Programmes/ALP%204.jpeg)
 
-![](/images/Programmes/ALP%205.jpeg)
+<img src="/images/Programmes/ALP%204.jpeg"  
+     style="width:50%">
+
+
+<img src="/images/Programmes/ALP%205.jpeg"  
+     style="width:50%">
+
 
 **P4 – Make the Change**
 
