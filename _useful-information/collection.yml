@@ -2,4 +2,5 @@ collections:
   useful-information:
     output: true
     order:
+      - Schemes to Support SG Students/.keep
       - Student Wellness Resource/.keep
