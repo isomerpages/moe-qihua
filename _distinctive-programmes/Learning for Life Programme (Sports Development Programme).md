@@ -24,9 +24,13 @@ The SDP is anchored on school values and focuses on creating social interaction.
 
 Students compete in a series of games that require them to use the fundamental movement skills and modified games taught. School values such as teamwork, respect and resilience are emphasised.
 
-![](/images/Programmes/LLP%201.jpg)
+<img src="/images/Programmes/LLP%201.jpg"  
+     style="width:50%">
 
-![](/images/Programmes/LLP%202.jpg)
+
+<img src="/images/Programmes/LLP%202.jpg"  
+     style="width:50%">
+
 
 \*_**Photos taken before COVID-19**_
 
