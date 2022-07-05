@@ -2,12 +2,12 @@ collections:
   useful-information:
     output: true
     order:
-      - P1 Registration.md
-      - Leave of Absence (LOA).md
-      - School Newsletter.md
-      - School Notifications.md
-      - Information on (SEd) Programme 2022.md
-      - Useful Links.md
-      - Parent Support Group/.keep
-      - Schemes to Support SG Students/.keep
       - Student Wellness Resource/.keep
+      - Schemes to Support SG Students/.keep
+      - Parent Support Group/.keep
+      - Useful Links.md
+      - Information on (SEd) Programme 2022.md
+      - School Notifications.md
+      - School Newsletter.md
+      - Leave of Absence (LOA).md
+      - P1 Registration.md
