@@ -72,19 +72,27 @@ At Qihua Primary School, we want to promote the students’ computational thinki
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 311.625px;"><b style="box-sizing: inherit; font-weight: bold;">Level</b></td><td style="box-sizing: inherit; padding: 5px 10px; width: 480.6px;"><b style="box-sizing: inherit; font-weight: bold;">Programme</b></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 311.625px;"><span style="box-sizing: inherit; font-weight: 400;">Primary 4</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 480.6px;"><span style="box-sizing: inherit; font-weight: 400;">Code for Fun</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 311.625px;"><span style="box-sizing: inherit; font-weight: 400;">Primary 5</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 480.6px;"><span style="box-sizing: inherit; font-weight: 400;">Microbit Programming</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 311.625px;"><span style="box-sizing: inherit; font-weight: 400;">Primary 5</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 480.6px;"><span style="box-sizing: inherit; font-weight: 400;">Minecraft Education</span></td></tr></tbody></table>
 
-![](/images/Curriculum/ICT%20MRL/ICT%20MRL%203.jpg)
+<img src="/images/Curriculum/ICT%20MRL/ICT%20MRL%203.jpg"
+     style="width:50%">
+
 
 **_<center>Joy Of Learning Is Evidently Seen Here.</center>_**
 
-![](/images/Curriculum/ICT%20MRL/ICT%20MRL%204.jpg)
+<img src="/images/Curriculum/ICT%20MRL/ICT%20MRL%204.jpg"
+     style="width:50%">
+
 
 _**<center>Learning How To Code</center>**_
 
-![](/images/Curriculum/ICT%20MRL/ICT%20MRL%205.jpg)
+<img src="/images/Curriculum/ICT%20MRL/ICT%20MRL%205.jpg"
+     style="width:50%">
+
 
 _**<center>Problem Solving Skills At Work</center>**_
 
-![](/images/Curriculum/ICT%20MRL/ICT%20MRL%206.jpg)
+<img src="/images/Curriculum/ICT%20MRL/ICT%20MRL%206.jpg"
+     style="width:50%">
+
 
 _**<center>Programming A Ball To Play Simple Games</center>**_
 
