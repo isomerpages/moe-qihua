@@ -71,18 +71,32 @@ The Annual Sports Carnival is conducted to promote friendly competition among th
 
 The Sports camp aims to provide student athletes with real-life experiential learning to develop their character and values, cultivate positive attitudes and life skills. Team building activities, learning journeys and sports preparatory workshops foster team spirit and camaraderie among student athletes in the various Sports CCAs. In addition through the Sports camp, student athletes build up confidence and resilience, develop leadership skills and acquire life skills and knowledge to better prepare themselves physically and mentally for competitions which allow them to expand their skills to be a well-rounded athlete.
 
-![](/images/Programmes/LLP%2010.jpg)
+<img src="/images/Programmes/LLP%2010.jpg"  
+     style="width:45%">
 
-![](/images/Programmes/LLP%2011.jpg)
 
-![](/images/Programmes/LLP%2012.jpg)
+<img src="/images/Programmes/LLP%2011.jpg"  
+     style="width:50%">
 
-![](/images/Programmes/LLP%2013.jpg)
 
-![](/images/Programmes/LLP%2014.jpg)
+<img src="/images/Programmes/LLP%2012.jpg"  
+     style="width:50%">
 
-![](/images/Programmes/LLP%2015.jpeg)
 
-![](/images/Programmes/LLP%2016.jpg
+<img src="/images/Programmes/LLP%2013.jpg"  
+     style="width:45%">
+
+
+<img src="/images/Programmes/LLP%2014.jpg"  
+     style="width:50%">
+
+
+<img src="/images/Programmes/LLP%2015.jpeg"  
+     style="width:50%">
+
+
+<img src="/images/Programmes/LLP%2016.jpg"  
+     style="width:45%">
+		 
 
 \* _**Photos taken before COVID-19**_
