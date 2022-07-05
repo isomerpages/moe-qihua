@@ -39,7 +39,11 @@ Students have embarked on a journey to learn about the Growth mindset through ga
 
 <img src="/images/Curriculum/Student%20Management/Stud%20Mag%203.jpeg"  
      style="width:60%">
-		 
+
+<br>
+
+<br>
+
 **Inclusivity Education in PSR**
 
   
