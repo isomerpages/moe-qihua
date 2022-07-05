@@ -21,7 +21,7 @@ The school introduced the EAGLETS – Empowering All Growing LEarners To Soar pr
 One prominent feature of the programme is to devote time to build the S.O.A.R habits – Set goals, Organise time, Act responsibly, Reflect deeply. Students begin each EAGLETS Day by learning to set learning goals and plan their personal learning timetable. At the end of the day, they reflect on what they have learned and how they can learn better. The teachers have tried their best to imbue discipline among our students with these learning habits, which we believe will set them up for independent learning.
 
 <img src="/images/Programmes/EAGLETS%201.jpg"  
-     style="width:50%">
+     style="width:60%">
 
 <img src="/images/Programmes/EAGLETS%202.jpeg"  
      style="width:40%">
