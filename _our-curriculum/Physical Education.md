@@ -28,9 +28,12 @@ To nurture in pupils knowledge, skills, healthy practices and values which are e
 
 The Active Play Programme creates an avenue for students to stay active and enjoy unstructured play time during recess. Activities include playing badminton, target-throwing and kicking chapteh. In the process, students learn how to organise their own play and also inculcate values of care and responsibility through organising, wiping down and arranging the equipment prior to returning.
 
-![](/images/Curriculum/PE/PE%201.png)
+<img src="/images/Curriculum/PE/PE%201.png"  
+     style="width:60%">
 
-![](/images/Curriculum/PE/PE%202.png)
+<img src="/images/Curriculum/PE/PE%202.png"  
+     style="width:60%">
+
 
 **2) Sports Carnival**
 
