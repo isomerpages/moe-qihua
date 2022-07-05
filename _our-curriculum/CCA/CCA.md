@@ -21,4 +21,5 @@ Qihuaians will discover their interests and talents, develop CCA-specific knowle
 
 **The CCA Framework (Engage-Enrich-Excel) guides the school in the development of students through co-curricular activities (CCA).**
 
-![](/images/Curriculum/CCA/3E-for-CCA-600x473.jpg)
+<img src="/images/Curriculum/CCA/3E-for-CCA-600x473.jpg"  
+     style="width:45%">
