@@ -75,9 +75,12 @@ Our P5 students discovered for themselves the magic of coding and the joy in inv
 
 Twenty of our Primary 5 students took part in IvP (Innovation Programme), a eight-month programme overseen by the MOE GEP branch. Guided by their teacher mentors, the students learnt skills which included problem-finding, idea generation and prototyping.
 
-![](/images/Programmes/ALP%2011.jpg)
+<img src="/images/Programmes/ALP%2011.jpg"  
+     style="width:50%">
 
-![](/images/Programmes/ALP%2012.jpg)
+<img src="/images/Programmes/ALP%2012.jpg"  
+     style="width:50%">
+
 
 **P6 – Bizkid$**
 
