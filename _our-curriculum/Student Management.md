@@ -120,6 +120,9 @@ Mentors Uplift Me (MUM) is a mentoring programme which supports selected student
 
 _**\*Photos taken before COVID-19**_
 
+<br>
+
+<br>
 
 **Interest-Based Experiential Elective Programme (IBEEP)**
 
