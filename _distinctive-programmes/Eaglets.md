@@ -22,7 +22,9 @@ One prominent feature of the programme is to devote time to build the S.O.A.R ha
 
 ![](/images/Programmes/EAGLETS%201.jpg)
 
-![](/images/Programmes/EAGLETS%202.jpeg)
+<img src="/images/Programmes/EAGLETS%202.jpeg"  
+     style="width:40%">
+
 
 **EAGLETS in school and at home**
 
