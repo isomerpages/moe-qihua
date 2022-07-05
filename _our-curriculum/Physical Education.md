@@ -29,10 +29,10 @@ To nurture in pupils knowledge, skills, healthy practices and values which are e
 The Active Play Programme creates an avenue for students to stay active and enjoy unstructured play time during recess. Activities include playing badminton, target-throwing and kicking chapteh. In the process, students learn how to organise their own play and also inculcate values of care and responsibility through organising, wiping down and arranging the equipment prior to returning.
 
 <img src="/images/Curriculum/PE/PE%201.png"  
-     style="width:60%">
+     style="width:50%">
 
 <img src="/images/Curriculum/PE/PE%202.png"  
-     style="width:60%">
+     style="width:50%">
 
 
 **2) Sports Carnival**
@@ -40,15 +40,15 @@ The Active Play Programme creates an avenue for students to stay active and enjo
 The Annual Sports Carnival is conducted to promote friendly competition among the four Houses, develop school values and values of fair play and good sportsmanship, promote healthy lifestyle and build strong positive bonds among students and between students and teachers. Students and teachers try out an array of sporting activities such as mini trampoline, inflatables, carnival games, sports tryout and PE challenge. Students are also reminded about the need to exhibit the school values during the activities. In addition, medals are awarded to students who set the best records for the PE challenge.
 
 <img src="/images/Curriculum/PE/PE%203.png"  
-     style="width:60%">
+     style="width:50%">
 _**<center>Carnival games</center>**_
 
 <img src="/images/Curriculum/PE/PE%204.jpg"  
-     style="width:60%">
+     style="width:50%">
 _**<center>Trampoline</center>**_
 
 <img src="/images/Curriculum/PE/PE%205.jpg"  
-     style="width:60%">
+     style="width:50%">
 _**<center>VR</center>**_
 
 <br>
@@ -59,26 +59,26 @@ _**<center>VR</center>**_
 The annual Health Week features health quizzes, Milovan, Fruittie-Veggie Bite programme, health tips, assembly talks and Anti-drug Ambassador activities. The objectives of Health Week are to educate students about pertinent health topics in a holistic manner and to reinforce positive health behaviour.
 
 <img src="/images/Curriculum/PE/PE%206.jpeg"  
-     style="width:60%">
+     style="width:50%">
 
 <img src="/images/Curriculum/PE/PE%207.jpeg"  
-     style="width:60%">
-
-
-<img src="/images/Curriculum/PE/PE%208.jpeg"  
      style="width:50%">
 
 
+<img src="/images/Curriculum/PE/PE%208.jpeg"  
+     style="width:30%">
+
+
 <img src="/images/Curriculum/PE/PE%209.jpeg"  
-     style="width:60%">
+     style="width:50%">
 
 
 <img src="/images/Curriculum/PE/PE%2010.jpeg"  
-     style="width:60%">
+     style="width:50%">
 
 
 <img src="/images/Curriculum/PE/PE%2011.jpeg"  
-     style="width:60%">
+     style="width:50%">
 
 
 **_\*Photos taken before COVID-19_**
@@ -103,11 +103,11 @@ During the P1 and P2 structured play on EAGLETS day, students participate in a v
 All P3 students participated in this 8-week modular swimming programme to develop water competency in a fun and safe way. The SwimSafer programme consists of six progressive stages. Survival and activity skills are taught in each stage of the programme and students work progressively toward the next stage. At the end of the programme, students have a chance to earn a Swimsafer certificate if they pass both the practical and theory components successfully.
 
 <img src="/images/Curriculum/PE/PE%2014.jpeg"  
-     style="width:60%">
+     style="width:50%">
 
 
 <img src="/images/Curriculum/PE/PE%2015.jpeg"  
-     style="width:60%">
+     style="width:50%">
 
 
 **_\*Photos taken before COVID-19_**
@@ -117,10 +117,10 @@ All P3 students participated in this 8-week modular swimming programme to develo
 During the P5 annual camp, students participate in a variety of team-building and outdoor activities. Strong mutual support is developed among peers as students step out of their comfort zones to live independently for 3 days and 2 nights.
 
 <img src="/images/Curriculum/PE/PE%2016.jpeg"  
-     style="width:60%">
+     style="width:50%">
 
 <img src="/images/Curriculum/PE/PE%2017.jpeg"  
-     style="width:60%">
+     style="width:45%">
 
 
 **_\*Photos taken before COVID-19_**
