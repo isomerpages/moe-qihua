@@ -181,7 +181,6 @@ _**\*Photos taken before COVID-19**_
 
 <br>
 
-<br>
   
 **Heartware Reading and Tuition Programme**
 
