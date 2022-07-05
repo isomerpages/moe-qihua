@@ -193,6 +193,10 @@ The tuition programme aims to enhance academic interest and motivation in our gr
 
 Voice of Qihua is a platform for students to voice out their thoughts and give them a sense of ownership towards the development of the school. Once a term, selected prefects present a problem that they have noticed around the school and share their observation during assembly. They then guide their peers to provide solutions and those that can be implemented will be shared with the school.
 
+<br>
+
+<br>
+
 **Strategic Student Leadership**
 
   
