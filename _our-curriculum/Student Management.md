@@ -194,21 +194,28 @@ As a Strategic Leader in Qihua, one aims to lead and inspire. Our Strategic Lead
 
 In line with WeCare @ North West – Service Weeks, North West CDC organised a festive distribution to needy families from 22 January to 07 February 2021. Each year, the NWCDC will distribute festive goodies bags for identified households and Qihua Primary School was part of the action in spreading festive cheers to our needy families this year. Selected Primary 6 student leaders and IBEEP students managed to pack 150 goodies bags in a record time of two hours! They worked as a team and enjoyed the experience in their effort to give back to the community.
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2021.jpg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2022.jpg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2021.jpg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2022.jpg"  
+     style="width:40%">
+		 
 
 For their continuous effort and contribution, a ceremony called the Student Leaders’ Investiture is held yearly. This is held to reaffirm the commitment and recognise the contribution of our student leaders such as the prefects and Co-curricular leaders, in our school. Last year for the first time, we streamed the event to the whole school. During the investiture, we introduced our newly appointed prefects and the Prefect Executive Committee for 2021. We also acknowledge the contribution of our P6 prefects through the years that they had rendered their invaluable services to the school. To start off this memorable event, we had our former Head Prefect of 2019, Azizy, to share with us his experience as a leader in Qihua and how it has helped him grow as a leader in his current school. We had a special handing over ceremony where the current co-curricular leaders handed over a symbolic item, representing their CCAs, to the incumbent leaders.
 
   
 We hope to inspire our students to be future leaders in their own rights, leading self and others.
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2023.jpg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2024.jpg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2025.jpg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2026.jpg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2027.jpg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2023.jpg"  
+     style="width:40%">
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2024.jpg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2025.jpg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2026.jpg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2027.jpg"  
+     style="width:40%">
+		 
