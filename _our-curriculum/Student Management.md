@@ -30,19 +30,24 @@ To develop self-discipline in all Qihuaians.
 
 Students have embarked on a journey to learn about the Growth mindset through game play in the morning. Pre-morning game sessions have been developed to help students discover the differences between Growth and Fixed mindsets. Through discovering the differences, the students will understand that they have a choice to adopt a Growth mindset. Individuals with growth mindsets are more likely to embrace challenges, persevere in the face of obstacles and as a result, they can achieve more.
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%201.jpeg)
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%202.jpeg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%201.jpeg"  
+     style="width:60%">
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%203.jpeg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%202.jpeg"  
+     style="width:60%">
 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%203.jpeg"  
+     style="width:60%">
+		 
 **Inclusivity Education in PSR**
 
   
 In promoting inclusivity of students with SEN and deepening the culture of care, inclusive education is driven through our Peer Support and Relationship programme (PSR). PSR is an all-year programme where lessons are carried out during CCE, FTGP and termly Start It Right (SIR) sessions. Storytelling approach is adopted to promote PSR messages and social skills during SIR.
 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%204.jpg"  
+     style="width:40%">
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%204.jpg)
 
 **Bully Free Zone**
 
