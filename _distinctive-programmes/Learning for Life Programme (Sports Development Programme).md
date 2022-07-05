@@ -5,7 +5,7 @@ description: ""
 ---
 ><img src="/images/Programmes/LLP.jpg"  
      style="width:40%"
-			align="left"><br><br><br><br><br><br><br><br><br><br><br><br>
+			align="left"><br><br><br><br><br><br><br><br><br><br>
 >Programmes
 
 **<font size=6>Learning for Life Programme</font>**
