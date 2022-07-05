@@ -56,7 +56,7 @@ These are the topics that will be covered:
 The programmes will be carried out on different platforms.
 
 <img src="/images/Curriculum/ICT%20MRL/ICT%20MRL%202.png"
-     style="width:60%">
+     style="width:80%">
 
 Cyberwellness Programme aims to enable students to  
 ● recognise copyright regulations governing the use of digital information.  
