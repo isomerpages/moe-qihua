@@ -87,11 +87,15 @@ As part of our continuing efforts, we conducted a 3-day workshop where students 
   
 From face-to-face sessions to online workshops, our prefects are continuously provided with opportunities to be trained and developed in their leadership qualities and skills. For example, the senior prefects from Primary 6, mentor and train the Primary 5 prefects to lead the school, especially for the morning assembly.It is hoped that this on-the-job training will hone their leadership qualities and skills further.
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2010.jpeg)
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2010.jpeg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2011.jpeg"  
+     style="width:40%">
+		 
+<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2012.jpeg"  
+     style="width:40%">
 
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2011.jpeg)
-
-![](/images/Curriculum/Student%20Management/Stud%20Mag%2012.jpeg)
 
 **Enriching the learning experiences**
 
