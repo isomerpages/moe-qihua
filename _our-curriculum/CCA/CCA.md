@@ -10,7 +10,7 @@ third_nav_title: CCA
 >Our Curriculum
 
 
-**<font size=5>CCA<font>**
+**<font size=5>CCA</font>**
 	
 
 **Vision**  
