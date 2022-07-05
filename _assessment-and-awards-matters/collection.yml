@@ -1,4 +1,5 @@
 collections:
   assessment-and-awards-matters:
     output: true
-    order: []
+    order:
+      - School Based Assessment.md
