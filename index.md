@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/Homepage GIF.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: EAGLETS
+          description: Click to find out more
+          url: /about-us/eaglets/
+        - title: Applied Learning Programme
+          description: Click to find out more
+          url: /programmes/alp/
+        - title: Learning for Life Programme
+          description: Click to find out more
+          url: /programmes/llp/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
