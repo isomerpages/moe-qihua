@@ -19,19 +19,21 @@ MOE uses the CW framework to develop the child’s instinct to protect and empow
 
 Manage your time spent on online activities.
 
-![](/images/Useful%20Links/Cyberwellness%201.jpg)
+<img src="/images/Useful%20Links/Cyberwellness%201.jpg" 
+     style="width:60%">
+
 
 **Tips on Netiquette**
 
-![](/images/Useful%20Links/Cyberwellness%202.jpg)
+<img src="/images/Useful%20Links/Cyberwellness%202.jpg" 
+     style="width:60%">
 
 Cw2
 
 **Common forms of Cyberbullying**
-![](/images/Useful%20Links/Cyberwellness%203.jpg)
+<img src="/images/Useful%20Links/Cyberwellness%203.jpg" 
+     style="width:60%">
 
 Managing Cyberbullying
-
-![](/images/Useful%20Links/Cyberwellness%204.png)
-
-
+<img src="/images/Useful%20Links/Cyberwellness%204.png" 
+     style="width:60%">
