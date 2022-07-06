@@ -29,4 +29,4 @@ Woodlands MRT (NS9)
 911
 
 <img src="/images/Contact%20Us%201.png"  
-     style="width:50%">
+     style="width:45%">
