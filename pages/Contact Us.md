@@ -5,7 +5,7 @@ description: ""
 ---
 INSERT ONEMAP HERE
 
-**Qihua Primary School**
+**<font size=6>Qihua Primary School</font>**
 
 Address<br>
 5 Woodlands Street 81 S(738525)
