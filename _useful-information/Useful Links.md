@@ -30,15 +30,14 @@ to support their children’s learning at home.
 
 **Admission to QHPS**
 
-[Application\_admission \[Fillable\]](https://qihuapri.moe.edu.sg/wp-content/uploads/2019/06/Application_admission-Fillable.pdf)
+[Application\_admission \[Fillable\]](/files/Application_admission-Fillable.pdf)
 
-#### 
 
 **Qihua Primary School Library OPAC System**
 
 Click [here](https://schoolibrary.spydus.com.sg/qihuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to access the system
 
-#### 
+
 
 **PSLE 2021 New Scoring System and Secondary School Selection**
 
