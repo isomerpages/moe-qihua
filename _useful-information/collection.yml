@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Student Wellness Resource/Student Wellness Resource Links.md
       - Student Wellness Resource/.keep
       - Schemes to Support SG Students/.keep
       - Parent Support Group/.keep
