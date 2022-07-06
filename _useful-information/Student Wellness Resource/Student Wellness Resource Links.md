@@ -9,8 +9,8 @@ third_nav_title: Student Wellness Resource
 
 **<font size=6>Student Wellness Resource</font>**
 
-[Exercises](https://qihuapri.moe.edu.sg/exercises/)
+[Exercises](https://moe-qihua-staging.netlify.app/exercises/)
 
-[Eye Care](https://qihuapri.moe.edu.sg/eye-care/)
+[Eye Care](https://moe-qihua-staging.netlify.app/eye-care/)
 
-[HE Buzz](https://qihuapri.moe.edu.sg/he-buzz/)
+[HE Buzz](https://moe-qihua-staging.netlify.app/he-buzz/)
