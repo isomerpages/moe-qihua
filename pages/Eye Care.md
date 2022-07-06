@@ -16,3 +16,10 @@ description: ""
 4) Adjust the contrast and brightness on your screen settings to reduce glare and to a level that is comfortable for you
 
 5) Eat a balanced diet
+
+**<font size=5>MISSING VIDEO</font>**
+
+
+**Eye Exercise:** Play the above video and follow the exercises to improve your eyesight.
+
+\*Please stop and rest if you feel tired or unwell and seek help from parents or adults immediately…
