@@ -9,4 +9,6 @@ third_nav_title: Parent Support Group
 			align="left"><br><br><br><br><br><br>
 >Parent Support Group
 
+**<font size=5>Parent Support Group</font>**
+
 Download the [PSG handbook](/files/PSG_Handbook_2012.pdf) here.
