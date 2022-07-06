@@ -22,6 +22,7 @@ Follow the workout videos.
 
 \*Please stop and rest if you feel tired, breathless or unwell and seek help from parents or adults immediately.
 
+<center>
 <iframe width="556" height="310" src="https://www.youtube.com/embed/FB5-7tIiX-I" title="12 Easy Exercises For Kids At Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="556" height="310" src="https://www.youtube.com/embed/N5gX--B1jIc" title="Kids Exercise: Burn Fat in 10 Minutes!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,6 +32,6 @@ Follow the workout videos.
 <iframe width="556" height="310" src="https://www.youtube.com/embed/FaC-DVQy2Aw" title="Kids Workout: 30 Day Challenge Weight Loss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="556" height="310" src="https://www.youtube.com/embed/OoG005_yvQg" title="9 Best Standing Exercises For Kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-               
+</center>               
 							 
 **<center>HAVE FUN, CHILDREN!</center>**
