@@ -10,7 +10,9 @@ description: ""
 
 **<font size=5>P1 Registration</font>**
 
-![](/images/Useful%20Links/P1-Registration-2021-768x831.jpg)
+<img src="/images/Useful%20Links/P1-Registration-2021-768x831.jpg"  
+     style="width:75%">
+
 
 
 For more information, click [here.](https://www.moe.gov.sg/primary/p1-registration)
