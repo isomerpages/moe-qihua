@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Student Wellness Resource/Cyberwellness.md
       - Student Wellness Resource/Healthy Living Habits.md
       - Student Wellness Resource/School Bag and Back Care Advice.md
       - Student Wellness Resource/Student Wellness Resource Links.md
