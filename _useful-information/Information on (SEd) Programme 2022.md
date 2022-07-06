@@ -210,7 +210,7 @@ Pupils are to play the role of a game designer who wants to create a board game 
 
 1)   Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-2 ) Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at on 10 January 2022 and is also downloadable [here](https://qihuapri.moe.edu.sg/wp-content/uploads/2022/01/GYP-Opt-out-form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office **by 17/01/2022.**
+2 ) Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at on 10 January 2022 and is also downloadable [here](/files/GYP-Opt-out-form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office **by 17/01/2022.**
 
 3)   Parents can contact the school, Mrs Mani , at [catherine\_vijaya@moe.edu.sg](mailto:catherine_vijaya@moe.edu.sg), telephone number: 62696250 for discussion or to seek clarification about the school’s sexuality education programme.
 
