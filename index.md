@@ -19,9 +19,7 @@ sections:
           description: Click to find out more
           url: /programmes/llp/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Contact Us
+      button: Click here
+      url: /contact-us
 ---
