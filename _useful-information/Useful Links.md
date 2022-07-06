@@ -20,13 +20,11 @@ to support their children’s learning at home.
 
 [School bag](https://www.schoolbag.edu.sg/)
 
-#### 
 
 **NLB website**
 
-##### Click [here](https://childrenandteens.nlb.gov.sg/).
+**Click** [here](https://childrenandteens.nlb.gov.sg/).
 
-#### 
 
 **Admission to QHPS**
 
