@@ -31,20 +31,21 @@ SFE has been well received by parents and participating schools. Since 2002, 222
 *   Learn positive and effective skills to improve child-parent relationships.
 
 <img src="/images/Useful%20Links/SFE%201.jpg"  
-     style="width:75%">
+     style="width:40%">
 
 <img src="/images/Useful%20Links/SFE%202.jpg"  
-     style="width:75%">
+     style="width:40%">
 		 
 <img src="/images/Useful%20Links/SFE%203.jpg"  
-     style="width:75%">
+     style="width:40%">
 
 <img src="/images/Useful%20Links/SFE%204.jpg"  
-     style="width:75%">
+     style="width:40%">
 
-![](/images/Useful%20Links/SFE%201.jpg)
-![](/images/Useful%20Links/SFE%202.jpg)
-![](/images/Useful%20Links/SFE%203.jpg)
-![](/images/Useful%20Links/SFE%204.jpg)
-![](/images/Useful%20Links/SFE%205.jpg)
-![](/images/Useful%20Links/SFE%206.jpg)
+<img src="/images/Useful%20Links/SFE%205.jpg"  
+     style="width:75%">
+		 
+<img src="/images/Useful%20Links/SFE%206.jpg"  
+     style="width:75%">
+		 
+		 
