@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage GIF.gif
+      background: /images/Homepage GIF 2.gif
       key_highlights:
         - title: EAGLETS
           description: Click to find out more
