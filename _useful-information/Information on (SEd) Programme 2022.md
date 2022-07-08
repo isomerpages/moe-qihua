@@ -6,7 +6,7 @@ description: ""
 ><img src="/images/Useful%20Links/Picture-6-scaled.jpg"  
      style="width:50%"
 			align="left"><br><br><br><br><br><br>
->Useful Links
+>Useful Information
 
 **<font size=5>Information on Sexuality Education (SEd) Programme 2022</font>**
 
