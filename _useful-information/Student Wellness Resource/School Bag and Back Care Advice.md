@@ -9,7 +9,7 @@ third_nav_title: Student Wellness Resource
 			align="left"><br><br><br><br><br><br>
 >Student Wellness Resource
 
-**<font size=5>School Bag and Back Care Advice</font>**
+**<font size=6>School Bag and Back Care Advice</font>**
 
 The school takes the well-being and physical development of students seriously and proactively guides students in lightening their school bags.
 
