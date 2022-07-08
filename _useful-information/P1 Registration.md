@@ -6,9 +6,9 @@ description: ""
 ><img src="/images/Useful%20Links/Picture-6-scaled.jpg"  
      style="width:50%"
 			align="left"><br><br><br><br><br><br>
->Useful Links
+>Useful Information
 
-**<font size=5>P1 Registration</font>**
+**<font size=6>P1 Registration</font>**
 
 <img src="/images/Useful%20Links/P1-Registration-2021-768x831.jpg"  
      style="width:75%">
