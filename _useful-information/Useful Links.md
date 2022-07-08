@@ -6,9 +6,9 @@ description: ""
 ><img src="/images/Useful%20Links/Picture-6-scaled.jpg"  
      style="width:50%"
 			align="left"><br><br><br><br><br><br>
->Useful Links
+>Useful Information
 
-**<font size=5>Useful Information</font>**
+**<font size=6>Useful Links</font>**
 
 **Parents in Education (PiE)**
 
