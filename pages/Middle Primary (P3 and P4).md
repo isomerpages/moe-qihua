@@ -34,4 +34,4 @@ Follow the workout videos.
 
 <iframe width="556" height="310" src="https://www.youtube.com/embed/rRt3tXSg-U8" title="National Steps Challenge™ presents The Greater Singapore Workout!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<center>**HAVE FUN, CHILDREN!**<center>
+**<center>HAVE FUN, CHILDREN!</center>**
