@@ -44,9 +44,11 @@ Find out more about how this programme started in 2020 and how it is being carri
 
 <br>
 
-**<font size=5> E NEWSLETTERS BELOW (CANT DOWNLOAD IT FROM ORIGINAL WEBSITE)</font>**
+**<font size=5> E NEWSLETTERS BELOW</font>**
 
 <br>
+
+**<font size=5>Flipbook files below are hosted under current school website</font>**
 
 [QihuaConnect 2020 Issue 2](https://qihuapri.moe.edu.sg/wp-content/uploads/flipbook/2020_Issue_Two/mobile/index.html)
 
