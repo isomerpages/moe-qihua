@@ -15,5 +15,6 @@ Singapore Citizen and Permanent Resident who are planning to go overseas for wor
 Applicants are to complete the LOA application form via the following FormSG link and contact the school on the outcome and LOA fees.
 
 [https://form.gov.sg/60b9ccff6995cb00125eb886](https://form.gov.sg/60b9ccff6995cb00125eb886)
+**(replace form link with [go.gov.sg](http://go.gov.sg/) if possible)**
 
 More information may be obtained on MOE’s website: [https://www.moe.gov.sg/returning-singaporeans](https://www.moe.gov.sg/returning-singaporeans)
