@@ -30,7 +30,7 @@ Follow the workout videos.
 
 <iframe width="556" height="310" src="https://www.youtube.com/embed/uyJe6KJ-LaQ" title="Because It's Singapore! | National Day Parade 2017 theme song | GetActive! Singapore 2017 Workout" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="556" height="310" src="https://www.youtube.com/embed/3YMDVTvLbtY" title="We Rock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3YMDVTvLbtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="556" height="310" src="https://www.youtube.com/embed/rRt3tXSg-U8" title="National Steps Challenge™ presents The Greater Singapore Workout!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
