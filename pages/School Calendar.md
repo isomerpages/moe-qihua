@@ -1,6 +1,6 @@
 ---
 title: School Calendar
-permalink: /events
+permalink: /events/
 description: ""
 ---
 ><img src="/images/Picture-1-min.jpg"  
