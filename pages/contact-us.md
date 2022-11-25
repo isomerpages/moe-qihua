@@ -10,7 +10,7 @@ locations:
       - Singapore 738525
     operating_hours:
       - days: Mon - Fri
-        time: 7.30am to 5pm
+        time: 7am to 5pm
         description: Closed on Public Holidays
     maps_link: ""
     title: Location
