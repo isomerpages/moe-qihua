@@ -7,23 +7,35 @@ description: ""
 
 [Qihua Connect 2022/2](https://online.flipbuilder.com/zlpi/arcn/)
 
-<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
-![](/images/Useful%20Links/qihua%20connect%202.jpg)
+<img src="/images/Useful Links/qihua connect 2.jpg" style="width:180px;height:250px;">
+
 
 **2022/1**
 
 [Qihua Connect 2022/1](https://online.flipbuilder.com/zlpi/arcn/)
 
-![](/images/Useful%20Links/Newsletter%20Image%201.jpeg)
+<img src="/images/Useful Links/Newsletter Image 1.jpeg" style="width:180px;height:250px;">
+<BR>
+<BR>
 
 **2021/2**
 
 [Qihua Connect 2021/2](https://qihuapri.ready.sg/2021-2/Qihua%20Primary%20School%20eNewsletter%202021b.html)
 
-![](/images/Useful%20Links/Newsletter%20Image%202.jpg)
+<BR>
+<img src="/images/Useful Links/Newsletter Image 2.jpg" style="width:180px;height:250px;">
+
+<BR>
+<BR>
 
 **2021/1**
 
 [Qihua Connect 2021/1](https://qihuapri.ready.sg/2021-1/Qihua%20Primary%20School%20eNewsletter%202021a.html)
 
-![](/images/Useful%20Links/Newsletter%20Image%203.jpg)
+<BR>
+<img src="/images/Useful Links/Newsletter Image 3.jpg" style="width:180px;height:250px;">
+
+<BR>
+<BR>
+
+
