@@ -33,7 +33,7 @@ to support their children’s learning at home.
 
 **Qihua Primary School Library OPAC System**
 
-Click [here](https://schoolibrary.spydus.com.sg/qihuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to access the system
+Click [here](https://schoolibrary.moe.edu.sg/qihuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to access the system
 
 
 
