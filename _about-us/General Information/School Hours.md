@@ -4,14 +4,9 @@ permalink: /school-life/general-information/school-hours/
 description: ""
 third_nav_title: General Information
 ---
-><img src="/images/Picture-1-min.jpg"  
-     style="width:60%"
-			align="left"><br><br><br><br><br><br><br>
->About Us
 
-**<font size=6>School Hours</font>**
 
-**<font size=5>2021 School Hours</font>**
+**<font size=5>School Hours</font>**
 
 ![](/images/About%20Us/School%20Hours%201.jpg)
 
