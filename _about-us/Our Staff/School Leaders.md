@@ -11,7 +11,7 @@ third_nav_title: Our Staff
 
 
 
-| Vice-Principal (Academic) | Mr Foo Chuan Kai Ryan |  |
+| Vice-Principal (Academic) | Mr Ryan Foo Chuan Kai  |  |
 | -------- | -------- | -------- |
 |     | [foo\_chuan\_kai@schools.gov.sg](mailto:foo_chuan_kai@schools.gov.sg)  |     |
 
