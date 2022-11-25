@@ -7,6 +7,7 @@ description: ""
 
 [Qihua Connect 2022/2](https://online.flipbuilder.com/zlpi/arcn/)
 
+<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
 ![](/images/Useful%20Links/qihua%20connect%202.jpg)
 
 **2022/1**
