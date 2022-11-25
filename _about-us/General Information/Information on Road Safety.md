@@ -4,10 +4,7 @@ permalink: /school-life/general-information/information-on-road-safety/
 description: ""
 third_nav_title: General Information
 ---
-><img src="/images/Picture-1-min.jpg"  
-     style="width:60%"
-			align="left"><br><br><br><br><br><br><br>
->About Us
+
 
 **<font size=6>Information on Road Safety</font>**
 
