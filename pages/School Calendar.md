@@ -3,12 +3,9 @@ title: School Calendar
 permalink: /events/
 description: ""
 ---
-><img src="/images/Picture-1-min.jpg"  
-     style="width:60%"
-			align="left"><br><br><br><br><br><br><br>
->About Us
+
+
 
 **<font size=6>School Calendar</font>**
 
-
-INSERT  CALENDAR HERE
+<iframe src="https://calendar.google.com/calendar/embed?src=qihuapublic%40gmail.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
