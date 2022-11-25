@@ -18,7 +18,7 @@ Nurturing future-ready leaders committed to giving their best to family, communi
 
 **School Counsellor: Ms Jessie Tegina Tan**
 
-**School Counsellor: Ms Joanne Ow**
+                                       Ms Joanne Ow
 <BR>
 <BR>
  <BR>
