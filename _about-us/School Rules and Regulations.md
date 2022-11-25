@@ -3,12 +3,8 @@ title: School Rules and Regulations
 permalink: /about-us/school-rules-and-regulations/
 description: ""
 ---
-><img src="/images/Picture-1-min.jpg"  
-     style="width:60%"
-			align="left"><br><br><br><br><br><br><br>
->About Us
 
-**<font size=6>School Rules & Regulations</font>**
+
 
 **SCHOOL RULES AND REGULATIONS**
 
