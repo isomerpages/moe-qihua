@@ -4,11 +4,6 @@ permalink: /about-us/our-staff/school-leaders/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
-
-
-
 | Principal | Mrs Lee Hui Feng |  |
 | -------- | -------- | -------- |
 |    | lee_hui_feng@schools.gov.sg     |     |
@@ -25,8 +20,3 @@ third_nav_title: Our Staff
 | Vice-Principal (Academic) |Ms Nurul Suhana Sulaiman  |  |
 | -------- | -------- | -------- |
 |      | [nurul\_suhana\_sulaiman@schools.gov.sg](mailto:nurul_suhana_sulaiman@schools.gov.sg)     |  |
-
-
-
-
-
