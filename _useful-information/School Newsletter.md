@@ -7,7 +7,7 @@ description: ""
 
 [Qihua Connect 2022/2](https://online.flipbuilder.com/zlpi/arcn/)
 
-<img src="/images/Useful Links/qihua connect 2.jpg" style="width:180px;height:250px;">
+<img src="/images/Useful Links/qihua connect 2.jpg" style="width:250px;height:400px;">
 
 
 **2022/1**
