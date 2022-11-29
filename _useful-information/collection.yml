@@ -1,0 +1,19 @@
+collections:
+  useful-information:
+    output: true
+    order:
+      - Student Wellness Resource/.keep
+      - Student Wellness Resource/Student Wellness Resource Links.md
+      - Student Wellness Resource/School Bag and Back Care Advice.md
+      - Student Wellness Resource/Healthy Living Habits.md
+      - Student Wellness Resource/Cyberwellness.md
+      - Student Wellness Resource/Homework Policy.md
+      - Schemes to Support SG Students/.keep
+      - Schemes to Support SG Students/Support.md
+      - Schemes to Support SG Students/Counselling.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/School Family Education.md
+      - Useful Links.md
+      - Information on (SEd) Programme 2022.md
+      - School Newsletter.md

@@ -1,0 +1,33 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - General Information/.keep
+      - General Information/General Information.md
+      - General Information/School Hours.md
+      - General Information/Information on Road Safety.md
+      - School Profile/.keep
+      - School Profile/School Crest.md
+      - School Profile/School Ethos.md
+      - School Profile/School History.md
+      - School Profile/School Song.md
+      - School Rules and Regulations.md
+      - Learning Environment.md
+      - Our Staff/.keep
+      - Our Staff/School Leaders.md
+      - Our Staff/Key Personnel.md
+      - Our Staff/Lead and Senior Teachers.md
+      - Our Staff/P1 Teachers.md
+      - Our Staff/P2 Teachers.md
+      - Our Staff/P3 Teachers.md
+      - Our Staff/P4 Teachers.md
+      - Our Staff/P5 Teachers.md
+      - Our Staff/P6 Teachers.md
+      - Our Staff/Chinese Language Teachers.md
+      - Our Staff/Malay Language Teachers.md
+      - Our Staff/Tamil Language Teachers.md
+      - Our Staff/Allied Educators and Counsellors.md
+      - Our Staff/Admin Staff.md
+      - Our Staff/ICT and MRL Support Staff.md
+      - Our Staff/Other Support Staff.md

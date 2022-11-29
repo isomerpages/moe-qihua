@@ -1,0 +1,24 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English.md
+      - Mathematics/.keep
+      - Mathematics/Vision & Mission.md
+      - Mathematics/Key Programmes.md
+      - Science/.keep
+      - Science/Vision & Mission.md
+      - Science/Key Programmes.md
+      - Mother Tongue Development/.keep
+      - Mother Tongue Development/Chinese Language.md
+      - Mother Tongue Development/Malay Language.md
+      - Mother Tongue Development/Tamil Language.md
+      - CCE.md
+      - Student Management.md
+      - ICT and MRL.md
+      - Aesthetics Music and Art.md
+      - Physical Education.md
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/CCAs offered in Qihua Primary School.md
+      - CCA/Learning Experiences.md
