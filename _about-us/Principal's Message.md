@@ -5,7 +5,9 @@ description: ""
 ---
 **Principal's message for 2023**
 		
-![](/images/About%20Us/Mrs-Lee-365x600.jpeg)
+
+
+<img src\="img\images/About%20Us/Mrs-Lee-365x600.jpeg" alt\="" style\="width:500px;height:600px;"\>
 
 
 Dear Parents,  
