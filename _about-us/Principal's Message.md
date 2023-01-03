@@ -4,8 +4,9 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 **Principal's message for 2023**
-	
 
+
+<img src="/images/About Us/Mrs-Lee-365x600.jpeg" style="width:200px;height:300px;">
 
 
 Dear Parents,  
