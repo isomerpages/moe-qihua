@@ -3,7 +3,7 @@ title: School Rules and Regulations
 permalink: /about-us/school-rules-and-regulations/
 description: ""
 ---
-**SCHOOL RULES AND REGULATIONS
+**SCHOOL RULES AND REGULATIONS**
 
 QHPS rules are based on our school values.        
 
