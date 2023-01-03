@@ -3,9 +3,11 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-**Principal's message for 2023
+**Principal's message for 2023**
 		
-	
+![](/images/About%20Us/Mrs-Lee-365x600.jpeg)
+
+
 Dear Parents,  
   
 Welcome to 2023 and back to Qihua!  
