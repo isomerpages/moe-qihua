@@ -51,12 +51,12 @@ Qihuaians are honourable and are responsible for their actions.
 <BR>
 ●	Qihuaians use only their personal user identities and passwords.
 <BR>
-
-	**Gangsterism**
+<BR>
+**Gangsterism**
 	
 * Qihuaians do not join gangs.
 <BR>
-	<BR>
+	
 	**Gambling**
 	
 * Qihuaians do not gamble.
@@ -66,7 +66,7 @@ Qihuaians are honourable and are responsible for their actions.
 * Qihuaians do not smoke, carry tobacco products or take drugs.
 <BR>
 <BR>
-	Possession of Weapons
+	**Possession of Weapons**
 	<BR>
 Qihuaians are not allowed to have any weapons in their possession. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others. 
 <BR>
@@ -81,28 +81,28 @@ Qihuaians are not allowed to have any weapons in their possession. They are also
 * All students must attend and stand at attention during the flag-raising / lowering and pledge-taking ceremonies.
 <BR>
 <BR>
-Regular Attendance
+**Regular Attendance**
 <BR>
 <BR>
 * Qihuaians attend school regularly and attend all classes.
 <BR>
 <BR>
-Truancy
+**Truancy**
 <BR>
 * Qihuaians are absent from school with a valid reason/Medical Certificate. They will submit their medical certificates/parents’ letter to their form teachers upon their return to school.
 <BR>
-	Punctuality
+	**Punctuality**
 	<BR>
 * Qihuaian are in the assembly area / classroom before the flag-raising ceremony.
 <BR>
 <BR>
-	Outerwear
+	**Outerwear**
 	<BR>
 ●	Qihuaians wear their school uniform proudly during the flag-raising ceremony. Brightly-coloured/designed windbreakers/sweaters would be removed before the start of the ceremony.
 <BR>
 ●	Caps should only be worn on Learning Journeys or Immersion Trips.
 <BR>
-Accessories
+**Accessories**
 <BR>
 ●	Qihuaians do not wear jewellery and expensive watches.
 <BR>
@@ -112,7 +112,7 @@ Accessories
 <BR>
 <BR>
 
-Body Art and Cosmetics
+**Body Art and Cosmetics**
 <BR>
 ●	Qihuaians do not wear makeup to school.
 <BR>
@@ -120,22 +120,23 @@ Body Art and Cosmetics
 <BR>
 <BR>
 
-Religious Jewellery
+**Religious Jewellery**
 <BR>
 * Qihuaians do not wear religious jewellery when they are in uniform.
 <BR>
 <BR>
-Behaviour in School 
+**Behaviour in School **
 <BR>
 * Qihuaians are well-behaved in public e.g. bus stops and shopping malls. They do not behave in a manner which brings the school into disrepute.
 <BR>
-	Open Defiance
+<BR>
+	**Open Defiance**
 	<BR>
 ●	Qihuaians always obey persons of authority.
 <BR>
 ●	Qihuaians do not use vulgar language nor show obscene gestures.
 <BR>
-	Responsible use of mobile devices
+	**Responsible use of mobile devices**
 	<BR>
 * To nurture students to be responsible and discerning users of technology and to ensure the well-being of all students, 
 <BR>
@@ -150,7 +151,7 @@ Behaviour in School
 ●	Be responsible for the safe-keeping of mobile devices. The school will retain the mobile devices for any non-compliance in usage. Parents will be informed to collect the mobile devices from the General Office. The school will not be held responsible for any loss or damage of mobile devices.
 <BR>
 <BR>
-	Mishandling School Property*
+	**Mishandling School Property***
 	<BR>
 Qihuaians handle all school properties with care.
 <BR>
@@ -162,7 +163,7 @@ Qihuaians handle all school properties with care.
 <BR>
 ●	Use PE/ICT equipment appropriately and with permission. View, download or publish appropriate content.
 <BR>
-	Bullying*
+	**Bullying***
 	<BR>
 	<BR>
 Qihuaians do not cause hurt through:
@@ -198,20 +199,11 @@ The school will take on a restorative discipline approach and decide on a plan o
 These actions may include but are not limited to the following, listed not in order:
 <BR>
 -	Verbal warning / Written warning
-<BR>
 -	Counselling
-<BR>
 -	Out-of-class suspension
-<BR>
 -	Out-of-school suspension
-<BR>
 -	Informing parents/guardians
-<BR>
 -	Conduct grade of “Fair” or “Poor” 
-<BR>
 -	Corporal Punishment (e.g. caning)
-<BR>
 -	Daily monitoring of student’s activities by the school and parents/guardians
-<BR>
 -	CARE Activities (Corrective Actions in Restoring and Encouraging positive behaviours) 
-<BR>
