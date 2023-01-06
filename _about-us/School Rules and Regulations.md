@@ -206,4 +206,4 @@ These actions may include but are not limited to the following, listed not in or
 -	Conduct grade of “Fair” or “Poor” 
 -	Corporal Punishment (e.g. caning)
 -	Daily monitoring of student’s activities by the school and parents/guardians
--	CARE Activities (Corrective Actions in Restoring and Encouraging positive behaviours) 
+-	CARE Activities (Corrective Actions in Restoring and Encouraging positive behaviours)
