@@ -4,8 +4,6 @@ permalink: /about-us/our-staff/key-personnel/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
 | Middle management |  | |
 | -------- | -------- | -------- |
 | Year Head (MP)   | Mrs Karthi    |     |
@@ -49,6 +47,7 @@ third_nav_title: Our Staff
 | SH (CCA)   | Mr Lee Kheng Yuen   |     |
 |   | lee_kheng_yuen@moe.edu.sg   |     |
 
+<BR>
+<BR>
 
-
-
+*Updated 10/1/2023*
