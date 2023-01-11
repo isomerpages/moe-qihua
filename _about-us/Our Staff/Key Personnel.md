@@ -36,8 +36,8 @@ third_nav_title: Our Staff
 |    | tan_yee_lay@moe.edu.sg  |     |
 | LH (English)   | Mdm Lee Yen Ling  |     |
 |   | lee_yen_ling@moe.edu.sg  |     |
-| LH (Science)   | Mr Ng Zhi Hao   |     |
-|    |    |     |
+| LH (Science)   | Mr Wong Zhi Hao   |     |
+|    |wong_zhi_hao_a@moe.edu.sg    |     |
 | SH (Student Well Being | Mr Cham Bao Rong   |     |
 |    | cham_bao_rong@moe.edu.sg   |     |
 | SH (VIA)   | Miss Tan Poh Suan   |     |
