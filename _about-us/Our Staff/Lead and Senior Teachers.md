@@ -4,8 +4,6 @@ permalink: /about-us/our-staff/senior-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
 | Lead/Senior teachers|  |  |
 | -------- | -------- | -------- |
 | Lead teacher (SEN)    | Mdm Juliana   |   |
@@ -18,7 +16,10 @@ third_nav_title: Our Staff
 | Senior teacher (Chinese)    |  Ms Chia Ching Peng  |     |
 |      | chia_ching_peng@moe.edu.sg  |     |
 | Senior teacher (Science)    | Mdm Lim Siew Hui  |     |
-|      | lim_siew_hui@moe.edu.sg  |     |
+|   | lim_siew_hui@moe.edu.sg |     |
+| Senior teacher (Learning Needs-Lower Pri Learners)     | Mdm Marie Quek  |     |
+|      | quek_marie@moe.edu.sg  |     |
+
 
 
 
