@@ -4,14 +4,18 @@ permalink: /about-us/our-staff/cl-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
 | Chinese  Language Teachers | | |
 | -------- | -------- | -------- |
 | HOD (MTL)| Mdm Woo Wei Ling   |   |
 |      | [mailto: woo_wei_ling@moe.edu.sg] |     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| LH (CL)    | Mdm See Yuen Ni     |     |
+|      | [mailto:see_yuen_ni@moe.edu.sg] |     |
+| SH (VIA)    | Ms Tan Poh Suan     |     |
+|     | [mailto:tan_poh_suan@moe.edu.sg]   |     |
+| ST (CL)| Mdm Tang Kwang Hoon   |   |
+| | [mailto:tang_kwang_hoon@moe.edu.sg]  |   |
+| ST (CL)| Ms Chia Ching Peng  |   |
+| | [mailto:chia_ching_peng@moe.edu.sg]   |   |
 
 
 
