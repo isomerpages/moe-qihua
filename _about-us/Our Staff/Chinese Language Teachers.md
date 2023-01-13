@@ -16,6 +16,10 @@ third_nav_title: Our Staff
 | | [mailto:tang_kwang_hoon@moe.edu.sg]  |   |
 | ST (CL)| Ms Chia Ching Peng  |   |
 | | [mailto:chia_ching_peng@moe.edu.sg]   |   |
+|Teacher | Mdm Zhao Ying  |   |
+| | [mailto:zhao_ying@moe.edu.sg  |   |
+| ST (CL)| Ms Chia Ching Peng  |   |
+| ST (CL)| Ms Chia Ching Peng  |   |
 
 
 
