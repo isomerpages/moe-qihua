@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 | Principal | Mrs Lee Hui Feng |  |
 | -------- | -------- | -------- |
-|    |          [LEE\_Hui\_Feng@schools.gov.sg](mailto:LEE_Hui_Feng@schools.gov.sg)     |     |
+|    |                [LEE\_Hui\_Feng@schools.gov.sg](mailto:LEE_Hui_Feng@schools.gov.sg)     |     |
 
 
 
