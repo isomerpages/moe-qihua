@@ -4,8 +4,6 @@ permalink: /about-us/our-staff/p1-form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
 | Primary 1 Form teachers |  | |
 | -------- | -------- | -------- |
 | 1-1   | Ms Hasanah    |     |
@@ -28,6 +26,7 @@ third_nav_title: Our Staff
 |     | meera_sathasivan@moe.edu.sg  |     |
 |     | Mdm Justina Tok  |     |
 |     | justina_tok_wei_lin@moe.edu.sg  |     |
-
-
-
+|1-6     | Mdm Stephanie Lee  |     |
+|     |  |     |
+|     | Mdm Jasmine See |     |
+|     |  |     |
