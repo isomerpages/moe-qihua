@@ -3,8 +3,6 @@ title: Useful Links
 permalink: /school-life/useful-links/
 description: ""
 ---
-
-
 **<font size=6>Useful Links</font>**
 
 **Parents in Education (PiE)**
@@ -31,6 +29,11 @@ to support their children’s learning at home.
 **Qihua Primary School Library OPAC System**
 
 Click [here](https://schoolibrary.moe.edu.sg/qihuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to access the system
+
+**Qihua Primary School Library Policy**
+
+Click here
+[](/files/School%20Library%20Policy%20for%20student%20handbook%20updated%204%20Oct%202022.pdf)
 
 
 
