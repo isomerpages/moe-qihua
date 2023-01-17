@@ -30,13 +30,7 @@ third_nav_title: Our Staff
 | | koo_sen_hooi@moe.edu.sg  |   |
 | | Mr Benjamin Chua  |   |
 | | Chua_Yong_Sheng_Benjamin@moe.edu.sg |   |
-
-
- 
-
-
-
-
-
-
-
+| | Mr Luah Bak Kiak|   |
+| | luah_bak_kiak@moe.edu.sg  |   |
+| | Ms Zeng Jing  |   |
+| | zeng_jing@moe.edu.sg  |   |
