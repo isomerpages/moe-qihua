@@ -21,9 +21,16 @@ shylaja_gopalan_nair@moe.edu.sg
 | 3-3   | Mrs Arun Rosiah   |   |
 |      | arun_rosiah@moe.edu.sg   |     |
 |      | Ms Zeng Jing    |      |
-|     | zeng_jing@   | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-
+|     | zeng_jing@moe.edu.sg   |      |
+| 3-4     | Mr Sundram Anthony    |  |
+|      | sundram_anthony_gerard@moe.edu.sg    |      |
+|      | Mrs Catherine Mani   |     |
+|   | catherine_vijaya@moe.edu.sg     |   |
+| 3-5     | Mr Viknesh  |     |
+|      |  viknesh_tamil_mani@moe.edu.sg  |     |
+|      | Mdm Tang Kwang Hoon  |     |
+|      | tang_kwang_hoon@moe.edu.sg   |     |
+|3-6      | Mr Casey Lee   |     |
+|      | lee_kheng_chew_casey@moe.edu.sg   |     |
+|      | Mdm Juliana   |     |
+|      | juliana_johari@moe.edu.sg  |     |
