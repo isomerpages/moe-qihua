@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 | Lead/Senior teachers|  |  |
 | -------- | -------- | -------- |
 | Lead teacher (SEN)    | Mdm Juliana   |   |
-|      |  juliana_johari@moe.edu.sg  |    |
+|      |  (mailto:juliana_johari@moe.edu.sg)  |    |
 | Senior teacher (English)    | Mrs Josephine Cheok    |     |
 |     | lim_may_gek_josephine@moe.edu.sg     |     |
 | Senior teacher (English)     |  Mdm Norashikin Bte Hassan    |     |
