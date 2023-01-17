@@ -34,7 +34,7 @@ Qihua Primary School Library Policy
 
 Click here
 [](/files/School%20Library%20Policy%20for%20student%20handbook%20updated%204%20Oct%202022.pdf)
-[](/files/School%20Library%20Policy%20for%20student%20handbook%20updated%204%20Oct%202022.pdf)
+
 
 
 **PSLE 2021 New Scoring System and Secondary School Selection**
