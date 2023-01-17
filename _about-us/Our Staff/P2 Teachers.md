@@ -38,5 +38,7 @@ tan_zi_hui@moe.edu.sg
 |    | lim_may_gek_josephine@moe.edu.sg  |      |
 |     | Ms Chitra  |      |
 |     | chitradewi_singam@moe.edu.sg  |      |
-
-
+|  2-8   | Ms Tan Yee Lay |      |
+|     | tan_yee_lay@moe.edu.sg |      |
+|     | Mdm Tan Li Ting (Mrs Cheng) |      |
+|     | tan_li_ting@moe.edu.sg |      |
