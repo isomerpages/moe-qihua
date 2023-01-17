@@ -27,6 +27,14 @@ third_nav_title: Our Staff
 |     | Mdm Justina Tok  |     |
 |     | justina_tok_wei_lin@moe.edu.sg  |     |
 |1-6     | Mdm Stephanie Lee  |     |
-|     |  |     |
+|     | lee_sook_ling@moe.edu.sg |     |
 |     | Mdm Jasmine See |     |
-|     |  |     |
+|     |see_mei_hua_jasmine@moe.edu.sg  |     |
+| 1-7    | Mdm Aernie |     |
+|     | aernie_sulaiman@moe.edu.sg |     |
+|     | Mrs Chan Xiao Fong |     |
+|     | chan_xiao_fong@moe.edu.sg |     |
+| 1-8    | Mdm Anushia |     |
+|     | anushia_s_surandharan@moe.edu.sg |     |
+|     | Mdm Yanti |     |
+|    | Ariyanti_Osman_Ali@moe.edu.sg |     |
