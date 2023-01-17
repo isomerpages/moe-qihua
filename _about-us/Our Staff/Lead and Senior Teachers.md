@@ -9,7 +9,7 @@ third_nav_title: Our Staff
 | Lead teacher (SEN)    | Mdm Juliana   |   |
 |      |  (mailto:juliana_johari@moe.edu.sg)  |    |
 | Senior teacher (English)    | Mrs Josephine Cheok    |     |
-|     | lim_may_gek_josephine@moe.edu.sg     |     |
+|     | (mailto:lim_may_gek_josephine@moe.edu.sg)     |     |
 | Senior teacher (English)     |  Mdm Norashikin Bte Hassan    |     |
 | Senior teacher (Chinese)  | Mdm Tang Kwang Hoon   |     |
 |      | tang_kwang_hoon@moe.edu.sg  |     |
