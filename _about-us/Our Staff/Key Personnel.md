@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 | Middle management |  | |
 | -------- | -------- | -------- |
 | Year Head (MP)   | Mrs Karthi    |     |
-|     | shylaja_gopalan_nair@moe.edu.sg |     |
+|     | shylaja_gopalan_nair@moe.edu.sg (mailto:shylaja_gopalan_nair@moe.edu.sg)  |     |
 | Asst Year Head (MP)    | Mdm Sofiyanny   |     |
 |   | sofiyanny_mansol@moe.edu.sg  |     |
 | Year Head (UP)  | Mdm Halimah   |     |
