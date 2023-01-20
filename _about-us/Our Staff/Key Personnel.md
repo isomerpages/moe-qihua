@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/key-personnel/
 description: ""
 third_nav_title: Our Staff
 ---
-<a href="mailto:aernie_sulaiman@moe.edu.sg">aernie_sulaiman@moe.edu.sg</a> 
+
 
 | Middle management |  |  |
 | --- | --- | --- |
