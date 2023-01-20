@@ -3,7 +3,6 @@ title: Information on (SEd) Programme 2023
 permalink: /school-life/information-on-sexuality-education-sed-programme/
 description: ""
 ---
-
 **QIHUA PRIMARY SCHOOL**
 
 **MOE SEXUALITY EDUCATION IN SCHOOLS**
@@ -15,29 +14,39 @@ description: ""
 <BR>
 (b)	To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 <BR>
+<BR>
 (c)	To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
+<BR>
 <BR>
 
 3.	The Key Messages of Sexuality Education are:
 <BR>
 (a)	Love and respect yourself as you love and respect others;
 <BR>
+<BR>
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);
+<BR>
 <BR>
 (c)	Make responsible decisions for yourself, your family and society; and
 <BR>
+<BR>
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<BR>
 
-You may click [here] for more information on MOE Sexuality Education. 
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
 
 
  
 **OVERVIEW OF QIHUA PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 <BR>
+<BR>
 4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope)  for more information on the scope of Sexuality Education in the school curriculum.
-
+<BR>
+<BR>
 5.	The subjects that incorporate topics on sexuality include:
+<BR>
 a.	Science 
+<BR>
 b.	Character and Citizenship Education (CCE)
 
 
@@ -47,6 +56,7 @@ b.	Character and Citizenship Education (CCE)
 
 
 7. 	Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
 ![](/images/GYP1.jpeg)
 
 ![](/images/GYP2.jpeg)
@@ -57,6 +67,5 @@ b.	Character and Citizenship Education (CCE)
 
 
 
+*Updated 20/1/2023*
 
-
-![]()
