@@ -65,6 +65,19 @@ b.	Character and Citizenship Education (CCE)
 
 ![](/images/GYP4.jpeg)
 
+**INFORMATION FOR PARENTS**
+<BR>
+<BR>
+8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+<BR>
+<BR>
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  [here](/files/GYP-Opt-out-form.pdf). The completed opt-out form is to be submitted **by 30/01/2023.**
+<BR>
+<BR>
+10.	Parents can contact the school at Mdm Tay Seok Har at at tay_seok_har@moe.edu.sg , telephone number 6269 6250 for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+<BR>
+
 
 
 *Updated 20/1/2023*
