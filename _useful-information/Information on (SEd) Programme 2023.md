@@ -58,13 +58,10 @@ The upper primary years mark the onset of puberty. With better nutrition and imp
 
 Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-![](/images/GYP1A.jpeg)
-
-![](/images/GYP2.jpeg)
-
-![](/images/GYP3.jpeg)
-
-![](/images/GYP4.jpeg)
+![](/images/GYP_P5.jpeg)
+<BR>
+<BR>
+![](/images/GYP_P6.jpeg)
 
 **INFORMATION FOR PARENTS**
 <BR>
@@ -75,7 +72,7 @@ Parents may opt their children out of Sexuality Education lessons, and/or supple
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  [here](/files/GYP-Opt-out-form.pdf). The completed opt-out form is to be submitted **by 30/01/2023.**
 <BR>
 <BR>
-Parents can contact the school at Mdm Tay Seok Har at at tay_seok_har@moe.edu.sg , telephone number 6269 6250 for discussion or to seek clarification about the school’s Sexuality Education programme.
+Parents can contact the school at 6269 6250 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 <BR>
 
