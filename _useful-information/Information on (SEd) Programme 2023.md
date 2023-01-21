@@ -60,10 +60,10 @@ The upper primary years mark the onset of puberty. With better nutrition and imp
 
 Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-![](/images/GYP_P5.jpeg)
+![](/images/GYP_P5A.jpeg)
 <BR>
 <BR>
-![](/images/GYP_P6.jpeg)
+![](/images/GYP_P6A.jpeg)
 
 **INFORMATION FOR PARENTS**
 <BR>
