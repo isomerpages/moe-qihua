@@ -32,6 +32,3 @@ Principal
 
 
 
-
-     style="width:70%"
-		 align="left">
