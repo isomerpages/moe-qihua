@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/p2-form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-**Asst Year Head: Mdm Tan Zi Hui**
+Asst Year Head: Mdm Tan Zi Hui
 <BR>
 tan_zi_hui@moe.edu.sg
 
