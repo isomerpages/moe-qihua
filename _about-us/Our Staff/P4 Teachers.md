@@ -34,5 +34,3 @@ Asst Year Head : Mdm Sofiyanny Mansol
 |     | <a href="mailto:zalina_buang@moe.edu.sg">zalina_buang@moe.edu.sg</a>    |      |
 |     | Mr Micheal Tjin         |   |
 |    |  <a href="mailto:Michael_YI-YAN_TJIN@moe.edu.sg">Michael_YI-YAN_TJIN@moe.edu.sg</a>   |     |
-
-
