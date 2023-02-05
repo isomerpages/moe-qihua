@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/p5-form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-**Year Head : Mdm Halimah**
+Year Head : Mdm Halimah
 <BR>
 halimah_halil@moe.edu.sg
 
@@ -38,4 +38,3 @@ halimah_halil@moe.edu.sg
 |     | koo_sen_hooi@moe.edu.sg   |    |
 |     | Mr Mateen    |     |
 |     | abdul_mateen_noor@moe.edu.sg    |    |
-
