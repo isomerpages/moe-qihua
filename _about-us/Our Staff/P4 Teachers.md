@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/p4-form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-**Asst Year End : Mdm Sofiyanny Mansol**
+Asst Year Head : Mdm Sofiyanny Mansol
 <BR>
 sofiyanny_mansol@moe.edu.sg
 <BR>
