@@ -66,10 +66,14 @@ Kita telah menimba ilmu dan banyak  belajar daripada pandemik yang melanda tiga 
 <BR>
 
 Puan Lee Hui Feng
+<BR>
 Pergetua
+<BR>
+<BR>
+![](/images/About%20Us/tamil%201.jpeg)
+![](/images/About%20Us/tamil%202.jpeg)
+![](/images/About%20Us/tamil%203.jpeg)
 
 
 
 
-Mrs Lee Hui Feng  
-Principal
