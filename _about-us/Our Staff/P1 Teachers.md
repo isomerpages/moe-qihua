@@ -28,7 +28,7 @@ Year Head : Mdm Justina Tok
 |     | Mdm Amutha  |     |
 |     | <a href="mailto:amutha_silvam@moe.edu.sg">amutha_silvam@moe.edu.sg</a>  |     |
 | 1-5    | Mrs Dominic  |     |
-|     | meera_sathasivan@moe.edu.sg  |     |
+|     | <a href="mailto:meera_sathasivan@moe.edu.sg">meera_sathasivan@moe.edu.sg</a>  |     |
 |     | Mdm Justina Tok  |     |
 |     | <a href="mailto:justina_tok_wei_lin@moe.edu.sg">justina_tok_wei_lin@moe.edu.sg</a>  |     |
 |1-6     | Mdm Stephanie Lee  |     |
