@@ -178,6 +178,7 @@ Qihuaians handle all school properties with care.
 <BR>
 ●	Use PE/ICT equipment appropriately and with permission. View, download or publish appropriate content.
 <BR>
+<BR>
 	**Bullying***
 	<BR>
 	<BR>
