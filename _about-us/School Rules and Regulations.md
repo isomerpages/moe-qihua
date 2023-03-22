@@ -136,19 +136,34 @@ Qihuaians are not allowed to have any weapons in their possession. They are also
 <BR>
 ●	Qihuaians do not use vulgar language nor show obscene gestures.
 <BR>
-	**Responsible use of mobile devices**
+<BR>
+**Responsible use of mobile devices**
 	<BR>
 * To nurture students to be responsible and discerning users of technology and to ensure the well-being of all students, 
 <BR>
 * Qihuaians will act in accordance with the following guidelines when using mobile devices in school:
 <BR>
-●	Only use mobile devices for communication with family members to avoid distraction from learning.
+●	The usage of all mobile electronic devices (e.g. mobile phones, tablets, laptops, smartwatches etc.) during school hours and CCA time is restricted and should only be used under direct teacher supervision for educational purposes.
 <BR>
-●	Only use mobile devices at the security guardhouse or canteen.
+●Usage of mobile devices is allowed only at the security guardhouse or canteen after dismissal for communication with family members. The devices are to be switched off at other times.
+<BR>
+* In the classrooms, smartwatches should only be used for checking of time. It should not be used for any other purpose (e.g. entertainment, communications etc). Students will turn in all smart devices to the teacher before assessments and examinations.
 <BR>
 ●	Camera or any recording functions will not be used at any time within school so as to protect the privacy of all students and staff.
 <BR>
 ●	Be responsible for the safe-keeping of mobile devices. The school will retain the mobile devices for any non-compliance in usage. Parents will be informed to collect the mobile devices from the General Office. The school will not be held responsible for any loss or damage of mobile devices.
+<BR>
+<BR>
+***Consequences for Misuse of Mobile Devices***
+<BR>
+<BR>
+First offence: Verbal warning will be given, and teachers will take the mobile device for safekeeping until the end of the lesson.
+<BR>
+<BR>
+Second offence: Teachers will take the mobile device for safekeeping until the end of the school day.
+<BR>
+<BR>
+Third or more offence: Teachers will take the mobile device for safekeeping, and parents will arrange to collect it from the school.
 <BR>
 <BR>
 	**Mishandling School Property***
