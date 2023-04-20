@@ -12,7 +12,7 @@ description: ""
 
 **2022/1**
 
-[Qihua Connect 2022/1](https://online.flipbuilder.com/zlpi/arcn/)
+[Qihua Connect 2022/1](https://online.flipbuilder.com/zlpi/ptfx/)
 
 <img src="/images/Useful Links/Newsletter Image 1.jpeg" style="width:250px;height:400px;">
 <br>
