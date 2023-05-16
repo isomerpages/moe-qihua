@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 Asst Year Head: Mdm Tan Zi Hui
-<BR>
+<br>
 tan_zi_hui@moe.edu.sg
 
 | P2 Form Teachers |  |  |
@@ -19,9 +19,7 @@ tan_zi_hui@moe.edu.sg
 |    | Mdm Hu Mingyan     |      |
 |     | hu_mingyan@moe.edu.sg     |    |
 | 2-3     | Ms Elizabeth Elan    |     |
-|    | Elizabeth_Emma_Elanggoan@moe.edu.sg  |      |
-|     | Ms Chan Ho Ting    |      |
-|     | chan_ho_ting@moe.edu.sg  |      |
+|    | Elizabeth_Emma_Elanggoan@moe.edu.sg  |     
 |2-4     | Ms Quesheth Phee    |      |
 |     | Phee_Min_En_Quesheth@moe.edu.sg  |      |
 |     | Mdm Tan Zi Hui  |      |
@@ -40,5 +38,3 @@ tan_zi_hui@moe.edu.sg
 |     | chitradewi_singam@moe.edu.sg  |      |
 |  2-8   | Ms Tan Yee Lay |      |
 |     | tan_yee_lay@moe.edu.sg |      |
-|     | Mdm Tan Li Ting (Mrs Cheng) |      |
-|     | tan_li_ting@moe.edu.sg |      |
