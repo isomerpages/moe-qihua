@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Our Staff
 ---
 Asst Year Head : Mr Kiat Ying Xin
-<BR>
+<br>
 kiat_ying_xin@moe.edu.sg
-<BR>
-<BR>
+<br>
+<br>
 
 
 |P6 Form Teachers  |  |  |
@@ -33,6 +33,8 @@ kiat_ying_xin@moe.edu.sg
 |      | lim_siew_hui@moe.edu.sg  |      |
 |      | Mrs Kunalan     |      |
 |      | kunalan_senthamarai@moe.edu.sg      |      |
+|      | Mdm Tan Li Ting (Mrs Cheng)    |      |
+|      | tan_li_ting@moe.edu.sg      |      |
 |6-6      | Mrs Raj     |      |
 |      | suseela_varderajaloo@moe.edu.sg   |      |
 |      | Mr Damien Tay     |      |
