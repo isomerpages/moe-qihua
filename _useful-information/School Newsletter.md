@@ -10,6 +10,11 @@ description: ""
 <br>
 <br>
 
+![](/images/newsletter20231.jpeg)
+
+
+
+
 **2022/2**
 
 [Qihua Connect 2022/2](https://online.flipbuilder.com/zlpi/arcn/)
