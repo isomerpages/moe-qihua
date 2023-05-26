@@ -9,8 +9,9 @@ description: ""
 [Qihua Connect 1/2023](https://online.flipbuilder.com/zlpi/ebmx/)
 <br>
 <br>
+<img src="/images/About Us/newsletter20231.jpeg" style="width:250px;height:400px;">
 
-![](/images/newsletter20231.jpeg)
+<br>
 
 
 
