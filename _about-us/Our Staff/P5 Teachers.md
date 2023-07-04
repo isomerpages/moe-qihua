@@ -33,7 +33,7 @@ halimah_halil@moe.edu.sg
 |      | Mdm Rosinah   |      |
 |   | rosinah_mohamed_yusof@moe.edu.sg   |     |
 |      | Miss Jennie Quah   |      |
-|   |    |     |
+|   | quah_may_fang_jennie@moe.edu.sg   |     |
 | 5-6     | Mr Anuar    |     |
 |     | anuar_b_ismail@moe.edu.sg    |    |
 |     | Mdm Koo Sen Hooi   |    |
