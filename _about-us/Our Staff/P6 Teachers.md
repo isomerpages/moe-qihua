@@ -30,7 +30,7 @@ kiat_ying_xin@moe.edu.sg
 |      | Mdm See Yuen Ni     |      |
 |     | see_yuen_ni@moe.edu.sg     |      |
 |      | Mr Hemarooben      |      |
-|     |      |      |
+|     |  hemarooben@moe.edu.sg    |      |
 | 6-5     | Mdm Lim Siew Hui (Mrs Wong)      |      |
 |      | lim_siew_hui@moe.edu.sg  |      |
 |      | Mrs Kunalan     |      |
