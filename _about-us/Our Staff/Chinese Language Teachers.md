@@ -33,4 +33,94 @@ third_nav_title: Our Staff
 | | Mr Luah Bak Kiak|   |
 | | luah_bak_kiak@moe.edu.sg  |   |
 | | Ms Zeng Jing  |   |
-| | zeng_jing@moe.edu.sg  |   |
+| | zeng_jing_a@moe.edu.sg  |   |
+| | Mrs Samantha Chang   |   |
+| | oh_siow_ling_samantha@moe.edu.sg  |   |
+| | Mdm Dong Jingwei   |   |
+| | dong_jingwei@moe.edu.sg  |   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

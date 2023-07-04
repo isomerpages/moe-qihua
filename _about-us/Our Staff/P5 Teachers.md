@@ -12,8 +12,8 @@ halimah_halil@moe.edu.sg
 
 | P5 Form Teachers |  |  |
 | -------- | -------- | -------- |
-| 5-1    | Ms Esther Teng  |      |
-|     | teng_yuan_yi_esther@moe.edu.sg     |      |
+| 5-1    | Ms Chan Ho Ting  |      |
+|     | chan_ho_ting@moe.edu.sg     |      |
 |    | Mdm Zhao Ying     |     |
 |   | zhao_ying@moe.edu.sg    |     |
 | 5-2 | Mdm Safura     |      |
@@ -32,8 +32,8 @@ halimah_halil@moe.edu.sg
 |    | rashna_shantini_yeamalley@moe.edu.sg   |     |
 |      | Mdm Rosinah   |      |
 |   | rosinah_mohamed_yusof@moe.edu.sg   |     |
-|      | Miss Chan Ho Ting   |      |
-|   | chan_ho_ting@moe.edu.sg   |     |
+|      | Miss Jennie Quah   |      |
+|   | quah_may_fang_jennie@moe.edu.sg   |     |
 | 5-6     | Mr Anuar    |     |
 |     | anuar_b_ismail@moe.edu.sg    |    |
 |     | Mdm Koo Sen Hooi   |    |
