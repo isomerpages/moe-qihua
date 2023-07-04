@@ -31,7 +31,7 @@ Asst Year Head : Mdm Sofiyanny Mansol
 |     | Mdm Yeo Sok Hoon   |      |
 |      |  <a href="mailto:yeo_sok_hoon@moe.edu.sg">yeo_sok_hoon@moe.edu.sg</a>   |     |
 |     | Mdm Dong Jingwei   |      |
-|      |      |     |
+|      | dong_jingwei@moe.edu.sg     |     |
 | 4-5    | Mdm Zalina      |      |
 |     | <a href="mailto:zalina_buang@moe.edu.sg">zalina_buang@moe.edu.sg</a>    |      |
 |     | Mr Micheal Tjin         |   |
