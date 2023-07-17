@@ -3,7 +3,7 @@ title: Useful Links
 permalink: /school-life/useful-links/
 description: ""
 ---
-**<font size=6>Useful Links</font>**
+**<font size="6">Useful Links</font>**
 
 **Parents in Education (PiE)**
 
@@ -18,7 +18,7 @@ to support their children’s learning at home.
 
 **NLB website**
 
-**Click** [here](https://childrenandteens.nlb.gov.sg/).
+**Click**&nbsp;[here](https://childrenandteens.nlb.gov.sg/).
 
 
 **Admission to QHPS**
@@ -28,7 +28,7 @@ to support their children’s learning at home.
 
 **Qihua Primary School Library OPAC System**
 
-Click [here](https://schoolibrary.moe.edu.sg/qihuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to access the system
+Click&nbsp;[here](https://schoolibrary.moe.edu.sg/qihuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)&nbsp;to access the system
 
 **Qihua Primary School Library Policy**
 
@@ -39,4 +39,15 @@ Click here
 
 **PSLE 2021 New Scoring System and Secondary School Selection**
 
-Click [here](https://www.moe.gov.sg/microsites/psle-fsbb/index.html).
+Click&nbsp;[here](https://www.moe.gov.sg/microsites/psle-fsbb/index.html).
+<br>
+<br>
+
+**ECHA nomination 2023**
+
+[Nomination form](/files/2023%20echa%20nomination%20form.pdf)
+<br>
+<br>
+[ECHA letter](/files/2023%20echa_letter_170723.pdf)
+
+<br>
