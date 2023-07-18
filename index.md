@@ -4,7 +4,8 @@ title: Qihua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ECHA 2023 nomination  https://www.qihuapri.moe.edu.sg/school-life/useful-links/
+notification: ECHA 2023 nomination  <a
+  href="https://www.qihuapri.moe.edu.sg/school-life/useful-links/">link text</a>
 sections:
   - hero:
       background: /images/Homepage GIF 4.gif
