@@ -4,7 +4,7 @@ title: Qihua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: ECHA 2023 nomination
 sections:
   - hero:
       background: /images/Homepage GIF 4.gif
