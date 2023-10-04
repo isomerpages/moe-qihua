@@ -36,6 +36,8 @@ third_nav_title: Our Staff
 |  |<a href="mailto:tan_yee_lay@moe.edu.sg">tan_yee_lay@moe.edu.sg</a>  |  |
 | LH (English) | Mdm Lee Yen Ling |  |
 |  |<a href="mailto:lee_yen_ling@moe.edu.sg">lee_yen_ling@moe.edu.sg</a>  |  |
+| LH (Chinese) | Mdm See Yuen Ni |  |
+|  |<a href="mailto:see_yuen_ni@moe.edu.sg">see_yuen_ni@moe.edu.sg</a>  |  |
 | LH (Science) | Mr Wong Zhi Hao |  |
 |  |<a href="mailto:wong_zhi_hao_a@moe.edu.sg">wong_zhi_hao_a@moe.edu.sg</a>  |  |
 | SH (Student Well Being | Mr Cham Bao Rong |  |
