@@ -2,7 +2,15 @@
 title: School Newsletter
 permalink: /school-life/school-notifications/
 description: ""
+variant: markdown
 ---
+**2023/2*
+
+[Qihua Connect 2023/2](https://online.flipbuilder.com/zlpi/hkru/)
+<br>
+<br>
+<img src="/images/Qihua_Connect_2023_2.jpeg" style="width:250px;height:400px;">
+<br>
 **2023/1**
 <br>
 <br>
