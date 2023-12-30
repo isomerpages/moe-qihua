@@ -10,7 +10,7 @@ Assistant Year Head : Mdm Justina Tok
 <a href="mailto:justina_tok_wei_lin@moe.edu.sg">justina_tok_wei_lin@moe.edu.sg</a>
 <br>
 
-| 2024 Primary 1 Form teachers |  | |
+| 2024 Primary 1 Form Teachers |  | |
 | -------- | -------- | -------- |
 | 1-1   | Mdm Ong Sze Chee    |     |
 |     | <a href="mailto:ong_sze_chee@moe.edu.sg">ong_sze_chee@moe.edu.sg</a>  |     |
