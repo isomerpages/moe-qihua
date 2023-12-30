@@ -21,6 +21,3 @@ variant: markdown
 |   |<a href="mailto:lim_siew_hui@moe.edu.sg">lim_siew_hui@moe.edu.sg</a> |     |
 | Senior Teacher (Learning Needs-Lower Pri Learners)     | Mdm Marie Quek  |     |
 |      | <a href="mailto:quek_marie@moe.edu.sg">quek_marie@moe.edu.sg</a> |     |
-
-<br>
-<br>
