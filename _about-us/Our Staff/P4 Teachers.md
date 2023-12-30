@@ -36,3 +36,7 @@ shylaja_gopalan_nair@moe.edu.sg
 |    |  tay_seok_har@moe.edu.sg  |     |
 |     | Ms Chia Ching Peng         |   |
 |    |  chia_ching_peng@moe.edu.sg   |     |
+| 4-6    | Mr Lee Kheng Chew Casey      |      |
+|     | lee_kheng_chew_casey@moe.edu.sg    |      |
+|     | Mdm Juliana Johari         |   |
+|    |  juliana_johari@moe.edu.sg  |     |
