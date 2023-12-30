@@ -3,20 +3,6 @@ title: School Leaders
 permalink: /about-us/our-staff/school-leaders/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-| Principal | Mrs Lee Hui Feng |  |
-| -------- | -------- | -------- |
-|    |                [LEE\_Hui\_Feng@schools.gov.sg](mailto:LEE_Hui_Feng@schools.gov.sg)     |     |
-
-
-
-
-| Vice-Principal (Academic) | Mr Ryan Foo Chuan Kai  |  |
-| -------- | -------- | -------- |
-|     | [foo\_chuan\_kai@schools.gov.sg](mailto:foo_chuan_kai@schools.gov.sg)  |     |
-
-
-
-| Vice-Principal (Academic) |Ms Nurul Suhana Sulaiman  |  |
-| -------- | -------- | -------- |
-|      | [nurul\_suhana\_sulaiman@schools.gov.sg](mailto:nurul_suhana_sulaiman@schools.gov.sg)     |  |
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Principal</p></th><th rowspan="1" colspan="1"><p>Mrs Lee Hui Feng</p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p><a href="mailto:LEE_Hui_Feng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Hui_Feng@schools.gov.sg</a></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p>Vice-Principal (Academic)</p></th><th rowspan="1" colspan="1"><p>Mr Ryan Foo Chuan Kai</p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p><a href="mailto:foo_chuan_kai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_chuan_kai@schools.gov.sg</a></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p>Vice-Principal (Academic)</p></th><th rowspan="1" colspan="1"><p>Ms Nurul Suhana Sulaiman</p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p><a href="mailto:nurul_suhana_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_suhana_sulaiman@schools.gov.sg</a></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
