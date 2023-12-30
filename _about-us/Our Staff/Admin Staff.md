@@ -3,5 +3,33 @@ title: Admin Staff
 permalink: /about-us/our-staff/admin-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">ADMIN EXECUTIVE</td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MDM ZUBAIDAH JAAFAR</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">CSO</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MDM NORSIAH SAMSOO</td></tr><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MDM ANG YORK HUI</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MR DARRYL CHIONH </td></tr><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SUPPORT STAFF</td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MDM KAREN FUNG</td></tr></tbody></table>
+| Executive & Administrative Staff | | |
+| -------- | -------- | -------- |
+| Administration Manager | Ms Lim Shin Ee   |   |
+|      | lim_shin_ee@moe.edu.sg |     |
+| Operations Manager   | Mr Thing Tock Keong    |     |
+|      | thing_tock_keong@moe.edu.sg |     |
+| Operations Manager   | Mr Faisal Meskam    |     |
+|      | faisal_meskam@moe.edu.sg |     |
+| Administrative Executive  | Mdm Zubaidah Jaafar    |     |
+|      | zubaidah_jaafar@moe.edu.sg |     |
+| Administrative Executive  | Mdm Ang York Hui    |     |
+|      | ang_york_hui@moe.edu.sg |     |
+| Administrative Executive   | Mdm Nur Nasyitah Amirah Haris  |     |
+|      | nur_nasyitah_amirah_haris@moe.edu.sg |     |
+| Corporate Support Officer  | Mdm Norsiah Samsoo    |     |
+|      | norsiah_samsoo@moe.edu.sg |     |
+| Corporate Support Officer  | Mr Chionh Wen Ru Darryl    |     |
+|      | darryl_chionh_wen_ru@moe.edu.sg |     |
+| Operations Support Officer  | Mdm Chea Lee Fong Ann    |     |
+| Operations Support Officer  | Mdm Mariam Bee Jamal    |     |
+| Operations Support Officer  | Mdm Pathammal Shumanagam    |     |
+| Operations Support Officer  | Mdm Saadiah Mohd Napiah    |     |
+| ICT Manager  | Mdm Siti Faryanty Jaffar    |     |
+|      | siti_faryanty_jaffar@moe.edu.sg |     |
+| ICT Associate  | Mr Lim Teck Hua   |     |
+|      | lim_teck_hua@moe.edu.sg |     |
+
+
