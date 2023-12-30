@@ -3,35 +3,36 @@ title: P3 Teachers
 permalink: /about-us/our-staff/p3-form-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
-Year Head : Mrs Karthi
-<BR>
-shylaja_gopalan_nair@moe.edu.sg
-<BR>
+Assistant Year Head : Mr Kiat Ying Xin
+<br>
+kiat_ying_xin@moe.edu.sg
+<br>
 
-| P3 Form Teachers | |  |
+| 2024 P3 Form Teachers | |  |
 | -------- | -------- | -------- |
-| 3-1    | Mdm Norashikin|    |
-|      | norashikin_hassan@moe.edu.sg    |   |
-|      | Mr Lee Kheng Yuen     |     |
-|     | lee_kheng_yuen@moe.edu.sg     |    |
-| 3-2    | Mdm Shirley   |      |
-|      | shirley_vanishri@moe.edu.sg    |   |
-|     | Mr Benjamin Chua     |   |
-|     | Chua_Yong_Sheng_Benjamin@moe.edu.sg    |   |
-| 3-3   | Mrs Arun Rosiah   |   |
-|      | arun_rosiah@moe.edu.sg   |     |
-|      | Ms Zeng Jing    |      |
-|     | zeng_jing@moe.edu.sg   |      |
-| 3-4     | Mr Sundram Anthony    |  |
-|      | sundram_anthony_gerard@moe.edu.sg    |      |
-|      | Mrs Catherine Mani   |     |
-|   | catherine_vijaya@moe.edu.sg     |   |
-| 3-5     | Mr Viknesh  |     |
-|      |  viknesh_tamil_mani@moe.edu.sg  |     |
-|      | Mdm Tang Kwang Hoon  |     |
-|      | tang_kwang_hoon@moe.edu.sg   |     |
-|3-6      | Mr Casey Lee   |     |
-|      | lee_kheng_chew_casey@moe.edu.sg   |     |
-|      | Mdm Juliana   |     |
-|      | juliana_johari@moe.edu.sg  |     |
+| 3-1    | Mdm Tan Pao Yun Gillian|    |
+|      | tan_pao_yun_gillian@moe.edu.sg    |   |
+|      | Mr Heng Chong Yong     |     |
+|     | heng_chong_yong@moe.edu.sg     |    |
+| 3-2    | Ms Elizabeth Emma Elanggoan   |      |
+|      | elizabeth_emma_elanggoan@moe.edu.sg    |   |
+|     | Mrs Kunalan Senthamarai     |   |
+|     | kunalan_senthamarai@moe.edu.sg    |   |
+| 3-3   | Mdm Wu Xiuqing   |   |
+|      | wu_xiuqing@moe.edu.sg   |     |
+|      | Mr Viknesh Tamil Mani    |      |
+|     | viknesh_tamil_mani@moe.edu.sg   |      |
+| 3-4     | Mr Michael Yi-Yan Tjin    |  |
+|      | michael_yi-yan_tjin@moe.edu.sg    |      |
+|      | Mdm Shirley Vanishri Albert   |     |
+|   | shirley_vanishri@moe.edu.sg     |   |
+| 3-5     | Mr Hemarooben  |     |
+|      |  hemarooben@moe.edu.sg  |     |
+|      | Mdm Teng Yuan Yi Esther |     |
+|      | teng_yuan_yi_esther@moe.edu.sg   |     |
+|3-6      | Mdm Laseina Ann Poospanathan   |     |
+|      | laseina_ann_poospanathan@moe.edu.sg   |     |
+|      | Ms Nur' Radhiyanna Mohammad Khatib   |     |
+|      | nur_radhiyanna_mohammad_khatib@moe.edu.sg  |     |
