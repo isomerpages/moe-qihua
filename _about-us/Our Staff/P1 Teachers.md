@@ -23,5 +23,4 @@ Assistant Year Head : Mdm Justina Tok
 | 1-5    | Mdm Hu Mingyan  <br><a href="mailto:hu_mingyan@moe.edu.sg">hu_mingyan@moe.edu.sg</a>  |     |
 |     | Ms Phee Min En Quesheth  <br><a href="mailto:phee_min_en_quesheth@moe.edu.sg">phee_min_en_quesheth@moe.edu.sg</a>  |     |
 |1-6     | Mdm Quek Marie  <br><a href="mailto:marie_quek@moe.edu.sg">marie_quek@moe.edu.sg</a> |     |
-|     | Ms Tan Hui Yik Mavis |     |
-|     |<a href="mailto:tan_hui_yik_mavis@moe.edu.sg">tan_hui_yik_mavis@moe.edu.sg</a>  |     |
+|     | Ms Tan Hui Yik Mavis <br><a href="mailto:tan_hui_yik_mavis@moe.edu.sg">tan_hui_yik_mavis@moe.edu.sg</a>  |     |
