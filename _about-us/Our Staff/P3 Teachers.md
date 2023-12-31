@@ -7,7 +7,7 @@ variant: markdown
 ---
 Assistant Year Head : Mr Kiat Ying Xin
 <br>
-kiat_ying_xin@moe.edu.sg
+<a href="mailto:kiat_ying_xin@moe.edu.sg">kiat_ying_xin@moe.edu.sg</a>
 <br>
 
 | 2024 P3 Form Teachers | |
