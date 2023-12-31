@@ -11,8 +11,8 @@ sofiyanni_mansol@moe.edu.sg
 <br>
 
 
-| 2024 P5 Form Teachers |  |  |
-| -------- | -------- | -------- |
+| 2024 P5 Form Teachers |  |
+| -------- | -------- |
 | 5-1    | Mr Siew Kok Keen <br> siew_kok_keen@moe.edu.sg     |      |
 |    | Mdm Lee Yen Ling     <br> lee_yen_ling@moe.edu.sg    |     |
 | 5-2 | Mdm See Yuen Ni    <br> see_yuen_ni@moe.edu.sg     |    |
