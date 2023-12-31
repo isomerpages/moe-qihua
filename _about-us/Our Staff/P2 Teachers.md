@@ -16,8 +16,8 @@ Assistant Year Head: Mdm Tan Zi Hui
 |      | Ms Hasanah Husain    <br><a href="mailto:hasanah_husain@moe.edu.sg">hasanah_husain@moe.edu.sg</a>     |     |
 | 2-2    | Ms Rajakumari Subramaniam  <br><a href="mailto:rajakumari_subramaniam@moe.edu.sg">rajakumari_subramaniam@moe.edu.sg</a>    |  |
 |    | Mdm Woo Wei Ling    <br><a href="mailto:woo_wei_ling@moe.edu.sg">woo_wei_ling@moe.edu.sg</a>     |    |
-| 2-3     | Mdm Wen Zhibin    <br> <a href="mailto:wen_zhibin@moe.edu.sg">wen_zhibin@moe.edu.sg</a>  |   
-|      | Mrs Leng Sun Ee    <br><a href="mailto:leng_sun_ee@moe.edu.sg">leng_sun_ee@moe.edu.sg</a>   |     
+| 2-3     | Mdm Wen Zhibin    <br> <a href="mailto:wen_zhibin@moe.edu.sg">wen_zhibin@moe.edu.sg</a>  |   |
+|      | Mrs Leng Sun Ee    <br><a href="mailto:leng_sun_ee@moe.edu.sg">leng_sun_ee@moe.edu.sg</a>   | |     
 |2-4     | Mdm Lim Xuehui   <br> <a href="mailto:lim_xuehui@moe.edu.sg">lim_xuehui@moe.edu.sg</a>  |      |
 |     | Mdm Amutha Silvam  <br> <a href="mailto:amutha_silvam@moe.edu.sg">amutha_silvam@moe.edu.sg</a>  |      |
 | 2-5    | Mdm Meera Sathasivan <br> <a href="mailto:meera_sathasivan@moe.edu.sg">meera_sathasivan@moe.edu.sg</a> |      |
