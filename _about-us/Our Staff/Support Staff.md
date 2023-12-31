@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-| Support Staff | | |
-| -------- | -------- | -------- |
+| Support Staff | |
+| -------- | -------- |
 | Admin Support | Mdm Fung Siang Hua Karen   |   |
 | iBeep Support   | Mdm Sainthamarai Manikam   |     |
 | Desktop Engineer   | Mdm Nor Fauzana Syazwani   |     |
