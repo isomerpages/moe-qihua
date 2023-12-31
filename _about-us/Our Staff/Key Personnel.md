@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-| Key Personnels |  |  |
-| --- | --- | --- |
+| Key Personnels |  |
+| --- | --- |
 | School Staff Developer | Mdm Rosinah <br>rosinah_mohamed_yusof@moe.edu.sg |  |
 | Year Head (UP) | Mdm Halimah <br>halimah_halil@moe.edu.sg |  |
 | Year Head (MP) | Mrs Karthi <br>shylaja_gopalan_nair@moe.edu.sg |  |
