@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
+HOD (MTL) : Mdm Woo Wei Ling
+<br> woo_wei_ling@moe.edu.sg
+<br>
 | Malay Language Teachers | |
 | -------- | -------- |
-| HOD (MTL)| Mdm Woo Wei Ling   <br> woo_wei_ling@moe.edu.sg |     |
 |ML Coordinator    | Mdm Nur Ain Yahya  <br> nur_ain_yahya@moe.edu.sg |     |
 |ML Teachers    | Mdm Juliana Johari   <br> juliana_johari@moe.edu.sg |     |
 |    | Mdm Safura Mohd Shariff   <br> safura_mohd_shariff@moe.edu.sg |     |
