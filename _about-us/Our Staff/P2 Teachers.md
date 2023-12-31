@@ -9,6 +9,11 @@ Assistant Year Head: Mdm Tan Zi Hui
 <br>
 tan_zi_hui@moe.edu.sg
 <br>
+| 2024 P2 Form Teachers | |
+| -------- | -------- |
+| 2-1     | Mr Teo Yuanzhong  <br>teo_yuanzhong@moe.edu.sg    |
+
+
 
 | 2024 P2 Form Teachers | |  
 | -------- | -------- |
