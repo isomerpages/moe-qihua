@@ -7,12 +7,12 @@ variant: markdown
 ---
 Assistant Year Head : Mdm Justina Tok
 <br>
-justina_tok_wei_lin@moe.edu.sg
+<a href="mailto:justina_tok_wei_lin@moe.edu.sg">justina_tok_wei_lin@moe.edu.sg</a>
 <br>
 
-| 2024 P1 Form Teachers |  |
+| 2024 P1 Form Teachers | |
 | -------- | -------- |
-| 1-1   | Mdm Ong Sze Chee    <br>ong_sze_chee@moe.edu.sg  |     |
+| 1-1 | Mdm Ong Sze Chee<br>ong_sze_chee@moe.edu.sg  | |
 |     | Mdm Zalina Buang  <br>zalina_buang@moe.edu.sg   |     |
 | 1-2     | Ms Chitradewi Singam    <br>chitradewi_singam@moe.edu.sg  |     |
 |     | Ms Sim Hui Xian  <br>sim_hui_xian@moe.edu.sg  |     |
