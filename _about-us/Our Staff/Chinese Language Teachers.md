@@ -12,7 +12,7 @@ variant: markdown
 | SH (VIA)    | Ms Tan Poh Suan   <br>tan_poh_suan@moe.edu.sg   |     |
 | ST (CL)| Mdm Tang Kwang Hoon  <br>tang_kwang_hoon@moe.edu.sg  |   |
 | ST (CL)| Ms Chia Ching Peng  <br> chia_ching_peng@moe.edu.sg   |   |
-|Teacher | Mdm Zhao Ying  <br> zhao_ying@moe.edu.sg  |   |
+|CL Teachers | Mdm Zhao Ying  <br> zhao_ying@moe.edu.sg  |   |
 | | Mdm Wu Xiuqing  <br> wu_xiuqing@moe.edu.sg  |   |
 | | Mdm Wen Zhi Bin <br> wen_zhibin@moe.edu.sg  |   |
 | | Mdm Hu Mingyan <br> hu_mingyan@moe.edu.sg  |   |
