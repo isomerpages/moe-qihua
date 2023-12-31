@@ -7,23 +7,21 @@ variant: markdown
 ---
 Year Head : Mdm Shylaja Gopalan Nair
 <br>
-shylaja_gopalan_nair@moe.edu.sg
+<a href="mailto:shylaja_gopalan_nair@moe.edu.sg">shylaja_gopalan_nair@moe.edu.sg</a>
 <br>
-
-
 
 | 2024 P4 Form Teachers |  |
 | -------- | -------- |
-| 4-1  | Mdm Norashikin Hassan <br> norashikin_hassan@moe.edu.sg    |     |
-|     | Mr Lee Kheng Yuen    <br>  lee_kheng_yuen@moe.edu.sg  |    |
-| 4-2    | Mdm Siti Humairah Mohamed Taufek  <br> siti_humairah_mohamed_taufek@moe.edu.sg  |     |
-|     | Mr Chua Yong Sheng Benjamin  <br> chua_yong_sheng_benjamin@moe.edu.sg    |    |
-| 4-3   | Mdm Marwiyah Mohamed Rawi  <br> marwiyah_mohamed_rawi@moe.edu.sg     |    |
-|      | Ms Gao Wen    <br> gao_wen@moe.edu.sg   |    |
-| 4-4   | Mr Sundram Anthony Gerard    <br>  sundram_anthony_gerard@moe.edu.sg   |   |
-|     | Ms Ee Jia Ying  <br>  ee_jia_ying@moe.edu.sg  |     |
-| 4-5    | Mdm Tang Kwang Hoon    <br> tang_kwang_hoon@moe.edu.sg    |      |
-|     | Mdm Tay Seok Har        <br>  tay_seok_har@moe.edu.sg  |     |
-|     | Ms Chia Ching Peng      <br>  chia_ching_peng@moe.edu.sg   |     |
-| 4-6    | Mr Lee Kheng Chew Casey    <br> lee_kheng_chew_casey@moe.edu.sg    |      |
-|     | Mdm Juliana Johari   <br>  juliana_johari@moe.edu.sg  |     |
+| 4-1  | Mdm Norashikin Hassan <br> <a href="mailto:norashikin_hassan@moe.edu.sg">norashikin_hassan@moe.edu.sg</a>    |     |
+|     | Mr Lee Kheng Yuen    <br>  <a href="mailto:lee_kheng_yuen@moe.edu.sg">lee_kheng_yuen@moe.edu.sg</a>  |    |
+| 4-2    | Mdm Siti Humairah Mohamed Taufek  <br> <a href="mailto:siti_humairah_mohamed_taufek@moe.edu.sg">siti_humairah_mohamed_taufek@moe.edu.sg</a>  |     |
+|     | Mr Chua Yong Sheng Benjamin  <br> <a href="mailto:chua_yong_sheng_benjamin@moe.edu.sg">chua_yong_sheng_benjamin@moe.edu.sg</a>    |    |
+| 4-3   | Mdm Marwiyah Mohamed Rawi  <br> <a href="mailto:marwiyah_mohamed_rawi@moe.edu.sg">marwiyah_mohamed_rawi@moe.edu.sg</a>     |    |
+|      | Ms Gao Wen    <br> <a href="mailto:gao_wen@moe.edu.sg">gao_wen@moe.edu.sg</a>   |    |
+| 4-4   | Mr Sundram Anthony Gerard    <br>  <a href="mailto:sundram_anthony_gerard@moe.edu.sg">sundram_anthony_gerard@moe.edu.sg</a>   |   |
+|     | Ms Ee Jia Ying  <br>  <a href="mailto:ee_jia_ying@moe.edu.sg">ee_jia_ying@moe.edu.sg</a>  |     |
+| 4-5    | Mdm Tang Kwang Hoon    <br> <a href="mailto:tang_kwang_hoon@moe.edu.sg">tang_kwang_hoon@moe.edu.sg</a>    |      |
+|     | Mdm Tay Seok Har        <br>  <a href="mailto:tay_seok_har@moe.edu.sg">tay_seok_har@moe.edu.sg</a>  |     |
+|     | Ms Chia Ching Peng      <br>  <a href="mailto:chia_ching_peng@moe.edu.sg">chia_ching_peng@moe.edu.sg</a>   |     |
+| 4-6    | Mr Lee Kheng Chew Casey    <br> <a href="mailto:">lee_kheng_chew_casey@moe.edu.sg</a>    |      |
+|     | Mdm Juliana Johari   <br>  <a href="mailto:juliana_johari@moe.edu.sg">juliana_johari@moe.edu.sg</a>  |     |
