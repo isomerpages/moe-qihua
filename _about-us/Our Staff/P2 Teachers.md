@@ -12,7 +12,7 @@ tan_zi_hui@moe.edu.sg
 
 | 2024 P2 Form Teachers | |  
 | -------- | -------- |
-| 2-1     | Mr Teo Yuanzhong  <br>teo_yuanzhong@moe.edu.sg     |     
+| 2-1     | Mr Teo Yuanzhong  <br>teo_yuanzhong@moe.edu.sg     | |     
 |      | Ms Hasanah Husain    <br>hasanah_husain@moe.edu.sg     |     |
 | 2-2    | Ms Rajakumari Subramaniam  <br>rajakumari_subramaniam@moe.edu.sg    |  |
 |    | Mdm Woo Wei Ling    <br>woo_wei_ling@moe.edu.sg     |    |
