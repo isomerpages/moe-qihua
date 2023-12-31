@@ -7,12 +7,10 @@ variant: markdown
 ---
 | School Leaders|  |  |
 | -------- | -------- | -------- |
-| Principal    | Mrs Lee Hui Feng   |   |
-|      | <a href="mailto:lee_hui_feng@schools.gov.sg">lee_hui_feng@schools.gov.sg</a>   |    |
-| Vice-principal (Academic)    | Mr Foo Chuan Kai    |     |
-|     | <a href="mailto:foo_chuan_kai@schools.gov.sg">foo_chuan_kai@schools.gov.sg</a>  |     |
-| Vice-principal (Academic)     |  Ms Nurul Suhana Sulaiman    |     |
-|      | <a href="mailto:nurul_suhana_sulaiman@schools.gov.sg">nurul_suhana_sulaiman@schools.gov.sg</a>    |
+| Principal    | Mrs Lee Hui Feng <br>  lee_hui_feng@schools.gov.sg |
+| Vice-principal (Academic)    | Mr Foo Chuan Kai <br> foo_chuan_kai@schools.gov.sg  |
+| Vice-principal (Academic)     |  Ms Nurul Suhana Sulaiman  <br> nurul_suhana_sulaiman@schools.gov.sg |     |
+   |
 
 <br>
 <br>
