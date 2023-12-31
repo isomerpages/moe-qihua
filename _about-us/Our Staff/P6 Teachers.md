@@ -26,3 +26,4 @@ Year Head : Mdm Halimah Halil
 |6-6      | Mr Anuar Ismail   <br> <a href="mailto:anuar_b_ismail@moe.edu.sg">anuar_b_ismail@moe.edu.sg</a>   |      |
 |      | Mdm Koo Sen Hooi   <br> <a href="mailto:koo_sen_hooi@moe.edu.sg">koo_sen_hooi@moe.edu.sg</a><a>   |      |
 |      | Mr Tay Chu Yong Damien   <br></a><a href="mailto:tay_chu_yong_damien@moe.edu.sg">tay_chu_yong_damien@moe.edu.sg</a>   |      |
+	
