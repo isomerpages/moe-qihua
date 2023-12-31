@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-| Chinese  Language Teachers | | |
-| -------- | -------- | -------- |
-| HOD (MTL)| Mdm Woo Wei Ling   |   |
-|      | woo_wei_ling@moe.edu.sg |     |
+| Chinese  Language Teachers | |
+| -------- | -------- |
+| HOD (MTL)| Mdm Woo Wei Ling   <br>woo_wei_ling@moe.edu.sg |     |
 | LH (CL)    | Mdm See Yuen Ni     |     |
 |      | see_yuen_ni@moe.edu.sg |     |
 | SH (VIA)    | Ms Tan Poh Suan     |     |
