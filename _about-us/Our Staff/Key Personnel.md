@@ -27,4 +27,4 @@ variant: markdown
 | SH (Student Well-Being) | Mr Cham Bao Rong <br><a href="mailto:cham_bao_rong@moe.edu.sg">cham_bao_rong@moe.edu.sg</a> |  |
 | SH (VIA) | Ms Tan Poh Suan <br><a href="mailto:tan_poh_suan@moe.edu.sg">tan_poh_suan@moe.edu.sg</a>  |  |
 | SH (Music/Aesthetics) | Ms Chan Ho Ting <br><a href="mailto:chan_ho_ting@moe.edu.sg">chan_ho_ting@moe.edu.sg</a> |  |
-| SH (CCA) | Mr Lee Kheng Yuen<br><a href="mailto:lee_kheng_yuen@moe.edu.sg">lee_kheng_yuen@moe.edu.sg</a> |
+| SH (CCA) | Mr Lee Kheng Yuen<br><a href="mailto:lee_kheng_yuen@moe.edu.sg">lee_kheng_yuen@moe.edu.sg</a> | |
