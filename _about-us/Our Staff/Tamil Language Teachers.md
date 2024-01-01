@@ -3,7 +3,14 @@ title: Tamil Language Teachers
 permalink: /about-us/our-staff/tl-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
+HOD (MTL) : Mdm Woo Wei Ling
+<br> <a href="mailto:woo_wei_ling@moe.edu.sg">woo_wei_ling@moe.edu.sg</a>
+<br>
 
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">TL Coordinator</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Amutha<br><br><a href="mailto:amutha_silvam@moe.edu.sg"><span style="text-decoration:underline;color:#BC3A1A;background-color:transparent">amutha_silvam@moe.edu.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teachers</td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Kunalan<br><br><a href="mailto:kunalan_senthamarai@moe.edu.sg"><span style="text-decoration:underline;color:#BC3A1A;background-color:transparent">kunalan_senthamarai@moe.edu.sg</span></a></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Chitra<br><br><a href="mailto:chitradewi_singam@moe.edu.sg"><span style="text-decoration:underline;color:#BC3A1A;background-color:transparent">chitradewi_singam@moe.edu.sg</span></a></td></tr></tbody></table>
+| Tamil Language Teachers | |
+| -------- | -------- |
+|TL Coordinator    | Mdm Amutha Silvam   <br> <a href="mailto:amutha_silvam@moe.edu.sg">amutha_silvam@moe.edu.sg</a> |     |
+|TL Teachers    | Mrs Kunalan Senthamarai   <br> <a href="mailto:kunalan_senthamarai@moe.edu.sg">kunalan_senthamarai@moe.edu.sg</a> |     |
+|    | Ms Chitradewi Singam   <br> <a href="mailto:chitradewi_singam@moe.edu.sg">chitradewi_singam@moe.edu.sg</a> |     |

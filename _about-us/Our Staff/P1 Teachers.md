@@ -3,43 +3,24 @@ title: P1 Teachers
 permalink: /about-us/our-staff/p1-form-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
-Year Head : Mdm Justina Tok
-<BR>
+Assistant Year Head : Mdm Justina Tok
+<br>
 <a href="mailto:justina_tok_wei_lin@moe.edu.sg">justina_tok_wei_lin@moe.edu.sg</a>
-<BR>
+<br>
 
-| Primary 1 Form teachers |  | |
-| -------- | -------- | -------- |
-| 1-1   | Ms Hasanah    |     |
-|     | <a href="mailto:hasanah_husain@moe.edu.sg">hasanah_husain@moe.edu.sg</a>  |     |
-|     | Mr Shawn Teo   |     |
-|     |<a href="mailto:teo_yuanzhong@moe.edu.sg">teo_yuanzhong@moe.edu.sg</a>     |     |
-| 1-2     | Ms Raja    |     |
-|     | <a href="mailto:rajakumari_subramaniam@moe.edu.sg">rajakumari_subramaniam@moe.edu.sg</a>  |     |
-|     | Mdm Juwita  |     |
-|     |<a href="mailto:juwita_mohamad_salleh@moe.edu.sg">juwita_mohamad_salleh@moe.edu.sg</a>  |     |
-| 1-3    | Mdm Humairah |     |
-|     |<a href="mailto:siti_humairah_mohamed_taufek@moe.edu.sg">siti_humairah_mohamed_taufek@moe.edu.sg</a>  |     |
-|     | Mrs Leng Sun Ee  |     |
-|     |<a href="mailto:leng_sun_ee@moe.edu.sg">leng_sun_ee@moe.edu.sg</a>  |     |
-| 1-4    | Mrs Ho Xuehui  |     |
-|     | <a href="mailto:lim_xuehui@moe.edu.sg">lim_xuehui@moe.edu.sg</a>  |     |
-|     | Mdm Amutha  |     |
-|     | <a href="mailto:amutha_silvam@moe.edu.sg">amutha_silvam@moe.edu.sg</a>  |     |
-| 1-5    | Mrs Dominic  |     |
-|     | <a href="mailto:meera_sathasivan@moe.edu.sg">meera_sathasivan@moe.edu.sg</a>  |     |
-|     | Mdm Justina Tok  |     |
-|     | <a href="mailto:justina_tok_wei_lin@moe.edu.sg">justina_tok_wei_lin@moe.edu.sg</a>  |     |
-|1-6     | Mdm Stephanie Lee  |     |
-|     | <a href="mailto:lee_sook_ling@moe.edu.sg">lee_sook_ling@moe.edu.sg</a> |     |
-|     | Mdm Jasmine See |     |
-|     |<a href="mailto:see_mei_hua_jasmine@moe.edu.sg">see_mei_hua_jasmine@moe.edu.sg</a>  |     |
-| 1-7    | Mdm Aernie |     |
-|     | <a href="mailto:aernie_sulaiman@moe.edu.sg">aernie_sulaiman@moe.edu.sg</a> |     |
-|     | Mrs Chan Xiao Fong |     |
-|     |<a href="mailto:chan_xiao_fong@moe.edu.sg">chan_xiao_fong@moe.edu.sg</a> |     |
-| 1-8    | Mdm Anushia |     |
-|     |<a href="mailto:anushia_s_surandharan@moe.edu.sg">anushia_s_surandharan@moe.edu.sg</a>  |     |
-|     | Mdm Yanti |     |
-|    | <a href="mailto:Ariyanti_Osman_Ali@moe.edu.sg">Ariyanti_Osman_Ali@moe.edu.sg</a> |     |
+| 2024 P1 Form Teachers | |
+| -------- | -------- |
+| 1-1 | Mdm Ong Sze Chee<br><a href="mailto:ong_sze_chee@moe.edu.sg">ong_sze_chee@moe.edu.sg</a>  | |
+|     | Mdm Zalina Buang  <br><a href="mailto:zalina_buang@moe.edu.sg">zalina_buang@moe.edu.sg</a>   |     |
+| 1-2     | Ms Chitradewi Singam    <br><a href="mailto:chitradewi_singam@moe.edu.sg">chitradewi_singam@moe.edu.sg</a>  |     |
+|     | Ms Sim Hui Xian  <br><a href="mailto:sim_hui_xian@moe.edu.sg">sim_hui_xian@moe.edu.sg</a>  |     |
+| 1-3    | Mdm Lim May Gek Josephine <br><a href="mailto:lim_may_gek_josephine@moe.edu.sg">lim_may_gek_josephine@moe.edu.sg</a>  |     |
+|     | Mdm Nur Hafizah Abd Rahim  <br><a href="mailto:nur_hafizah_abd_rahim@moe.edu.sg">nur_hafizah_abd_rahim@moe.edu.sg</a> |     |
+| 1-4    | Ms Tan Swee Pin <br><a href="mailto:tan_swee_pin@moe.edu.sg">tan_swee_pin@moe.edu.sg</a>  |     |
+|     | Mr Kamarulzaman Hashim  <br><a href="mailto:kamarulzaman_b_hashim@moe.edu.sg">kamarulzaman_b_hashim@moe.edu.sg</a>  |     |
+| 1-5    | Mdm Hu Mingyan  <br><a href="mailto:hu_mingyan@moe.edu.sg">hu_mingyan@moe.edu.sg</a>  |     |
+|     | Ms Phee Min En Quesheth  <br><a href="mailto:phee_min_en_quesheth@moe.edu.sg">phee_min_en_quesheth@moe.edu.sg</a>  |     |
+|1-6     | Mdm Quek Marie  <br><a href="mailto:marie_quek@moe.edu.sg">marie_quek@moe.edu.sg</a> |     |
+|     | Ms Tan Hui Yik Mavis <br><a href="mailto:tan_hui_yik_mavis@moe.edu.sg">tan_hui_yik_mavis@moe.edu.sg</a>  |     |
