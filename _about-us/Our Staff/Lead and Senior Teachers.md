@@ -11,6 +11,5 @@ variant: markdown
 | Senior Teacher (English)    | Mrs Josephine Cheok    <br><a href="mailto:lim_may_gek_josephine@moe.edu.sg">lim_may_gek_josephine@moe.edu.sg</a>  |     |
 | Senior Teacher (English)     |  Mdm Norashikin Bte Hassan   <br><a href="mailto:norashikin_hassan@moe.edu.sg">norashikin_hassan@moe.edu.sg</a>  |
 | Senior Teacher (Chinese)  | Mdm Tang Kwang Hoon  <br><a href="mailto:tang_kwang_hoon@moe.edu.sg">tang_kwang_hoon@moe.edu.sg</a>  |     |
-| Senior Teacher (Chinese)    |  Ms Chia Ching Peng  <br><a href="mailto:chia_ching_peng@moe.edu.sg">chia_ching_peng@moe.edu.sg</a>   |     |
 | Senior Teacher (Science)    | Mdm Lim Siew Hui  <br><a href="mailto:lim_siew_hui@moe.edu.sg">lim_siew_hui@moe.edu.sg</a> |     |
 | Senior Teacher (Learning Needs-Lower Pri Learners)     | Mdm Marie Quek <br><a href="mailto:quek_marie@moe.edu.sg">quek_marie@moe.edu.sg</a> |     |
