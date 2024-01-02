@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-Assistant Year Head : Mr Kiat Ying Xin
+Assistant Year Head (Covering Duty): Mr Kiat Ying Xin
 <br>
 <a href="mailto:kiat_ying_xin@moe.edu.sg">kiat_ying_xin@moe.edu.sg</a>
 <br>
