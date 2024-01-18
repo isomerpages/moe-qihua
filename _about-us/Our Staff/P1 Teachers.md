@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-Assistant Year Head : Mdm Justina Tok
+Assistant Year Head (Covering Duty) : Mdm Tan Zi Hui
 <br>
-<a href="mailto:justina_tok_wei_lin@moe.edu.sg">justina_tok_wei_lin@moe.edu.sg</a>
+<a href="mailto:tan_zi_hui@moe.edu.sg">tan_zi_hui@moe.edu.sg</a>
 <br>
 
 | 2024 P1 Form Teachers | |
