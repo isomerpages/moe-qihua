@@ -79,13 +79,13 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.png">
 </div>
 <p><strong>INFORMATION FOR PARENTS</strong> 
 <br>
