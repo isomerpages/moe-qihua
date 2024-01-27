@@ -102,5 +102,5 @@ clarification about the school’s Sexuality Education programme.</p>
 <p>
 <br>
 </p>
-<p><em>Updated 20/1/2023</em>
+<p><em>Updated 27/1/2024</em>
 </p>
