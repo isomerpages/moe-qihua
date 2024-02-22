@@ -11,8 +11,8 @@ third_nav_title: Student Wellness Resource
 
 **<font size=6>Student Wellness Resource</font>**
 
-[Exercises](https://moe-qihua-staging.netlify.app/exercises/)
+[Exercises](/exercises/)
 
-[Eye Care](https://moe-qihua-staging.netlify.app/eye-care/)
+[Eye Care](/eye-care/)
 
-[HE Buzz](https://moe-qihua-staging.netlify.app/he-buzz/)
+[HE Buzz](/he-buzz/)
