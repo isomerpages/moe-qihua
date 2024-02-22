@@ -1,0 +1,7 @@
+collections:
+  distinctive-programmes:
+    output: true
+    order:
+      - Applied Learning Programme (I&E Excellence Programme).md
+      - Learning for Life Programme (Sports Development Programme).md
+      - Eaglets.md

@@ -1,0 +1,7 @@
+collections:
+  assessment-and-awards-matters:
+    output: true
+    order:
+      - School Based Assessment.md
+      - Examination Rules and Regulations.md
+      - Edusave Awards.md

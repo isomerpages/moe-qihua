@@ -1,0 +1,14 @@
+logo: /images/Qihua-Primary-School-logo-900dpi-test.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: School Calendar
+    url: /events
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Assessment & Awards Matters
+    collection: assessment-and-awards-matters
+  - title: Useful Information
+    collection: useful-information
