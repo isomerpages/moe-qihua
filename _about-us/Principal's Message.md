@@ -46,3 +46,52 @@ Principal
 <br>
 
 钟蔚芬校长
+<br>
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:等线; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:DengXian; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@等线"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:等线; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual;} p {mso-style-noshow:yes; mso-style-priority:99; mso-margin-top-alt:auto; margin-right:0cm; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; mso-ligatures:standardcontextual;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:等线; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 90.0pt 72.0pt 90.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+Salam Sejahtera Ibu Bapa,  
+  
+Selamat menyambut Tahun 2024 dan kembali ke Qihua!
+
+Saya berharap anda mendapat percutian yang memberi nafas baharu, membina hubungan yang bermakna bersama ahli keluarga dan juga memberi peluang&nbsp; mengejar minat. Kaki tangan Qihua berasa seronok menyambut kedatangan para pelajar kembali ke sekolah.&nbsp; Kami hendak melibatkan mereka dengan &nbsp;sesi pembelajaran dan penerokaan pada tahun ini.
+
+Di Qihua, pengalaman belajar dibina dengan kesedaran di atas menjana kekuatan para pelajar, penguasaan mencipta nilai untuk diri sendiri dan menjalin hubungan &nbsp;dengan orang lain.&nbsp; Kami berharap untuk memupuk pelajar sebagai individu yang berfikiran positif dan pada masa yang sama mempunyai kesedaran dan kemampuan mengawal diri. Ini&nbsp; dapat dijana dengan sistem sokongan yang kuat yang terdiri daripada kaki tangan Qihua, ibu bapa dan para pelajar sendiri.&nbsp; Pelajar akan diberikan peluang belajar menjadi individu yang peka terhadap perasaan orang lain dan mampu menjalin hubungan mesra bersama rakan-rakan serta memberi &nbsp;sokongan kepada mereka &nbsp;jika perlu.&nbsp; Dalam proses ini, mereka akan membina keyakinan diri apabila mereka dapat menyaksikan pencapaian peribadi mereka yang menghala pada sumbangan secara kolektif. Proses ini akan mampu menghasilkan pelajar yang berkeperibadian sukarelawan. &nbsp;Dengan ini diharapkan pada masa hadapan, mereka akan menjadi penyumbang aktif kepada masyarakat.
+
+Teknologi merupakan asas dalam aspek pengajaran dan pembelajaran.&nbsp; Nilai-nilai digital yang positif terutama dalam era penggunaan peranti, menjadi keperluan untuk memastikan&nbsp; keselamatan para pelajar tidak dikompromi.&nbsp; Kami akan terus bekerjasama dengan ibu bapa untuk menanam sifat bertanggungjawab dan nilai-nilai kehidupan yang baik &nbsp;dalam diri pelajar supaya mereka memperoleh manfaat sepenuhnya daripada kemampuan dan kemajuan teknologi.
+
+Sangatlah penting bagi anak-anak kita berpengetahuan tentang isu semasa dan seharusnya ada hubungan tentang apa yang berlaku di dunia. Ibu bapa harus menggalakkan apa yang terjadi di sekeliling mereka saban hari dan isu semasa sebagai pusat perbualan demi meluaskan skop pengetahuan mereka dan menyuntik sifat ingin serta ambil tahu tentang apa yang berlaku kepada masyarakat dunia.
+
+Saya berharap dapat terus bekerjasama dengan para ibu bapa untuk membimbing anak-anak kita dan mencapai keseronokan dalam mereka mengharungi tahun baharu di Qihua. Ayuh, kita bersama akan menjadikan 2024 tahun yang menawarkan ganjaran dan kebahagiaan buat mereka.
+
+Puan Lee Hui Feng  
+Pengetua Sekolah Rendah Qihua
+<br>
+        <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:"Anjal InaiMathi Sch Book"; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-2146435069 0 0 0 1 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-font-kerning:0pt; mso-ligatures:none; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 90.0pt 72.0pt 90.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+அன்பார்ந்த பெற்றோருக்கும் பாதுகாவலர்களுக்கும்,
+
+  
+2024 - ஆம் ஆண்டிற்கும் சீஹூவாவுக்கும் எனது உள்ளம் கனிந்த நல்வரவு!
+
+கடந்த விடுமுறை உங்கள் அனைவருக்கும் புத்துணர்வுமிக்க ஒன்றனதாகவும் அர்த்தமுள்ளதாகவும் அமைந்திருக்கும் என நான் நம்புகிறேன். நீங்கள் அனைவரும் தத்தம் குடும்பத்தினருடன் வலுவான உறவை உருவாக்கவும் உங்களுக்கு விருப்பமான வேலையைத் துவங்கவும் இந்த விடுமுறை ஒரு பொன்னான காலமாக நிச்சயமாக அமைந்திருக்கும்.
+
+நம் பள்ளியில் மாணவர்களின் சுயேச்சை கற்றல் அனுபவத்தில் வளர்ச்சியில் அதிக கவனம் செலுத்தி அமைத்துள்ளோம். அதாவது அவர்கள் தங்கள் பண்பு நெறிகளை மேம்படுத்திக்கொண்டு அனைவருடன் இணைய நம் பள்ளியில் கல்வி முறை அமலாக்கப்படுத்தப்பட்டு வருகிறது.
+
+இதன் வழி நம் மாணவர்கள் ஆக்கப்பூர்வமான வழியில் அவர்களையும் அவர்கள் எதிர் நோக்கும் சூழ்நிலைகளையும் அணுகுவர் என்பதை நாம் நம்புகிறோம். நம் பள்ளி மற்ற தரப்பினருடன் கொண்டுள்ள அணுக்கமான உறவு முறையும், பெற்றோர்களின் ஒத்துழைப்பும், மாணவர்களின் சுயக் கற்றல் திறனும் இம்முயற்சியைச் சாத்தியப்படுத்துகிறது எனலாம்.
+
+நம் மாணவர்களுக்குக் கொடுக்கப்படும் கற்றலின் வழி, அவர்கள் மற்றவர்களின் உணர்ச்சிகளுக்கு முதலிடம் முக்கியத்துவம் கொடுப்பவர்களாகவும், தங்களின் சக மாணவர்களுடன் நல்லுறவுடனும், எச்சூழ்நினைகளிளும் அவர்களுக்குத் திடமான ஆதரவாகவும் அமைவர் என்பதை நம்புகின்றோம்.
+
+இவ்வழி அவர்களின் சுய வளர்ச்சி எவ்வாறு மற்றவர்களுக்கு உறுதுணையாக அமைகிறது என்பதை உணர்ந்து, சமூகத்துக்குத் தொண்டு செய்யும் விதைகளைத் அனுபவப்பூர்வமாக தங்களுக்குள் விதைத்துக்கொள்வர். இத்தகைய பண்பானது பிற்காலத்தில் சமூகத்தொண்டைச் செய்து அவர்களின் பங்கை எதிர்க்காலச் சமுதாயத்திற்கு அளிப்பர் என்பதை நாம் திடமாக நம்புகிறோம்
+
+தொழில்நுட்பம் இன்றுவரை நம் கற்பித்தலிலும் கற்றலிலும் இன்றியமையாத ஒன்றாக இருந்துவருகிறது. ஆகையால், நம் பிள்ளைகள் நன்மை அடைய ஆக்ககரமான மின்னலக்கப் பழக்கத்தைக் கொண்டிருப்பது மிகவும் முக்கியம். அதிலும் குறிப்பாகத், தொழில்நுட்ப கருவிகளை நல்ல முறையில் பயன்படுத்துவது மிக அவசியம். நாங்கள் பெற்றோரான உங்களுடனும் தொடர்ந்து கைகோர்த்து செயல்பட விரும்புகிறோம். நாம் ஒன்று சேர்ந்து நம் மாணவர்களுக்குப் பொறுப்புணர்வையும் நல்ல பழக்கங்களையும் கற்றுக்கொடுத்தால்&nbsp; அவர்கள் நிச்சயம் தொழிநுட்ப வளர்ச்சியின் ஆக்கப்பூர்வமான நன்மையைப் பெறுவார்கள்.
+
+நம் மாணவர்கள் தற்கால நடப்பு விவகாரங்களைப் பற்றி அறிந்திருப்பது முக்கியம். பெற்றொரும் இவற்றைத் தழுவி தங்கள் பிள்ளைகளுடன் அன்றாடம் கலந்துரையாடலில் ஈடுபடலாம். இது நம் மாணவர்களின் விழிப்புணர்வையும் விருப்பார்வத்தையும் வளர்க்க உறுதுணையாக அமையும்.
+
+இவ்வருடமும் உங்களுடன் இணைந்தாற்போல் நம் மாணவர்களின் கல்வி தேடலிலும், மகிழ்வூட்டும் கற்றலிலும் பங்களிக்க விரும்புகிறேன். இந்த 2024 – ஆம் ஆண்டு நம் சின்னஞ்சிறு செல்வங்களுக்கு நல்லதொரு ஆண்டாக அமைய இணைந்து செயல்படுவோம்.&nbsp;&nbsp;
+
+இப்படிக்கு,
+
+திருமதி லீ ஹூய் ஃபெங்
+
+பள்ளி தலைமையாசிரியர்
+<br>
