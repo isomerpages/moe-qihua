@@ -63,7 +63,7 @@ etc.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Address:&nbsp;5</em> Woodlands Street 81, Singapore 738525</p>
+<p>Address:&nbsp;5 Woodlands Street 81, Singapore 738525</p>
 </li>
 <li>
 <p>Contact No:&nbsp;62696250</p>
