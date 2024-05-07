@@ -106,10 +106,9 @@ Programme (HMSP)’ guidelines&nbsp;(See <a href="https://www.hpb.gov.sg/schools
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
 </li>
-</ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Must be in personal
-attendance at the stall during operating hours.</p>
-<ul data-tight="true" class="tight">
+<li>
+<p>Must be in personal attendance at the stall during operating hours.</p>
+</li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
 </li>
