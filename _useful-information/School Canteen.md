@@ -29,7 +29,7 @@ description: ""
 <p>Western or Japanese Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be confirmed</p>
+<p>16 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Non-Halal, Open to Proposal</p>
@@ -132,5 +132,5 @@ Singapore Food Agency (SFA).</p>
 <p>&nbsp;</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.&nbsp;</em>
 </p>
-<p><strong><em>Registration Closing date: 16 June 2024.</em></strong>
+<p><strong><em>Registration Closing date: 16 June 2024</em></strong>
 </p>
