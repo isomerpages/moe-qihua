@@ -29,7 +29,7 @@ description: ""
 <p>Western or Japanese Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be confirmed</p>
+<p>16 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Non-Halal, Open to Proposal</p>
@@ -69,8 +69,7 @@ etc.</p>
 <p>Contact No:&nbsp;62696250</p>
 </li>
 <li>
-<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">qihua_ps@moe.edu.sg</a>
-</p>
+<p>Email: qihua_ps@moe.edu.sg</p>
 </li>
 <li>
 <p>Contact Person: Ms Lim Shin Ee</p>
@@ -101,7 +100,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health and nutritional standards
 set by the Health Promotion Board (HPB) under the ‘Healthy Meals in Schools
-Programme (HMSP)’ guidelines&nbsp;(See <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme." rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+Programme (HMSP)’ guidelines&nbsp;(See <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
@@ -131,6 +130,4 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p>&nbsp;</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.&nbsp;</em>
-</p>
-<p><strong><em>Registration Closing date: 16 June 2024.</em></strong>
 </p>
