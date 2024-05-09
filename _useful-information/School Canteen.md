@@ -69,7 +69,7 @@ etc.</p>
 <p>Contact No:&nbsp;62696250</p>
 </li>
 <li>
-<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">qihua_ps@moe.edu.sg</a>
+<p>Email:&nbsp;<a href="qihua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qihua_ps@moe.edu.sg</a>
 </p>
 </li>
 <li>
