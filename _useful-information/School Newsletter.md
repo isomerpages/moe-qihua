@@ -4,6 +4,13 @@ permalink: /school-life/school-notifications/
 description: ""
 variant: markdown
 ---
+**2024/1*
+
+[Qihua Connect 2024/1](https://online.flipbuilder.com/zlpi/cavt/)
+<br>
+<br>
+<img src="/images/issue12024.png" style="width:250px;height:400px;">
+<br>
 **2023/2*
 
 [Qihua Connect 2023/2](https://online.flipbuilder.com/zlpi/hkru/)
@@ -36,25 +43,5 @@ variant: markdown
 [Qihua Connect 2022/1](https://online.flipbuilder.com/zlpi/ptfx/)
 
 <img src="/images/Useful Links/Newsletter Image 1.jpeg" style="width:250px;height:400px;">
-<br>
-<br>
-
-**2021/2**
-
-[Qihua Connect 2021/2](https://online.flipbuilder.com/zlpi/qwde/)
-
-<br>
-<img src="/images/Useful Links/Newsletter Image 2.jpg" style="width:250px;height:400px;">
-
-<br>
-<br>
-
-**2021/1**
-
-[Qihua Connect 2021/1](https://online.flipbuilder.com/zlpi/cnxb/)
-
-<br>
-<img src="/images/Useful Links/Newsletter Image 3.jpg" style="width:250px;height:400px;">
-
 <br>
 <br>
