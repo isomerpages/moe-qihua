@@ -26,7 +26,7 @@ sections:
         experiences in Qihua.
       button: Click here
       url: https://www.qihuapri.moe.edu.sg/school-life/school-notifications/
-      image: /images/issue12024_med.png
+      image: /images/issue12024_small.png
       alt: Image alt text
   - infobar:
       title: Contact Us
