@@ -15,4 +15,4 @@ variant: markdown
 | Security Officer   | Mr Loy Hwee Khim   |     |
 | Security Officer  | Mr Ling Hua Hing Raymond   |     |
 | Gardener   | Mr Aung Thu Ra   |     |
-| Uplift Support   | Ms Ang Weili   |     |
+| Uplift Support   | Ms Adeline Wong Yu Ting   |     |
