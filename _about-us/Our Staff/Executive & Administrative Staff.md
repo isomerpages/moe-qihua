@@ -15,9 +15,7 @@ variant: markdown
 |    | Mdm Nur Nasyitah Amirah Haris 
 | Corporate Support Officer  | Mdm Norsiah Samsoo  
 |   | Mr Chionh Wen Ru Darryl   
-| Operations Support Officer  | Mdm Chea Lee Fong Ann    |     |
+| Operations Support Officer  | Mdm Saadiah Mohd Napiah    |     |
 |   | Mdm Mariam Bee Jamal    |     |
-|   | Mdm Pathammal Shumanagam    |     |
-|   | Mdm Saadiah Mohd Napiah    |     |
 | ICT Manager  | Mdm Siti Faryanty Jaffar   
 | ICT Associate  | Mr Lim Teck Hua

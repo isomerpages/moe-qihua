@@ -2,10 +2,6 @@
 title: School Calendar
 permalink: /events/
 description: ""
+variant: markdown
 ---
-
-
-
-**<font size=6>School Calendar</font>**
-
-<iframe src="https://calendar.google.com/calendar/embed?src=qihuapublic%40gmail.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border-width:0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;bgcolor=%23ffffff&amp;src=cWlodWFwdWJsaWNAZ21haWwuY29t&amp;color=%23A79B8E"></iframe>
