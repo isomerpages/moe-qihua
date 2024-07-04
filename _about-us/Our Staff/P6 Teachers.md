@@ -14,6 +14,7 @@ Year Head : Mdm Halimah Halil
 | -------- | -------- |
 | 6-1     | Mr Cham Bao Rong    <br><a href="mailto:cham_bao_rong@moe.edu.sg">cham_bao_rong@moe.edu.sg</a>     |      |
 |     | Ms Chan Ho Ting     <br> <a href="mailto:chan_ho_ting@moe.edu.sg">chan_ho_ting@moe.edu.sg</a>    |    |
+|     | Mr Choo Jin Hui     <br> <a href="mailto:choo_jin_hui@moe.edu.sg">choo_jin_hui@moe.edu.sg</a>    |    |
 | 6-2     | Mdm Safura Mohd Shariff    <br> <a href="mailto:safura_mohd_shariff@moe.edu.sg">safura_mohd_shariff@moe.edu.sg</a>     |      |
 |      | Mdm Ang Lin <br> <a href="mailto:">ang_lin@moe.edu.sg</a>     |   |
 | 6-3    | Mrs Suseela Varderajaloo    <br> <a href="mailto:suseela_varderajaloo@moe.edu.sg">suseela_varderajaloo@moe.edu.sg</a>  |      |
