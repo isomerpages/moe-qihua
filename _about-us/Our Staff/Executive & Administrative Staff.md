@@ -17,5 +17,7 @@ variant: markdown
 |   | Mr Chionh Wen Ru Darryl   
 | Operations Support Officer  | Mdm Saadiah Mohd Napiah    |     |
 |   | Mdm Mariam Bee Jamal    |     |
+|   | Mr Chan Kok Foong    |     |
+|   | Mr Ng Lim Thay    |     |
 | ICT Manager  | Mdm Siti Faryanty Jaffar   
 | ICT Associate  | Mr Lim Teck Hua
