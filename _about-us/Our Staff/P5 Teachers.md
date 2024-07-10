@@ -22,4 +22,5 @@ Assistant Year Head : Mdm Sofiyanni Mansol
 | 5-4    | Ms Quah May Fang Jennie   <br> <a href="mailto:quah_may_fang_jennie@moe.edu.sg">quah_may_fang_jennie@moe.edu.sg</a>    |      |
 |     | Mdm Nur Ain Yahya  <br> <a href="mailto:nur_ain_yahya@moe.edu.sg">nur_ain_yahya@moe.edu.sg</a>   |      |
 | 5-5   | Mr Mohammad Isham Ibrahim   <br> <a href="mailto:mohammad_isham_b_ibrahim@moe.edu.sg">mohammad_isham_b_ibrahim@moe.edu.sg</a>   |     |
+|      | Ms Gao Wen   <br> <a href="mailto:Gao_Wen@moe.edu.sg">gao_wen@moe.edu.sg</a>   |     |
 |      | Mdm Hilyah Mohd Bakhit   <br> <a href="mailto:hilyah_mohd_bakhit@moe.edu.sg">hilyah_mohd_bakhit@moe.edu.sg</a>   |     |
