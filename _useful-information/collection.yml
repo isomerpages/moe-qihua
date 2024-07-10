@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - School Bus.md
       - Student Wellness Resource/.keep
       - Student Wellness Resource/Student Wellness Resource Links.md
       - Student Wellness Resource/School Bag and Back Care Advice.md
