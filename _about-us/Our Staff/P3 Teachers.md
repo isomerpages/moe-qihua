@@ -24,3 +24,4 @@ Assistant Year Head (Covering Duty): Mr Kiat Ying Xin
 |      | Mrs Arun Rosiah <br> <a href="mailto:Arun_Rosiah@moe.edu.sg">arun_rosiah@moe.edu.sg</a>   |     |
 |3-6      | Mdm Laseina Ann Poospanathan   <br> <a href="mailto:laseina_ann_poospanathan@moe.edu.sg">laseina_ann_poospanathan@moe.edu.sg</a>   |     |
 |      | Ms Nur' Radhiyanna Mohammad Khatib  <br> <a href="mailto:nur_radhiyanna_mohammad_khatib@moe.edu.sg">nur_radhiyanna_mohammad_khatib@moe.edu.sg</a>  |     |
+|      | Mr Hemarooben  <br> <a href="mailto:Hemarooben@moe.edu.sg">hemarooben@moe.edu.sg</a>  |     |
