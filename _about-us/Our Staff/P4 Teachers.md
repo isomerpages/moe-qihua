@@ -17,7 +17,6 @@ Year Head : Mdm Shylaja Gopalan Nair
 | 4-2    | Mdm Siti Humairah Mohamed Taufek  <br> <a href="mailto:siti_humairah_mohamed_taufek@moe.edu.sg">siti_humairah_mohamed_taufek@moe.edu.sg</a>  |     |
 |     | Mr Chua Yong Sheng Benjamin  <br> <a href="mailto:chua_yong_sheng_benjamin@moe.edu.sg">chua_yong_sheng_benjamin@moe.edu.sg</a>    |    |
 | 4-3   | Mdm Marwiyah Mohamed Rawi  <br> <a href="mailto:marwiyah_mohamed_rawi@moe.edu.sg">marwiyah_mohamed_rawi@moe.edu.sg</a>     |    |
-|      | Ms Gao Wen    <br> <a href="mailto:gao_wen@moe.edu.sg">gao_wen@moe.edu.sg</a>   |    |
 |      | Ms Siti Aisyah M Ibrahim    <br> <a href="mailto:siti_aisyah_mohamed_ibrahim@moe.edu.sg">siti_aisyah_mohamed_ibrahim@moe.edu.sg</a>   |    |
 | 4-4   | Mr Sundram Anthony Gerard    <br>  <a href="mailto:sundram_anthony_gerard@moe.edu.sg">sundram_anthony_gerard@moe.edu.sg</a>   |   |
 |     | Ms Ee Jia Ying  <br>  <a href="mailto:ee_jia_ying@moe.edu.sg">ee_jia_ying@moe.edu.sg</a>  |     |
