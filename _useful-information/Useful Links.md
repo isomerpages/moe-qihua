@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /school-life/useful-links/
 description: ""
+variant: markdown
 ---
 **<font size="6">Useful Links</font>**
 
@@ -43,11 +44,12 @@ Click&nbsp;[here](https://www.moe.gov.sg/microsites/psle-fsbb/index.html).
 <br>
 <br>
 
-**ECHA nomination 2023**
+**ECHA Nomination 2024**
 
-[Nomination form](/files/2023%20echa%20nomination%20form.pdf)
+Click below to access:<br>
+[2024 ECHA Form](/files/2024_ECHA_Form.pdf)
 <br>
-<br>
-[ECHA letter](/files/2023%20echa_letter_170723.pdf)
+[2024 ECHA Letter](/files/2024_ECHA_Letter.pdf)
+
 
 <br>
