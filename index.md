@@ -4,7 +4,8 @@ title: Qihua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: For ECHA Nomination, forms are at Useful Information > Useful Links
+notification: Our General Office will be closed at 4pm on 30th August 2024 as
+  part of  Eat With Your Family Day.
 sections:
   - hero:
       background: /images/Homepage GIF 4.gif
