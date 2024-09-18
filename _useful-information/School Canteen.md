@@ -26,13 +26,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western or Japanese Food Stall</p>
+<p>Currently Unvailable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 June 2024</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Non-Halal, Open to Proposal</p>
+<p>NA</p>
 </td>
 </tr>
 </tbody>
