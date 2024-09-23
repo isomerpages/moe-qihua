@@ -34,7 +34,7 @@ description: ""
 <h4><strong>Application Procedure</strong></h4>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.&nbsp;</p>
-<p><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener noreferrer nofollow" target="_blank">School Canteen Application Form</a>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">School Canteen Application Form</a>
 </p>
 <p>&nbsp;</p>
 <p><strong><em>Attach the following documents together with the application form:</em></strong>
