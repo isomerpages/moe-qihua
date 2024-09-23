@@ -6,9 +6,8 @@ description: ""
 ---
 <p>Qihua Primary School Canteen Stall Advertisement:</p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -20,19 +19,13 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Closing Date</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Currently Unvailable</p>
+<p>Cold Beverage Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NA</p>
+<p>10 October 2024</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +52,7 @@ etc.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<p><strong><em>Submit the completed application form and documents by closing date via email or to the School’s General Office.</em></strong>
+<p><strong><em>Submit the completed application form and documents by closing date via email <u>or</u> to the School’s General Office.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -82,8 +75,8 @@ etc.</p>
 <p>Nearest MRT: Woodlands MRT about 10 minutes walking distance.</p>
 </li>
 <li>
-<p>Bus number: 911 from Woodlands Bus Interchange and alight opposite Woodlands
-North Plaza. 2 minutes walking distance to school.</p>
+<p>Bus number: 911 or 911T from Woodlands Bus Interchange and alight opposite
+Woodlands North Plaza. 2 minutes walking distance to school.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -94,11 +87,7 @@ North Plaza. 2 minutes walking distance to school.</p>
 and stall assistant.</p>
 </li>
 <li>
-<p>Able to provide good service and quality food with prices determined in
-consultation with the school.</p>
-</li>
-<li>
-<p>Able to provide cooked food that meets the health and nutritional standards
+<p>Able to provide beverages that meets the health and nutritional standards
 set by the Health Promotion Board (HPB) under the ‘Healthy Meals in Schools
 Programme (HMSP)’ guidelines&nbsp;(See <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 </li>
