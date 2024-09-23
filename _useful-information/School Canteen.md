@@ -37,9 +37,9 @@ hardcopy from the School’s General Office.&nbsp;</p>
 <p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">School Canteen Application Form</a>
 </p>
 <p>&nbsp;</p>
-<p><strong><em>Attach the following documents together with the application form:</em></strong>
+<p><strong>Attach the following documents together with the application form:</strong>
 </p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
 </li>
@@ -50,7 +50,7 @@ hardcopy from the School’s General Office.&nbsp;</p>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc.</p>
 </li>
-</ol>
+</ul>
 <p>&nbsp;</p>
 <p><strong><em>Submit the completed application form and documents by closing date via email <u>or</u> to the School’s General Office.</em></strong>
 </p>
