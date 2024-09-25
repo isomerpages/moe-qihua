@@ -25,7 +25,7 @@ description: ""
 <p>Cold Beverage Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 October 2024</p>
+<p>8 October 2024</p>
 </td>
 </tr>
 </tbody>
