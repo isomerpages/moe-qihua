@@ -18,6 +18,16 @@ sections:
         - title: Learning for Life Programme
           description: Click to find out more
           url: /programmes/llp/
+  - infopic:
+      title: QihuaConnect
+      subtitle: Issue 2 (2024)
+      id: infopic
+      description: In the latest issue of QihuaConnect, dive into the inspiring
+        learning experiences happening right here at Qihua!
+      button: Click here to view
+      url: https://online.flipbuilder.com/zlpi/stgi/
+      image: /images/QihuaConnect_2_2024.png
+      alt: Image alt text
   - infobar:
       title: Contact Us
       button: Click here
