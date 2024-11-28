@@ -39,6 +39,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p></p>
 <h4><strong>Application Procedure</strong></h4>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.&nbsp;</p>
