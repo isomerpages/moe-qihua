@@ -6,8 +6,9 @@ description: ""
 ---
 <p>Qihua Primary School Canteen Stall Advertisement:</p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -17,19 +18,27 @@ description: ""
 <p>Type of Stall</p>
 </th>
 <th rowspan="1" colspan="1">
+<p><strong>Requirement</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Closing Date</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cold Beverage Stall</p>
+<p>Malay Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 October 2024</p>
+<p>To provide halal rice dishes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 December 2024</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <h4><strong>Application Procedure</strong></h4>
 <p>Download and complete the application form. You may also request for a
@@ -119,4 +128,6 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p>&nbsp;</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.&nbsp;</em>
+</p>
+<p><strong><em>Registration Closing date: <u>15 December 2024</u></em></strong>
 </p>
