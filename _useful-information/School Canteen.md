@@ -96,8 +96,8 @@ Woodlands North Plaza. 2 minutes walking distance to school.</p>
 and stall assistant.</p>
 </li>
 <li>
-<p>Able to provide beverages that meets the health and nutritional standards
-set by the Health Promotion Board (HPB) under the ‘Healthy Meals in Schools
+<p>Able to provide food that meets the health and nutritional standards set
+by the Health Promotion Board (HPB) under the ‘Healthy Meals in Schools
 Programme (HMSP)’ guidelines&nbsp;(See <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
