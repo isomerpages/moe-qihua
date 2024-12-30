@@ -11,10 +11,10 @@ variant: markdown
 | School Staff Developer | Ms Ee Jia Ying <br><a href="mailto:ee_jia_ying@moe.edu.sg">ee_jia_ying@moe.edu.sg</a> |  |
 | Year Head (UP) | Mrs Karthi <br><a href="mailto:shylaja_gopalan_nair@moe.edu.sg">shylaja_gopalan_nair@moe.edu.sg</a> |  |
 | Year Head (UP) | Mr Peter Goh <br><a href="mailto:goh_teck_heong_peter@moe.edu.sg">goh_teck_heong_peter@moe.edu.sg</a> |  |
+| Asst Year Head (UP) | Mdm Sofiyanny <br><a href="mailto:sofiyanny_mansol@moe.edu.sg">sofiyanny_mansol@moe.edu.sg</a> |  |
 | Year Head (MP) | Mdm Justina Tok <br><a href="mailto:justina_tok_wei_lin@moe.edu.sg">justina_tok_wei_lin@moe.edu.sg</a>  |  |
 | Asst Year Head (MP) | Mr Kiat Ying Xin <br><a href="mailto:kiat_ying_xin@moe.edu.sg">kiat_ying_xin@moe.edu.sg</a> |  |
 | Year Head (LP)<br>(Covering Duty) | Mdm Tan Poh Suan <br><a href="mailto:tan_poh_suan@moe.edu.sg">tan_poh_suan@moe.edu.sg</a>  |  |
-| Asst Year Head (LP) | Mdm Sofiyanny <br><a href="mailto:sofiyanny_mansol@moe.edu.sg">sofiyanny_mansol@moe.edu.sg</a> |  |
 | Asst Year Head (LP)<br>(Covering Duty) | Mdm Tan Zi Hui <br><a href="mailto:tan_zi_hui@moe.edu.sg">tan_zi_hui@moe.edu.sg</a>  |  |
 | HOD (English)<br>(Covering Duty) | Mdm Lee Yen Ling<br><a href="mailto:lee_yen_ling@moe.edu.sg">lee_yen_ling@moe.edu.sg</a>  |  |
 | HOD (Mathematics) | Mdm Ang Lin <br><a href="mailto:ang_lin@moe.edu.sg">ang_lin@moe.edu.sg</a> |  |
