@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-Assistant Year Head : Mdm Tan Zi Hui
+Assistant Year Head (Covering Duty): Mdm Tan Zi Hui
 <br>
 <a href="mailto:tan_zi_hui@moe.edu.sg">tan_zi_hui@moe.edu.sg</a>
 <br>
