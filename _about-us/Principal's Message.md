@@ -44,7 +44,7 @@ journey of shaping our young learners into confident, compassionate, and
 capable individuals.</p>
 <p>&nbsp;</p>
 <p>Warm regards,</p>
-<p>Mrs. Lee Hui Feng</p>
-<p>Principal
+<p>**Mrs. Lee Hui Feng**</p>
+Principal
 <br>
-</p>
+<p></p>
