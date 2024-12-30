@@ -3,13 +3,208 @@ title: CCAs offered in Qihua Primary School
 permalink: /programmes/cca/cca-in-qhps/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-&gt;<img src="images/Curriculum/CCA/Picture-4-min.jpg" style="width:50%" align="left"><br><br><br><br><br><br>
-&gt;Our Curriculum
-
-
-**<font size="6">CCAs offered in Qihua Primary School
-</font>**
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Sports and Games</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:bold">  Visual &amp; Performing Arts</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Clubs &amp; Societies</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Uniformed Groups</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Basketball</span><img src="/images/Curriculum/CCA/basketball girl.jpeg" alt="Basketball" width="50" height="17"></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Art &amp; Pottery Club</span><img src="/images/Curriculum/CCA/Art-_-Pottery-Club.jpg" alt="Art Pottery Club" width="76" height="17"></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Dikir Barat</span><br> <br><img src="/images/Curriculum/CCA/Dikir-Barat.jpg" alt="Dikir Barat" width="50" height="17"></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Green Club</span><br> <br><img src="/images/Curriculum/CCA/Green-Club.jpg" alt="Green Club" width="91" height="17"></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Brownies</span><br> <br><img src="/images/Curriculum/CCA/Brownies.jpg" alt="Brownies" width="79" height="17"></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Floorball</span><br><img src="/images/Curriculum/CCA/Floorball.jpg" alt="Floorball" width="50" height="17"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Chinese Dance</span><br> <br><img src="/images/Curriculum/CCA/Chinese-Dance.jpg" alt="Chinese Dance" width="50" height="17"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Indian Dance</span><br> <br><img src="/images/Curriculum/CCA/Indian-Dance.jpg" alt="Indian Dance" width="50" height="17"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Innovation &amp; Entrepreneurship Club</span><br> <br><img src="/images/Curriculum/CCA/Innovation-_-Entrepreneurship-Club.jpg" alt="Innovation Entrepreneurship Club" width="50" height="17"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Scouts</span><br> <br><img src="/images/Curriculum/CCA/Scouts.jpg" alt="Scouts" width="63" height="17"></td></tr><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Sepak Takraw</span><br><img src="/images/Curriculum/CCA/Sepak-Takraw.jpg" alt="Sepak Takraw" width="50" height="17"></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Chinese Orchestra</span><img src="/images/Curriculum/CCA/Chinese-Orchestra.jpg" alt="Chinese Orchestra" width="76" height="17"></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Malay Dance</span><br> <br><img src="/images/Curriculum/CCA/Malay-Dance.jpg" alt="Malay Dance" width="50" height="17"></td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> </td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> </td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Table Tennis</span><br> <br><img src="/images/Curriculum/CCA/Table-Tennis.jpg" alt="Table Tennis" width="80" height="17"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Choir</span><br> <br><img src="/images/Curriculum/CCA/Choir.jpg" alt="Choir" width="53" height="17"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Drama Club</span><br> <br><img src="/images/Curriculum/CCA/Music-_-Drama.jpg" alt="Music Drama" width="50" height="17"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"> </td></tr></tbody></table>
+<p>Our Curriculum</p>
+<p><strong>CCAs offered in Qihua Primary School</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Sports and Games</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Visual &amp; Performing Arts</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Clubs &amp; Societies</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Uniformed Groups</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/basketball2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/indian_dance2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green Club
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/green_club2.png">
+</div>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brownies
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/brownies2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Floorball
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/floorball2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Chinese Dance
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/chinese_dance2.png">
+</div>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Innovation &amp; Entrepreneurship
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/innovation2.png">
+</div>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Scouts
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/scouts2.png">
+</div>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sepak Takraw
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/sepak_takraw2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/malay_dance2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama Club</p>
+<div class="isomer-image-wrapper">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/drama2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/table_tennis2.png">
+</div>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dikir Barat
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/dikir_barat2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art &amp; Pottery Club</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/art2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/chinese_orchestra2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/choir2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
