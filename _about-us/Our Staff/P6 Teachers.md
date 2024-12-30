@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<p>Year Head : Mdm Sofiyanny Bte Mansol
+<p>Assistant Year Head : Mdm Sofiyanny Bte Mansol
 <br><a href="mailto:sofiyanny_mansol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sofiyanny_mansol@moe.edu.sg</a>
 <br>
 </p>
