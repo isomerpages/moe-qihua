@@ -42,7 +42,7 @@ empowering them to contribute meaningfully to community.</p>
 our children. Thank you for your trust and unwavering support in this shared
 journey of shaping our young learners into confident, compassionate, and
 capable individuals.</p>
-<p>&nbsp;</p>
+
 <p>Warm regards,</p>
 <p><b>Mrs Lee Hui Feng</b></p>
 Principal
