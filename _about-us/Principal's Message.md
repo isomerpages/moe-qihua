@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 <p><strong>Principal's Message for 2025</strong>
-</p>
+</p><br>
 <div class="isomer-image-wrapper">
-<img style="width:200px;height:300px;" height="auto" width="100%" src="/images/About Us/Mrs-Lee-365x600.jpeg">
+<img style="width:200px;height:320px;" height="auto" width="100%" src="/images/About Us/Mrs-Lee-365x600.jpeg">
 </div>
 <p>Dear Parents and Guardians,</p>
 <p>A warm welcome to 2025 and another exciting year at Qihua!</p>
