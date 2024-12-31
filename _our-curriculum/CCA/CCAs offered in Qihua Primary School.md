@@ -37,112 +37,54 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Basketball</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/basketball2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indian Dance</p>
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/indian_dance2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Green Club</p>
-<div class="isomer-image-wrapper">
-<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/green_club2.png">
-</div>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Brownies</p>
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/brownies2.png">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Floorball</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/floorball2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Dance</p>
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/chinese_dance2.png">
-</div>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Innovation &amp; Entrepreneurship</p>
-<div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/innovation2.png">
-</div>
-<p>
-<br>
-</p>
+<p>Art &amp; Pottery Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Scouts</p>
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/scouts2.png">
-</div>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sepak Takraw</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/sepak_takraw2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Dance</p>
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/malay_dance2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drama Club</p>
-<div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/drama2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Table Tennis</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/table_tennis2.png">
-</div>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dikir Barat</p>
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/dikir_barat2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art &amp; Pottery Club</p>
-<div class="isomer-image-wrapper">
-<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/art2.png">
-</div>
+<p>Innovation &amp; Entrepreneurship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -154,9 +96,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Orchestra</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/chinese_orchestra2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -171,9 +110,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Choir</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/choir2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
