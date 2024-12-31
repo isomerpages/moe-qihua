@@ -3,27 +3,126 @@ title: P6 Teachers
 permalink: /about-us/our-staff/p6-form-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-Year Head : Mdm Halimah Halil
+<p>Assistant Year Head : Mdm Sofiyanny Bte Mansol
+<br><a href="mailto:sofiyanny_mansol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sofiyanny_mansol@moe.edu.sg</a>
 <br>
-<a href="mailto:halimah_halil@moe.edu.sg">halimah_halil@moe.edu.sg</a>
-<br>
-
-|2024 P6 Form Teachers  | |
-| -------- | -------- |
-| 6-1     | Mr Cham Bao Rong    <br><a href="mailto:cham_bao_rong@moe.edu.sg">cham_bao_rong@moe.edu.sg</a>     |      |
-|     | Ms Chan Ho Ting     <br> <a href="mailto:chan_ho_ting@moe.edu.sg">chan_ho_ting@moe.edu.sg</a>    |    |
-|     | Mr Choo Jin Hui     <br> <a href="mailto:choo_jin_hui@moe.edu.sg">choo_jin_hui@moe.edu.sg</a>    |    |
-| 6-2     | Mdm Safura Mohd Shariff    <br> <a href="mailto:safura_mohd_shariff@moe.edu.sg">safura_mohd_shariff@moe.edu.sg</a>     |      |
-|      | Mdm Ang Lin <br> <a href="mailto:">ang_lin@moe.edu.sg</a>     |   |
-| 6-3    | Mrs Suseela Varderajaloo    <br> <a href="mailto:suseela_varderajaloo@moe.edu.sg">suseela_varderajaloo@moe.edu.sg</a>  |      |
-|     | Ms Tan Poh Suan  <br> <a href="mailto:tan_poh_suan@moe.edu.sg">tan_poh_suan@moe.edu.sg</a>     |     |
-| 6-4     | Mdm Hilwa Mohamed    <br> <a href="mailto:hilwa_mohamed@moe.edu.sg">hilwa_mohamed@moe.edu.sg</a>    |     |
-|      | Mdm Tan Li Ting     <br> <a href="mailto:tan_li_ting@moe.edu.sg">tan_li_ting@moe.edu.sg</a>     |      |
-| 6-5     | Ms Rashna Shantini Yeamalley   <br> <a href="mailto:rashna_shantini_yeamalley@moe.edu.sg">rashna_shantini_yeamalley@moe.edu.sg</a>  |      |
-|      | Mdm Rosinah Mohamed Yusof   <br><a href="mailto:rosinah_mohamed_yusof@moe.edu.sg">rosinah_mohamed_yusof@moe.edu.sg</a>      |      |
-|      | Ms Tan Yee Lay  <br> <a href="mailto:tan_yee_lay@moe.edu.sg">tan_yee_lay@moe.edu.sg</a>      |      |
-|6-6      | Mr Anuar Ismail   <br> <a href="mailto:anuar_b_ismail@moe.edu.sg">anuar_b_ismail@moe.edu.sg</a>   |      |
-|      | Mdm Koo Sen Hooi   <br> <a href="mailto:koo_sen_hooi@moe.edu.sg">koo_sen_hooi@moe.edu.sg</a>   |      |
-|      | Mr Tay Chu Yong Damien   <br><a href="mailto:tay_chu_yong_damien@moe.edu.sg">tay_chu_yong_damien@moe.edu.sg</a> | |
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2025 P6 Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Lin
+<br><a href="mailto:ang_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Yen Ling
+<br><a href="mailto:lee_yen_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yen_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Heemarooben
+<br><a href="mailto:hemarooben@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hemarooben@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Siew Hui
+<br><a href="mailto:lim_siew_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Seok Har
+<br><a href="mailto:tay_seok_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_seok_har@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Zhi Hao
+<br><a href="mailto:wong_zhi_hao_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_zhi_hao_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Pao Yun Gillian
+<br><a href="mailto:tan_pao_yun_gillian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pao_yun_gillian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Kwang Hoon
+<br><a href="mailto:tang_kwang_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_kwang_hoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Isham B Ibrahim
+<br><a href="mailto:mohammad_isham_b_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_isham_b_ibrahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elyyah Kamsin
+<br><a href="mailto:elyyah_kamsin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elyyah_kamsin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
