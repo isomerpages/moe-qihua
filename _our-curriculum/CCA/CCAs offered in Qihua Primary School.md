@@ -48,9 +48,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Green Club
-<br>
-</p>
+<p>Green Club</p>
 <div class="isomer-image-wrapper">
 <img style="width: 77%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/green_club2.png">
 </div>
@@ -59,9 +57,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brownies
-<br>
-</p>
+<p>Brownies</p>
 <div class="isomer-image-wrapper">
 <img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/brownies2.png">
 </div>
@@ -69,17 +65,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Floorball
-<br>
-</p>
+<p>Floorball</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/floorball2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance
-<br>
-</p>
+<p>Chinese Dance</p>
 <div class="isomer-image-wrapper">
 <img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/chinese_dance2.png">
 </div>
@@ -88,9 +80,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Innovation &amp; Entrepreneurship
-<br>
-</p>
+<p>Innovation &amp; Entrepreneurship</p>
 <div class="isomer-image-wrapper">
 <img style="width: 67%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/innovation2.png">
 </div>
@@ -99,9 +89,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Scouts
-<br>
-</p>
+<p>Scouts</p>
 <div class="isomer-image-wrapper">
 <img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/scouts2.png">
 </div>
@@ -112,9 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sepak Takraw
-<br>
-</p>
+<p>Sepak Takraw</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/sepak_takraw2.png">
 </div>
@@ -138,9 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Table Tennis
-<br>
-</p>
+<p>Table Tennis</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/table_tennis2.png">
 </div>
@@ -149,9 +133,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dikir Barat
-<br>
-</p>
+<p>Dikir Barat</p>
 <div class="isomer-image-wrapper">
 <img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCA/dikir_barat2.png">
 </div>
