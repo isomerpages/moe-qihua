@@ -3,13 +3,11 @@ title: Key Programmes
 permalink: /curriculum/mathematics-department/key-programmes/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
-><img src="images/Curriculum/Picture-3-min.jpg"  
-     style="width:60%"
-			align="left"><br><br><br><br><br><br><br>
->Our Curriculum
+Our Curriculum
 
-**<font size=6>Key Programmes</font>**
+**<font size="6">Key Programmes</font>**
 
 **Our Programmes enable our students to:**
 
@@ -24,16 +22,11 @@ third_nav_title: Mathematics
 *   Learning Support for Mathematics (P1 – P2): provides early support for Primary One and Two students who have weak basic numeracy skills during Mathematics lessons in smaller groups. The programme focuses on basic Mathematics skills and concepts to build good foundation in students.
 *   MBL (Mastery Based Learning) (P1 – P4): provides support for students who have weak basic numeracy after school.
 
-<img src="/images/Curriculum/Key%20Prog%201.jpg"  
-     style="width:70%">
-<img src="/images/Curriculum/Key%20Prog%202.jpg"  
-     style="width:50%">
-<img src="/images/Curriculum/Key%20Prog%203.jpg"  
-     style="width:70%">
-<img src="/images/Curriculum/Key%20Prog%204.jpg"  
-     style="width:55%">
-<img src="/images/Curriculum/Key%20Prog%205.jpg"  
-     style="width:70%">
+<img src="/images/Curriculum/Key%20Prog%201.jpg" style="width:70%">
+<img src="/images/Curriculum/Key%20Prog%202.jpg" style="width:50%">
+<img src="/images/Curriculum/Key%20Prog%203.jpg" style="width:70%">
+<img src="/images/Curriculum/Key%20Prog%204.jpg" style="width:55%">
+<img src="/images/Curriculum/Key%20Prog%205.jpg" style="width:70%">
 
 
 **Programmes to ENGAGE:**
@@ -43,10 +36,8 @@ third_nav_title: Mathematics
 *   SSM (Sustained Support for Mathematics): provides hands-on activities which develop conceptual understanding of Mathematics.
 *   E-Learning: provides opportunities for self-directed learning.
 
-<img src="/images/Curriculum/Key%20Prog%206.jpg"  
-     style="width:70%">
-<img src="/images/Curriculum/Key%20Prog%207.jpg"  
-     style="width:70%">
+<img src="/images/Curriculum/Key%20Prog%206.jpg" style="width:70%">
+<img src="/images/Curriculum/Key%20Prog%207.jpg" style="width:70%">
 
 **Programmes to ENRICH:**
 
@@ -60,11 +51,10 @@ third_nav_title: Mathematics
 
 TEMO (Teach and Explain Mathematics Ourselves):
 
-*   To develop students’ Mathematical reasoning and communication skills using Mathematics language.
+*   To develop students’&nbsp;Mathematical reasoning and communication skills using Mathematics language.
 *   To provide students metacognitive experience by
     *   encouraging students to think aloud the strategies and methods they use to solve particular problems.
     *   encouraging students to seek alternative ways of solving the same problem and to check the appropriateness and reasonableness of the answer.
     *   allowing students to discuss how to solve a particular problem and to explain the different methods that they use for solving the problem.
 
-<img src="/images/Curriculum/Key%20Prog%208.jpg"  
-     style="width:35%">
+<img src="/images/Curriculum/Key%20Prog%208.jpg" style="width:35%">
