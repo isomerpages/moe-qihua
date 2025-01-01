@@ -2,13 +2,11 @@
 title: Examination Rules and Regulations
 permalink: /examination-rules-and-regulations/
 description: ""
+variant: markdown
 ---
-><img src="/images/Picture-5.jpeg"  
-     style="width:50%"
-			align="left"><br><br><br><br><br><br>
->ASSESSMENT & AWARDS MATTERS
+ASSESSMENT &amp; AWARDS MATTERS
 
-**<font size=6>Examination Rules and Regulations</font>**
+**<font size="6">Examination Rules and Regulations</font>**
 
 **Absenteeism**
 
@@ -19,7 +17,7 @@ description: ""
 
 **Latecomers**
 
-*   Students who are late by up to 15 minutes for any examination will be allowed to sit for the examination but will not be given any extra time. **Students who are unwell.**
+*   Students who are late by up to 15 minutes for any examination will be allowed to sit for the examination but will not be given any extra time.&nbsp;**Students who are unwell.**
 *   Students who are unwell and have a medical certificate are strongly discouraged from taking the examination. Parents will have to take their child or ward home if he/she is unwell.
 *   Students who are having a high temperature/a fever are strongly discouraged from taking the examination. Parents will have to take their child/ward to the clinic.
 
