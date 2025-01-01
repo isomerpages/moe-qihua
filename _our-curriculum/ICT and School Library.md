@@ -2,9 +2,9 @@
 title: ICT and School Library
 permalink: /curriculum/ictschoollibrary-department/
 description: ""
+variant: markdown
 ---
-&gt;<img src="images/Curriculum/Picture-3-min.jpg" style="width:60%" align="left"><br><br><br><br><br><br><br>
-&gt;Our Curriculum
+Our Curriculum
 
 **<font size="6">ICT/School Library</font>**
 
