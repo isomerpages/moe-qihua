@@ -3,14 +3,12 @@ title: CCA
 permalink: /programmes/cca/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-><img src="images/Curriculum/CCA/Picture-4-min.jpg"  
-     style="width:50%"
-			align="left"><br><br><br><br><br><br>
->Our Curriculum
+Our Curriculum
 
 
-**<font size=5>CCA</font>**
+**<font size="5">CCA</font>**
 	
 
 **Vision**  
@@ -21,5 +19,4 @@ Qihuaians will discover their interests and talents, develop CCA-specific knowle
 
 **The CCA Framework (Engage-Enrich-Excel) guides the school in the development of students through co-curricular activities (CCA).**
 
-<img src="/images/Curriculum/CCA/3E-for-CCA-600x473.jpg"  
-     style="width:45%">
+<img src="/images/Curriculum/CCA/3E-for-CCA-600x473.jpg" style="width:45%">
