@@ -3,13 +3,11 @@ title: Homework Policy
 permalink: /homework-policy/
 description: ""
 third_nav_title: Student Wellness Resource
+variant: markdown
 ---
-><img src="/images/Useful%20Links/Picture-6-scaled.jpg"  
-     style="width:50%"
-			align="left"><br><br><br><br><br><br>
->Student Wellness Resource
+Student Wellness Resource
 
-**<font size=6>Homework Policy</font>**
+**<font size="6">Homework Policy</font>**
 
 **Definition of homework:**  
 Homework refers to any learning activity that students are required by the school to complete outside of curriculum time. The mode of delivery can be pen-and-paper or online tasks. This includes assignments and projects but not revision of school work or studying for tests and examinations
