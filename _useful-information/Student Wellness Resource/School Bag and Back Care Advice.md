@@ -3,13 +3,11 @@ title: School Bag and Back Care Advice
 permalink: /school-bag-and-back-care-advice/
 description: ""
 third_nav_title: Student Wellness Resource
+variant: markdown
 ---
-><img src="/images/Useful%20Links/Picture-6-scaled.jpg"  
-     style="width:50%"
-			align="left"><br><br><br><br><br><br>
->Student Wellness Resource
+Student Wellness Resource
 
-**<font size=6>School Bag and Back Care Advice</font>**
+**<font size="6">School Bag and Back Care Advice</font>**
 
 The school takes the well-being and physical development of students seriously and proactively guides students in lightening their school bags.
 
