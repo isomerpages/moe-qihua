@@ -51,16 +51,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Chinese)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tang Kwang Hoon
-<br><a href="mailto:tang_kwang_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_kwang_hoon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
