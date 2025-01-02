@@ -48,7 +48,7 @@ variant: tiptap
 <p>6-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Heemarooben
+<p>Mr Hemarooben
 <br><a href="mailto:hemarooben@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hemarooben@moe.edu.sg</a>
 </p>
 </td>
