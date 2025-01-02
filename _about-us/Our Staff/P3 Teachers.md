@@ -3,7 +3,7 @@ title: P3 Teachers
 permalink: /about-us/our-staff/p3-form-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: tiptap
+variant: markdown
 ---
 <p>Year Head: Mdm Justina Tok
 <br><a href="mailto:justina_tok_wei_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">justina_tok_wei_lin@moe.edu.sg</a>

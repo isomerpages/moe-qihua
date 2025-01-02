@@ -2,25 +2,23 @@
 title: English
 permalink: /curriculum/english-department/
 description: ""
+variant: markdown
 ---
-><img src="images/Curriculum/Picture-3-min.jpg"  
-     style="width:60%"
-			align="left"><br><br><br><br><br><br><br>
->Our Curriculum
+Our Curriculum
 
-**<font size=6>English</font>**
+**<font size="6">English</font>**
 
-**<font size=5>Vision</font>**
+**<font size="5">Vision</font>**
 
 Every Qihuaian an effective communicator with a passion for the English Language.
 
-**<font size=5>Mission</font>**
+**<font size="5">Mission</font>**
 
 To enhance pupils’ mastery of the English Language through quality teaching and learning.
 
-**<font size=5>Key Programmes</font>**
+**<font size="5">Key Programmes</font>**
 
-**<font size=5>Engaging the mass</font>**
+**<font size="5">Engaging the mass</font>**
 
 
 **1) STELLAR**
@@ -44,34 +42,30 @@ Through the use of myON, an online reading platform, all our primary 1 to 5 stud
 
 This yearly event consists of activities that provide students with joyful learning experiences. Students get the chance to apply their language skills in a fun and authentic way.
 
-<img src="/images/Curriculum/EL-Fiesta-Pic-1.jpg"  
-     style="width:50%">
+<img src="/images/Curriculum/EL-Fiesta-Pic-1.jpg" style="width:50%">
 
 **_Reader’s Theatre in progress. Hush…_**
 
 Stories with these characters were shared with the students. Can you name all the books?
 
-<img src="/images/Curriculum/EL-Fiesta-Pic-2.jpg"  
-     style="width:50%">
+<img src="/images/Curriculum/EL-Fiesta-Pic-2.jpg" style="width:50%">
 
 
 **Enabling budding learners**
 
-1) Learning Support Programme (P1 & P2)  
-2) Reading Remediation Programme (P3 & 4)  
-3) School-based Dyslexia Programme (P3 & 4)  
+1) Learning Support Programme (P1 &amp; P2)  
+2) Reading Remediation Programme (P3 &amp; 4)  
+3) School-based Dyslexia Programme (P3 &amp; 4)  
 4) Mastery-based Learning (P1 to 4)  
-5) Morning Buddy Programme (P1 & 2)
+5) Morning Buddy Programme (P1 &amp; 2)
 
-<img src="/images/Curriculum/Buddy-reading-1.jpeg"  
-     style="width:50%">
+<img src="/images/Curriculum/Buddy-reading-1.jpeg" style="width:50%">
 <center>Buddy Reading</center>
 
-<img src="/images/Curriculum/Buddy-reading-2.jpeg"  
-     style="width:50%">
+<img src="/images/Curriculum/Buddy-reading-2.jpeg" style="width:50%">
 <center>Buddy Reading</center>
 
-**<font size=5>Enriching the learning experiences</font>**
+**<font size="5">Enriching the learning experiences</font>**
 
 **1) APEX – High Achievers Programme**
 
