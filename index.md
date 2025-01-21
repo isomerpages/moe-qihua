@@ -34,7 +34,6 @@ sections:
       url: /contact-us
   - infopic:
       title: Visit Our Social Media Platforms
-      subtitle: Add an image and text
       id: infopic
       description: View our school events and programmes
       button: Scan the QR code
