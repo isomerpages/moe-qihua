@@ -32,4 +32,13 @@ sections:
       title: Contact Us
       button: Click here
       url: /contact-us
+  - infopic:
+      title: Visit Our Social Media Platforms
+      subtitle: Add an image and text
+      id: infopic
+      description: View our school events and programmes
+      button: Scan the QR code
+      url: https://www.qihuapri.moe.edu.sg/
+      image: /images/fb_ig2.png
+      alt: Image alt text
 ---
