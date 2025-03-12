@@ -27,13 +27,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Rice Stall</p>
+<p>Western or Fusion Cuisine Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To provide halal rice dishes</p>
+<p>To provide halal / non halal dishes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 December 2024</p>
+<p>11 April 2025</p>
 </td>
 </tr>
 </tbody>
@@ -74,7 +74,7 @@ etc.</p>
 <p>Email: qihua_ps@moe.edu.sg</p>
 </li>
 <li>
-<p>Contact Person: Ms Lim Shin Ee</p>
+<p>Contact Person: Mdm Ang York Hui</p>
 </li>
 </ul>
 <p>&nbsp;</p>
