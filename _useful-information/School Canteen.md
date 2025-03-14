@@ -27,7 +27,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western or Fusion Cuisine Stall</p>
+<p>Western and/or Fusion Cuisine Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide halal / non halal dishes</p>
