@@ -27,7 +27,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western or Fusion Cuisine Stall</p>
+<p>Western and/or Fusion Cuisine Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide halal / non halal dishes</p>
@@ -128,6 +128,4 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p>&nbsp;</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.&nbsp;</em>
-</p>
-<p><strong><em>Registration Closing date: <u>15 December 2024</u></em></strong>
 </p>
