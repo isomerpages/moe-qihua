@@ -4,8 +4,7 @@ title: Qihua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: General Office will close at 4pm as part of Eat with Your Family
-  Day on Friday, 14 March 2025.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage GIF 4.gif
