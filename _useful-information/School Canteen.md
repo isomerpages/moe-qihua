@@ -27,13 +27,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western and/or Fusion Cuisine Stall</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To provide halal / non halal dishes</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 April 2025</p>
+<p>NA</p>
 </td>
 </tr>
 </tbody>
