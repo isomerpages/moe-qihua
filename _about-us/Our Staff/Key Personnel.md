@@ -24,16 +24,6 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosinah
-<br><a href="mailto:rosinah_mohamed_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosinah_mohamed_yusof@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Ee Jia Ying
 <br><a href="mailto:ee_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_jia_ying@moe.edu.sg</a>
 </p>
