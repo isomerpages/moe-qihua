@@ -46,7 +46,7 @@ Click&nbsp;[here](https://www.moe.gov.sg/microsites/psle-fsbb/index.html).
 Click below to access:<br>
 [2025 ECHA Form](/files/2025_ECHA_Nomination_Form.pdf)
 <br>
-[2025 ECHA Letter](/files/2025_ECHA_Letter_b.pdf)
+[2025 ECHA Letter](/files/2025_echa_letter_b.pdf)
 
 
 <br>
