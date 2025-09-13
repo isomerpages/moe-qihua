@@ -3,8 +3,8 @@ title: School Ethos
 permalink: /about-us/school-profile/school-ethos/
 description: ""
 third_nav_title: School Profile
+variant: markdown
 ---
-
 **School Philosophy**
 
 Every child is valued;
@@ -23,7 +23,7 @@ Every Qihuaian a learner, a leader and a champion.
 
 **School Mission**
 
-Nurturing future-ready leaders committed to giving their best to family, community and Singapore.
+To nurture future-ready leaders empowered to give their best self to the society
 
 **School Motto**
 
