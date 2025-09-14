@@ -53,8 +53,9 @@ discussions on contemporary issues. Through exposure to current affairs,
 they expand their vocabulary while developing civic, global, and cultural
 literacy. Our Qihuaians have taken their learning further by actively responding
 to articles, with selected pieces published by the editor.</p>
-<p><em>File: Whatsup 2024</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Whatsup_2024.png">
+</div>
 <p></p>
 <p><strong>4) Celebrating the Joy of Language</strong>
 </p>
@@ -65,10 +66,28 @@ as thrilling English games, students experience the richness of language
 in a fun and engaging way. The excitement builds as they participate in
 quizzes and celebrate their peers' literary creations, fostering a vibrant
 reading and writing culture in our school.</p>
-<p>
-<br>File: EL Fiesta 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; File: EL Fiesta 2</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/EL_Fiesta_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/EL_Fiesta_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>Enabling Budding Learners</h4>
 <p><strong>1) Targeted Literacy Support at Qihua</strong>
@@ -83,17 +102,35 @@ Learning Programme.</p>
 </p>
 <p>Lower primary students are paired with peers to improve their reading
 skills. Through this guided peer interaction, students enhance their oral
-reading fluency while gaining confidence in their reading abilities.
-<br><strong>File: Buddy Reading 1</strong>
-</p>
+reading fluency while gaining confidence in their reading abilities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Buddy_reading_1.jpg">
+</div>
 <p></p>
 <p><strong>3) Kidsread Programme<br></strong>Selected Primary 2 students
 develop a love of reading and establish good reading habits through engaging
 interactions with their reading buddies from Riverside Secondary School.</p>
-<p>File: Kidsread 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; File:
-Kidsread 2</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Kidsread_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Kidsread_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>Enriching Learning Experiences</h4>
 <p><strong>1) Enhancing Communication Through Enrichment Programmes</strong>
@@ -104,8 +141,26 @@ carefully designed to align with the English curriculum, extend learning
 beyond the classroom while honing students’ communication and public speaking
 skills. Through these experiences, students with high readiness develop
 confidence and express themselves more effectively in various settings.</p>
-<p>File: Enrichment - Drama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-File: Enrichment - Public Speaking</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Enrichment___Drama.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Enrichment___Public_Speaking.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>2) Broadening Perspectives Through Literature<br></strong>At Qihua,
 we cultivate critical and creative thinking through literature. Selected
@@ -113,8 +168,9 @@ Primary 3 and 4 classes explore rich texts, literary devices, and character
 analysis during literature lessons. At Primary 5, advanced readers engage
 in Reading Circles, a Gifted Education Branch initiative, deepening their
 understanding through structured discussions.</p>
-<p>File name: Literature</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Literature.jpg">
+</div>
 <p><strong>3) Nurturing Talented Communicators</strong>
 </p>
 <p>Selected students across levels represent our school in external competitions
@@ -135,13 +191,14 @@ co-authored 2 series of books with their peers from Xingnan Primary School.
 The budding authors went through authentic learning experiences such as
 learning journeys. The latest project involved interviewing Mdm Halimah
 Yacob and writing books about her childhood!</p>
-<p>File: Budding Authors Book</p>
-<p>File: BA Halimah Photo 2</p>
-<p>File: BA Picture</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Budding_Authors_book.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/BA_Halimah_photo_2.png">
+</div>
 <p></p>
-<p></p>
-<p>
-<br>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/BA_picture.jpg">
+</div>
 <p></p>
