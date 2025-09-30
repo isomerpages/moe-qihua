@@ -59,9 +59,52 @@ core values and Social-Emotional Learning (SEL) skills such as:</p>
 <li>
 <p>Responsible decision-making
 <br>
-<br>[Add the photos under folder “Start it right”]</p>
+</p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/SIR2__2025_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/SIR_3__2025_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/SIR_4__2025_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/SIR_1__2025_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>3) End It Well&nbsp;</strong>
 </p>
@@ -96,7 +139,10 @@ sustain positive relationships.</p>
 <p>This structured, school-wide approach nurtures a caring school culture,
 strengthens peer support across levels, and helps all students grow into
 confident and compassionate individuals.</p>
-<p>[Add in the photos under Care for Buddy]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/Care_for_Buddy__2025_.jpg">
+</div>
 <p></p>
 <p><strong>2) HatBITS&nbsp;</strong>
 </p>
@@ -164,5 +210,3 @@ to experience the values of caring, sharing, and giving in action.</p>
 community around them and learn to build positive relationships with others.
 It is a valuable experience that nurtures empathy, social awareness, and
 a strong sense of belonging.</p>
-<p></p>
-<p></p>
