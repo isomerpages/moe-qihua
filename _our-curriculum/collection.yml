@@ -2,8 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
-      - ICT/ICT and School Library.md
-      - ICT/.keep
+      - ICT & School Library/ICT and School Library.md
+      - ICT & School Library/.keep
       - English.md
       - Mathematics/.keep
       - Mathematics/Vision & Mission.md
