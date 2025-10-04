@@ -4,212 +4,576 @@ permalink: /curriculum/student-development/
 description: ""
 variant: tiptap
 ---
-Our Curriculum
-
-**<font size="6">Student Management</font>**
-
-**<font size="5">Vision</font>**
-
-Confident and Responsible Qihuaians committed to excellence with the spirit to serve.
-
-**<font size="5">Mission</font>**
-
-  
-To develop self-discipline in all Qihuaians.
-
-
-**<font size="5">Key Programmes</font>**
-
-
-**<font size="5">Engaging the mass</font>**
-
- 
-**Growth Mindset**
-
-Students have embarked on a journey to learn about the Growth mindset through game play in the morning. Pre-morning game sessions have been developed to help students discover the differences between Growth and Fixed mindsets. Through discovering the differences, the students will understand that they have a choice to adopt a Growth mindset. Individuals with growth mindsets are more likely to embrace challenges, persevere in the face of obstacles and as a result, they can achieve more.
-
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%201.jpeg" style="width:60%">
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%202.jpeg" style="width:60%">
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%203.jpeg" style="width:60%">
-
+<h3><strong>Vision</strong></h3>
+<p>Empowered Qihuaians: Confident Learners who Lead with Heart, Serve with
+Purpose, and Grow Together</p>
+<p></p>
+<h3><strong>Mission</strong></h3>
+<p>To develop every Qihuaian into a responsible and caring individual, equipped
+with the skills and values to lead, serve and thrive.</p>
+<p></p>
+<h3><strong>Empowering Confident Leaders</strong></h3>
+<p>The <strong>Student Leadership Development Framework</strong> is firmly
+grounded on values and character education. Anchored on the belief that
+“Every student is a leader at different levels of competency”, the school
+adopts a three-tiered Student Leadership Development Programme (SLDP) to
+develop leadership in all students:</p>
+<p>1) <strong>Foundational Leadership Development Programme</strong> to develop
+the personal leadership skills in every student to lead self.</p>
+<p>2) <strong>Experiential Leadership Development Programme</strong> to develop
+leadership skills to lead others within the classroom.</p>
+<p>3) <strong>Strategic Leadership Development Programme</strong> with specific
+leadership training to further develop and enhance their leadership skills
+to lead others at the cohort or school level.&nbsp;&nbsp;</p>
+<p>A systematic approach is adopted in identifying, training, monitoring
+and evaluating students’ leadership development.&nbsp; At the foundational
+level, students form class committees (Classroom Enhancement, Classroom
+Cleanliness, Classroom Energy Conservation, Classroom Safety). At the experiential
+level, class leadership is structured to ensure that each child assumes
+a leadership role every year. Processes are put in place to ensure every
+pupil has a chance to assume responsibility as a Subject Monitor or as
+Group Leaders. Through the experience gained at the experiential leadership
+tier, teachers will identify students with higher potential to be put into
+customized strategic leadership programmes to develop and maximize their
+potential.</p>
+<p>Through the SLDP, we hope to see all our students exhibit the following
+leadership skills:</p>
+<p>&nbsp;(a) <strong>Foundational Leadership</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Have an awareness of one’s own strengths and weaknesses.</p>
+</li>
+<li>
+<p>Possess the spirit of caring and sharing.</p>
+</li>
+</ul>
+<p>(b) <strong>Experiential Leadership</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Communicate confidently and positively.</p>
+</li>
+<li>
+<p>Uphold the school values and are socially responsible.</p>
+</li>
+<li>
+<p>Able to motivate and have a positive influence over peers to embrace desirable
+habits and values.</p>
+</li>
+</ul>
+<p>(c) <strong>Strategic Leadership</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess the initiative and ability to make good and quick decisions.</p>
+</li>
+<li>
+<p>Able to manage conflict.</p>
+</li>
+<li>
+<p>Able to inspire unity and teamwork.</p>
+</li>
+<li>
+<p>Able to see a project/event all the way through from planning to execution
+to evaluation.</p>
+</li>
+<li>
+<p>Able to inspire other leaders to grow in leadership.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Role of Prefects</strong></h4>
+<ul>
+<li>
+<p>Role model of school values</p>
+</li>
+<li>
+<p>Uphold school rules and expectations</p>
+</li>
+<li>
+<p>Promote a safe and respectful school environment</p>
+</li>
+<li>
+<p>Support teachers and school programmes</p>
+</li>
+<li>
+<p>Be a positive peer influence</p>
+</li>
+<li>
+<p>Develop self - leadership</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Head_Prefect.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>KENNETH KANG
+<br>Head Prefect
+<br>P6-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/deputy_head_prefect__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>VALERIE PHANG&nbsp;</p>
+<p>Deputy Head Prefect</p>
+<p>P6-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Deputy_Head_Prefect__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR QAISARAH HIDAYAH</p>
+<p>Deputy Head Prefect</p>
+<p>P6-1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Our P6 Prefects</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P6_Prefectsx.jpg">
+</div>
+<p></p>
+<h3><strong>Building Positive Relationships</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Every Qihuaian a Peer Supporter</strong>
+</p>
+</li>
+</ol>
+<p>Students are explicitly taught the values of empathy and peer support
+through Form Teacher Guidance Periods and termly Start-It-Right lesson
+packages that teach students about the LOOK and CHEER framework to guide
+their daily interactions.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/LOOK.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/CHEER.png">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Start-It-Right Bonding Activities</strong>
+</p>
+</li>
+</ol>
+<p>Conducted during the termly Start-It-Right, class bonding and level bonding
+sessions help students build friendships and create psychologically safe
+classrooms through games and structured conversations.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P4_Buddy_Interaction_2024.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P5_Level_Bonding_2024.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>
+<br>3. <strong>Peer Support Leaders</strong>
+</p>
+<p>PSLs are trained to provide peer support, promote inclusivity, and lead
+key school-wide campaigns. They model care and empathy and promote positive
+peer relationships. PSLs also support school events such as P1 Orientation
+day and P1 First Day of School, guiding their juniors as they transition
+to primary school.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P3_PSL_Training_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P1_First_Day_of_School_2025.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Promoting a Positive School Environment</strong></h3>
+<ol>
+<li>
+<p><strong>Assembly Programmes and bite-sized lesson packages</strong>
+</p>
+</li>
+</ol>
+<p>These platforms provide engaging, age-appropriate ways to teach students
+how to recognise and respond to bullying behaviours safely and respectfully.</p>
+<p></p>
+<ol start="2">
+<li>
+<p><strong>Kindness Counts Campaign</strong>
+</p>
+</li>
+</ol>
+<p>P4 to P6 Peer Support Leaders led a school-wide campaign promoting kindness
+and standing against bullying. Through hands-on activities and peer outreach,
+they raised awareness and empowered fellow Qihuaians to be upstanders.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Kindness_Campaign_2025_2x.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Kindness_Campaign_2025.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>3. <strong>Embracing Differences, Strengthening Inclusion</strong>
+</p>
+<p>At Qihua, we believe that every student has a place and a voice. Through
+initiatives like the Purple Parade campaign led by the PSLs, students learn
+to appreciate diversity and include others with empathy and care. These
+efforts help foster a school environment where everyone feels respected
+and supported, and where differences are seen as strengths.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Purple_Parade_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Purple_Parade_2023x.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Being Safe, Smart and Kind in the Digital World</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Assembly Programmes and Partner Programmes</strong>
+</p>
+</li>
+</ol>
+<p>Students are explicitly taught and equipped with skills to manage screen
+time, evaluate online content, and interact responsibly in digital spaces
+through FTGP lessons and iCLAP lesson packages on EAGLETS days. School-wide
+assemblies and pop-up activities engage our students on Cyber Wellness
+issues.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Be_Cyber_Safe_Pop_up.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/CSA_Pop_up.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>2. <strong>Cyber Wellness Campaign – Let’s Be Cyber Safe</strong>
+</p>
+<p>In line with Safer Internet Day in February, P4 - P6 PSLs led activities
+teaching students about password safety, online respect, cyberbullying,
+and spotting misinformation and scams, to encourage fellow Qihuaians to
+stay safe in the online world.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Let_s_Be_Cyber_Safe_Campaign_2025_2x.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Let_s_Be_Cyber_Safe_Campaign_2025.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Enriching Minds, Uplifting Hearts</strong></h3>
+<ol>
+<li>
+<p><strong>Mentoring Programmes</strong>
+</p>
+</li>
+</ol>
+<p>Community mentors guide selected students in small groups through structured
+programmes focused on socio-emotional competencies, responsible decision-making
+and positive peer relationships. Identified teachers also mentor a small
+group of students over weekly breakfasts as part of the Mentors UPLIFT
+Me (MUM) programme to build relationships, boost confidence, and provide
+trusted adult support.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Mentoring_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/YGOS.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>2. <strong>iBEEP (interest-Based Experiential Elective Programme)</strong>
+</p>
+<p>After-school enrichment programme that supports student self-esteem and
+socio-emotional development through interest-based activities like sports,
+dance, STEM and visual arts.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/KPOP_Dance.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Bubble_Soccer.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>3. <strong>Academic Support Programmes</strong>
+</p>
+<p>After-school academic support for identified students, with volunteers
+supervising and assisting students in completing their assignments in a
+structured environment.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><br><strong>Positive Discipline</strong></h3>
+<p>With the Positive Discipline approach, students learn positive behaviour
+through the teaching of values, social-emotional and life skills, and by
+being given opportunities to practise and reinforce these behaviours. This
+approach focuses on building respectful relationships, setting clear expectations,
+and supporting students in developing self-control, accountability, and
+responsible decision-making. The aim is to foster a safe, inclusive, and
+supportive learning environment where students feel valued and are motivated
+to learn and grow from their experiences. Peer relationships play a key
+role in encouraging positive influence and providing emotional and social
+support.</p>
+<p>
 <br>
-
+</p>
+<p>Disciplinary measures are designed to help students understand the consequences
+of inappropriate actions and take responsibility to make better choices
+in the future. The school works in partnership with parents to maintain
+consistent behavioural standards through ongoing collaboration and communication.
+Restorative practices are integrated to promote empathy, open dialogue,
+and mutual understanding among students and staff. For example, student
+counselling and guided reflection sessions are used to repair and strengthen
+relationships that may have been affected by behavioural issues.</p>
+<h3><br><strong>Positive Experiences at Lower, Middle and Upper Primary</strong></h3>
+<h4><strong>Lower Primary</strong></h4>
+<p><strong>Primary 1 Orientation</strong>
+</p>
+<p>Our Primary 1 Orientation warmly welcomes new students and parents as
+they begin their primary school journey. Students will go on a guided school
+tour to familiarise themselves with the school environment, while parents
+learn more about the transition from kindergarten to primary school.</p>
+<p>
+<br><strong>Primary 1 Learning Journey to the Singapore Zoo</strong>
+</p>
+<p>Our Primary 1 Learning Journey to the Singapore Zoo provides students
+with hands-on experience to observe and learn about the characteristics
+of different animals in their habitats. Through this visit, students will
+develop an appreciation of the importance of a well-balanced ecosystem
+while strengthening bonds with their classmates as they collaborate and
+learn from one another. After the visit, students will share their reflections
+in class, deepening their learning and communication skills.</p>
+<p>
+<br><strong>Primary 2 Learning Journey to the Bird Paradise</strong>
+</p>
+<p>The Primary 2 Learning Journey to the Bird Paradise is a much-anticipated
+outing where students explore the vibrant world of birds in their natural
+habitats. This enriching experience allows students to observe various
+bird species, learn about the importance of conservation, and understand
+how everyone can play a part in protecting the environment. It also encourages
+our students to stand up and take action in caring for the world around
+them. Beyond learning, the visit provides meaningful opportunities for
+students to strengthen friendships and learn collaboratively outside the
+classroom.</p>
+<h4><br><strong>Middle Primary&nbsp;</strong></h4>
+<p><strong>Shining Together: P3s Bond Through Kindness and Teamwork&nbsp;</strong>
+</p>
+<p>In Term 3, Primary 3 students bonded through fun team games that promoted
+kindness, teamwork, and the Stop–Think–Do strategy. The session ended with
+reflections and cheers, reinforcing the importance of positive peer relationships.</p>
+<p>
+<br><strong>SwimSafer: Growing Confident and Safe in Water</strong>
+</p>
+<p>All Primary 3 students take part in the SwimSafer Programme, where they
+learn essential water safety and survival skills. Through fun and structured
+lessons, students build confidence, resilience, and the knowledge to stay
+safe in and around water.</p>
+<p></p>
+<p><strong>Being a Supportive Friend – Primary 4 Peer Support Activity</strong>
+</p>
+<p>Primary 4 students took part in a peer support activity to learn how to
+be kind, caring, and encouraging friends. They explored ways to help others
+emotionally, socially, and academically.</p>
+<p>Through interactive games and role-play, students learned how to check
+in with friends, use kind and helpful words, and show a growth mindset.
+The activity helped them build empathy and understand how their actions
+can make a positive difference in someone’s day.</p>
+<p>
+<br><strong>Growing Safe and Responsible: Our Primary 4 Road Safety Experience</strong>
+</p>
+<p>Our Primary 4 students took part in the Traffic Games at the Road Safety
+Community Park, where they learned important life skills in a fun and engaging
+way.</p>
+<p></p>
+<p>Through hands-on experiences as pedestrians, cyclists, go-kart drivers,
+and road marshals, students developed greater awareness of road safety,
+responsibility, and care for others. The learning journey empowered them
+to make safe and thoughtful decisions in real-world traffic situations,
+reinforcing values such as respect, self-management, and active citizenship.</p>
+<h4><br><strong>Upper Primary</strong></h4>
+<p><strong>P5 Adventure Camp: <em>Stretching Personal Capabilities and Building Self-Confidence</em></strong>
+</p>
+<p>Experiential learning is extended beyond the traditional classroom setting
+to discover one’s abilities and take on exciting challenges by choice.
+The 3D-2N camp aims to foster the development of essential life skills
+such as resilience, independence, and teamwork through engaging outdoor
+activities. Students learn to connect with nature, appreciate the environment,
+and build stronger bonds with peers.</p>
+<p>
+<br><strong>P5 NE (National Education) Show:<em> Singapore Our Homeland</em></strong>
+</p>
+<p>Our P5 students attend the annual National Day Parade (NDP) Preview. Students
+enjoy a feast of traditional and modern performances and a spectacular
+aerial tribute by the Republic of Singapore Air Force (RSAF). The annual
+event serves to instill a sense of national pride and belonging. In addition,
+the students develop a Singaporean spirit by connecting with the community
+and the nation, and learning about Singapore's defense capabilities and
+progress as a nation.</p>
+<p>
+<br><strong>P6 Motivation Workshop: <em>"All our dreams can come true, if we have the courage to pursue them." - Walt Disney.&nbsp;</em></strong>
+</p>
+<p>The P6 Motivation Workshop prepares P6 students by equipping them with
+the skills and mindset to tackle their PSLE (Primary School Leaving Examination).
+The workshop focuses on building effective habits, providing study skills,
+and enhancing time management. Students acquired a sense of ownership of
+learning and picked up tips to manage exam stresses.</p>
+<p>
+<br><strong>P6 Graduation Ceremony: <em>“Class of 2024. We Did It!”</em></strong>
+</p>
+<p>A significant milestone event was held to celebrate P6 students completing
+their primary school education and transitioning to secondary school. The
+ceremony serves as a platform to acknowledge students' achievements, reflect
+on their Qihua’s journey, and express gratitude to people who had supported
+them.</p>
+<p>
 <br>
-
-**Inclusivity Education in PSR**
-
-  
-In promoting inclusivity of students with SEN and deepening the culture of care, inclusive education is driven through our Peer Support and Relationship programme (PSR). PSR is an all-year programme where lessons are carried out during CCE, FTGP and termly Start It Right (SIR) sessions. Storytelling approach is adopted to promote PSR messages and social skills during SIR.
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%204.jpg" style="width:40%">
-
-<br>
-
-<br>
-
-**Bully Free Zone**
-
-  
-As part of the school’s efforts to promote the message of anti-bullying, various activities were organised, targeting different groups of students. Students from IBEEP and selected student leaders participated in a workshop and camp as part of their learning and in empowering them, as anti-bullying advocates, to lead their peers in championing for a bully free zone. This group of students, together with some personnels from Singapore Children’s Society, organised an anti-bullying campaign and led in promoting bully-free messages to their peers. Awareness to the general student population was carried out through an assembly programme and activities that were planned during the different recesses.
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%205.jpg" style="width:50%">
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%206.jpg" style="width:50%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%207.jpg" style="width:30%">
-
-<br>
-
-<br>
-
-**<font size="5">Enabling budding learners</font>**
-
-   
-**P6 Motivation workshop**
-
-  
-While striving for academic success, it is equally important to care for our students’ well-being. At Qihua, the teachers look into equipping our Primary 6 students with the skills and motivation to handle the stresses of being a PSLE candidate.
-
-As part of our continuing efforts, we conducted a 3-day workshop where students focused on reviewing their target setting and time management, as well as practising effective study skills. In the months to come, we will continue to support the students and motivate them. With determination and follow-through, the goals they have set for themselves can be achieved!
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%208.jpeg" style="width:50%">
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%209.jpeg" style="width:30%">
-
-
-
-**Learning and Leading from within**
-
-  
-From face-to-face sessions to online workshops, our prefects are continuously provided with opportunities to be trained and developed in their leadership qualities and skills. For example, the senior prefects from Primary 6, mentor and train the Primary 5 prefects to lead the school, especially for the morning assembly.It is hoped that this on-the-job training will hone their leadership qualities and skills further.
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2010.jpeg" style="width:50%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2011.jpeg" style="width:50%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2012.jpeg" style="width:50%">
-
-<br>
-
-<br>
-
-**Enriching the learning experiences**
-
-  
-**TOUCH (Time-out Under Caring Hands)**
-
-  
-TOUCH encompasses various identified after-school programmes (IBEEP, MUM, CHiCS) that look into students’ well-being. Its aim is to provide a safe and supportive environment for students to be meaningfully engaged during and after school hours, at the same time, develop trusting and warm relationships through conversations and play with peers and adult-mentors.
-
-  
-Interest-based experiential elective programme (IBEEP) is an after school enrichment programme with the purpose of providing students with consistent and regular interest-based activities, an opportunity to build self-esteem and develop talent in areas of interest.
-
-  
-Champion in Community Service (ChiCS) is a programme that enables students to experience the spirit of giving back and contribute to society through available community initiatives.
-
-  
-Mentors Uplift Me (MUM) is a mentoring programme which supports selected students through their primary school journey, tapping on the strength of strong TSR, committed teacher individuals and dedicated volunteers from our community partners.
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2013.png" style="width:40%">
-
-
-_**\*Photos taken before COVID-19**_
-
-<br>
-
-<br>
-
-**Interest-Based Experiential Elective Programme (IBEEP)**
-
-  
-IBEEP is an after-school enrichment programme that offers students consistent and regular interest-based activities. This programme provides opportunities to build self-esteem and develop talent in areas of interest within a safe and conducive environment.
-
-**There are 3 parts to IBEEP:**
-
-  
-**Partners’ Programme**
-
-  
-As part of the programme, the school engages external agencies such as YGOS and  
-Mendaki to mentor and lead the students in values-inculcation activities.
-
-**Experiential Electives**
-
-  
-Students attend workshops or training sessions based on their areas of interest. Electives offered include Kickboxing, Cooking, Photography, Coding, Trampoline Workout, Inline Skating and Taiko Drumming.
-
-**IBEEP Room**
-
-  
-A room has been refurbished to be the place for students to do self-studying, reading and playing games with peers under the supervision of our support staff.
-
-IBEEP received positive responses from the students. Through this platform, they have been supported in their journey of self-discovery. Being able to explore their interests has made coming to school so much more engaging and fun!
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2014.jpg" style="width:55%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2015.jpg" style="width:55%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2016.jpg" style="width:40%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2017.jpg" style="width:55%">
-
-
-
-_**\*Photos taken before COVID-19**_
-
-<br>
-
-  
-**Heartware Reading and Tuition Programme**
-
-  
-Qihua engaged Heartware Network, a charitable youth organisation, to provide targeted support to a small group of students. The selected lower primary students went through The Heartware Learning Together Programme where the volunteers used online platforms to engage students in one-on-one lessons to improve their literacy skills through language activities. Through these activities students expand their vocabulary, acquire comprehension skills and improve their reading ability. Volunteers use stories, songs, video clips to arouse interest and engage students.  
-The tuition programme aims to enhance academic interest and motivation in our graduating students. A select group of P6 students were selected to participate in the 2020 Heartware programme. Supported by student volunteers from tertiary institutions, our students had weekly coaching sessions for Math. The sessions not only helped to boost the self- esteem and confidence of our students, but the volunteers served as good role models to them.
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2018.jpg" style="width:55%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2019.jpg" style="width:25%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2020.jpg" style="width:55%">
-
-
-<br>
-
-<br>
-
-**<font size="5">Service Leadership</font>**
-
-  
-**Voice of Qihua**
-
-Voice of Qihua is a platform for students to voice out their thoughts and give them a sense of ownership towards the development of the school. Once a term, selected prefects present a problem that they have noticed around the school and share their observation during assembly. They then guide their peers to provide solutions and those that can be implemented will be shared with the school.
-
-
-**Strategic Student Leadership**
-
-  
-As a Strategic Leader in Qihua, one aims to lead and inspire. Our Strategic Leaders undergo self development training to master skills such as Public speaking and Conflict Management. At the same time, they would be given opportunities to contribute towards the betterment of the school. One of such opportunities would be partnering with Northwest CDC in serving the community.
-
-In line with WeCare @ North West – Service Weeks, North West CDC organised a festive distribution to needy families from 22 January to 07 February 2021. Each year, the NWCDC will distribute festive goodies bags for identified households and Qihua Primary School was part of the action in spreading festive cheers to our needy families this year. Selected Primary 6 student leaders and IBEEP students managed to pack 150 goodies bags in a record time of two hours! They worked as a team and enjoyed the experience in their effort to give back to the community.
-
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2021.jpg" style="width:50%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2022.jpg" style="width:50%">
-		 
-
-For their continuous effort and contribution, a ceremony called the Student Leaders’ Investiture is held yearly. This is held to reaffirm the commitment and recognise the contribution of our student leaders such as the prefects and Co-curricular leaders, in our school. Last year for the first time, we streamed the event to the whole school. During the investiture, we introduced our newly appointed prefects and the Prefect Executive Committee for 2021. We also acknowledge the contribution of our P6 prefects through the years that they had rendered their invaluable services to the school. To start off this memorable event, we had our former Head Prefect of 2019, Azizy, to share with us his experience as a leader in Qihua and how it has helped him grow as a leader in his current school. We had a special handing over ceremony where the current co-curricular leaders handed over a symbolic item, representing their CCAs, to the incumbent leaders.
-
-  
-We hope to inspire our students to be future leaders in their own rights, leading self and others.
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2023.jpg" style="width:55%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2024.jpg" style="width:55%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2025.jpg" style="width:55%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2026.jpg" style="width:55%">
-		 
-<img src="/images/Curriculum/Student%20Management/Stud%20Mag%2027.jpg" style="width:50%">
+</p>
+<p></p>
