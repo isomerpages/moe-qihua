@@ -216,8 +216,7 @@ classrooms through games and structured conversations.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>3. <strong>Peer Support Leaders</strong>
+<p>3. <strong>Peer Support Leaders</strong>
 </p>
 <p>PSLs are trained to provide peer support, promote inclusivity, and lead
 key school-wide campaigns. They model care and empathy and promote positive
@@ -332,12 +331,12 @@ issues.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Be_Cyber_Safe_Pop_up.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Be_Cyber_Safe_Pop_up.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/CSA_Pop_up.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/CSA_Pop_up.jpg">
 </div>
 </td>
 </tr>
@@ -443,15 +442,19 @@ structured environment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Kids_Excel.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Mendaki.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<h3><br><strong>Positive Discipline</strong></h3>
+<h3><strong>Positive Discipline</strong></h3>
 <p>With the Positive Discipline approach, students learn positive behaviour
 through the teaching of values, social-emotional and life skills, and by
 being given opportunities to practise and reinforce these behaviours. This
@@ -462,9 +465,7 @@ supportive learning environment where students feel valued and are motivated
 to learn and grow from their experiences. Peer relationships play a key
 role in encouraging positive influence and providing emotional and social
 support.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Disciplinary measures are designed to help students understand the consequences
 of inappropriate actions and take responsibility to make better choices
 in the future. The school works in partnership with parents to maintain
@@ -473,7 +474,7 @@ Restorative practices are integrated to promote empathy, open dialogue,
 and mutual understanding among students and staff. For example, student
 counselling and guided reflection sessions are used to repair and strengthen
 relationships that may have been affected by behavioural issues.</p>
-<h3><br><strong>Positive Experiences at Lower, Middle and Upper Primary</strong></h3>
+<h3><strong>Positive Experiences at Lower, Middle and Upper Primary</strong></h3>
 <h4><strong>Lower Primary</strong></h4>
 <p><strong>Primary 1 Orientation</strong>
 </p>
@@ -481,6 +482,26 @@ relationships that may have been affected by behavioural issues.</p>
 they begin their primary school journey. Students will go on a guided school
 tour to familiarise themselves with the school environment, while parents
 learn more about the transition from kindergarten to primary school.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P1_Orientation_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P1_Orientation_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>Primary 1 Learning Journey to the Singapore Zoo</strong>
 </p>
@@ -491,6 +512,26 @@ develop an appreciation of the importance of a well-balanced ecosystem
 while strengthening bonds with their classmates as they collaborate and
 learn from one another. After the visit, students will share their reflections
 in class, deepening their learning and communication skills.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P1_Zoo_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P1_Zoo_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>Primary 2 Learning Journey to the Bird Paradise</strong>
 </p>
@@ -503,12 +544,52 @@ our students to stand up and take action in caring for the world around
 them. Beyond learning, the visit provides meaningful opportunities for
 students to strengthen friendships and learn collaboratively outside the
 classroom.</p>
-<h4><br><strong>Middle Primary&nbsp;</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P2_Bird_Paradise1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P2_Bird_Paradise_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Middle Primary&nbsp;</strong></h4>
 <p><strong>Shining Together: P3s Bond Through Kindness and Teamwork&nbsp;</strong>
 </p>
 <p>In Term 3, Primary 3 students bonded through fun team games that promoted
 kindness, teamwork, and the Stop–Think–Do strategy. The session ended with
 reflections and cheers, reinforcing the importance of positive peer relationships.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P3Bonding1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P3Bonding2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>SwimSafer: Growing Confident and Safe in Water</strong>
 </p>
@@ -538,7 +619,27 @@ and road marshals, students developed greater awareness of road safety,
 responsibility, and care for others. The learning journey empowered them
 to make safe and thoughtful decisions in real-world traffic situations,
 reinforcing values such as respect, self-management, and active citizenship.</p>
-<h4><br><strong>Upper Primary</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Road_Safety_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/Road_Safety_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Upper Primary</strong></h4>
 <p><strong>P5 Adventure Camp: <em>Stretching Personal Capabilities and Building Self-Confidence</em></strong>
 </p>
 <p>Experiential learning is extended beyond the traditional classroom setting
@@ -547,6 +648,38 @@ The 3D-2N camp aims to foster the development of essential life skills
 such as resilience, independence, and teamwork through engaging outdoor
 activities. Students learn to connect with nature, appreciate the environment,
 and build stronger bonds with peers.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P5_Camp_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P5_Camp_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P5_Camp_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P5_Camp_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>P5 NE (National Education) Show:<em> Singapore Our Homeland</em></strong>
 </p>
@@ -557,6 +690,26 @@ event serves to instill a sense of national pride and belonging. In addition,
 the students develop a Singaporean spirit by connecting with the community
 and the nation, and learning about Singapore's defense capabilities and
 progress as a nation.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/NE_Show_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/NE_Show_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>P6 Motivation Workshop: <em>"All our dreams can come true, if we have the courage to pursue them." - Walt Disney.&nbsp;</em></strong>
 </p>
@@ -565,6 +718,24 @@ the skills and mindset to tackle their PSLE (Primary School Leaving Examination)
 The workshop focuses on building effective habits, providing study skills,
 and enhancing time management. Students acquired a sense of ownership of
 learning and picked up tips to manage exam stresses.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P6_Mot_2x.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>P6 Graduation Ceremony: <em>“Class of 2024. We Did It!”</em></strong>
 </p>
@@ -573,7 +744,36 @@ their primary school education and transitioning to secondary school. The
 ceremony serves as a platform to acknowledge students' achievements, reflect
 on their Qihua’s journey, and express gratitude to people who had supported
 them.</p>
-<p>
-<br>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P6_Grad_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P6_Grad_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P6_Grad_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Development/P6_Grad_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
