@@ -2,24 +2,24 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Science.md
-      - ICT & School Library/.keep
-      - ICT & School Library/Infocomm Technology (ICT).md
-      - ICT & School Library/School Library.md
       - English.md
       - Mathematics/.keep
       - Mathematics/Vision & Mission.md
       - Mathematics/Key Programmes.md
-      - Science/.keep
+      - Science.md
       - Mother Tongue Development/.keep
       - Mother Tongue Development/Chinese Language.md
       - Mother Tongue Development/Malay Language.md
       - Mother Tongue Development/Tamil Language.md
       - CCE.md
+      - ICT & School Library/.keep
+      - ICT & School Library/Infocomm Technology (ICT).md
+      - ICT & School Library/School Library.md
       - Student Management.md
-      - Aesthetics Music and Art.md
       - Physical Education.md
+      - Aesthetics Music and Art.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/CCAs offered in Qihua Primary School.md
       - CCA/Learning Experiences.md
+      - Science/.keep
