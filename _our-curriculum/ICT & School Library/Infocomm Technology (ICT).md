@@ -29,6 +29,9 @@ thinking and ICT skills for the future workforce
 <p>The ICLAP+ focuses on teaching pupils the baseline ICT skills and good
 Cyberwellness practices.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/ICT_EEE_Table.png">
+</div>
 <p>ICLAP+ aims to enable students to</p>
 <ul>
 <li>
@@ -46,7 +49,6 @@ and asynchronously</p>
 </li>
 </ul>
 <h4><strong>Enabling budding learners</strong></h4>
-<p></p>
 <p><strong>Cyberwellness</strong>
 </p>
 <p>Cyber Wellness (CW) refers to the positive well-being of Internet users.
@@ -59,7 +61,6 @@ for collaboration, learning and productivity, as well as advocating positive
 use of technology for the good of the community.</p>
 <p></p>
 <p>These are the topics that will be covered:</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -125,6 +126,10 @@ use of technology for the good of the community.</p>
 </tbody>
 </table>
 <p>The programmes will be carried out on different platforms.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/ICT_Cyberwellness.png">
+</div>
 <p>Cyberwellness Programme aims to enable students to</p>
 <ul>
 <li>
@@ -140,7 +145,28 @@ use of technology for the good of the community.</p>
 <p>manage the digital footprint he/she makes when sharing information online.</p>
 </li>
 </ul>
-<p>[Add the two photos under ICT → Cyberwellness exhibition 1 &amp; 2]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/Cyber_wellness_exhibition_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/Cyber_wellness_exhibition_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Enriching the learning experiences</strong></h4>
 <p>At Qihua Primary School, we want to promote the students’ computational
 thinking, problem solving skills and ICT skills for the future workforce
@@ -195,15 +221,68 @@ by exposing students to Coding and Programming.</p>
 </tr>
 </tbody>
 </table>
-<p>[To add 2 photographs for P4 Code for Fun under ICT folder → P4 CCF 1
-to 4]</p>
-<p>[To add 2 photographs for P5 AI for Fun under ICT folder → P5 AI for fun]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/P4_CFF_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/P4_CFF_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/P5_AI_for_Fun_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/P5_AI_for_Fun_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Empowering the leaders</strong></h4>
 <p><strong>ICT Monitors Training</strong>
 </p>
 <p>To enable students to develop their leadership capabilities and contribute
 back to the community, Primary 4 to Primary 6 ICT Monitors go through structured
 training.</p>
-<p>
-<br>[To add the three photos under ICT → ICT Monitor training]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/ICT_Monitor_Training_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/ICT_Monitors_Training_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
