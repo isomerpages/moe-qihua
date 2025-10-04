@@ -2,120 +2,96 @@
 title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Our Curriculum
-
-**<font size="6">Physical Education</font>**
-
-**<font size="5">Vision</font>**
-
-Every Qihuaian a competent mover with physical skills, practices, knowledge and values to enjoy a lifetime of active and healthy living.
-
-**<font size="5">Mission</font>**
-
-  
-To nurture in pupils knowledge, skills, healthy practices and values which are essential for pursuing an active and healthy lifestyle through meaningful and purposeful learning experiences.
-
-**<font size="5">Key Programmes</font>**
-  
-**Engage**
-
- 
-**1) Active Play Programme**
-
-The Active Play Programme creates an avenue for students to stay active and enjoy unstructured play time during recess. Activities include playing badminton, target-throwing and kicking chapteh. In the process, students learn how to organise their own play and also inculcate values of care and responsibility through organising, wiping down and arranging the equipment prior to returning.
-
-<img src="/images/Curriculum/PE/PE%201.png" style="width:50%">
-
-<img src="/images/Curriculum/PE/PE%202.png" style="width:50%">
-
-
-**2) Sports Carnival**
-
-The Annual Sports Carnival is conducted to promote friendly competition among the four Houses, develop school values and values of fair play and good sportsmanship, promote healthy lifestyle and build strong positive bonds among students and between students and teachers. Students and teachers try out an array of sporting activities such as mini trampoline, inflatables, carnival games, sports tryout and PE challenge. Students are also reminded about the need to exhibit the school values during the activities. In addition, medals are awarded to students who set the best records for the PE challenge.
-
-<img src="/images/Curriculum/PE/PE%203.png" style="width:50%">
-_**<center>Carnival games</center>**_
-
-<img src="/images/Curriculum/PE/PE%204.jpg" style="width:50%">
-_**<center>Trampoline</center>**_
-
-<img src="/images/Curriculum/PE/PE%205.jpg" style="width:50%">
-_**<center>VR</center>**_
-
-<br>
-
-**3) Health Week**
-
-  
-The annual Health Week features health quizzes, Milovan, Fruittie-Veggie Bite programme, health tips, assembly talks and Anti-drug Ambassador activities. The objectives of Health Week are to educate students about pertinent health topics in a holistic manner and to reinforce positive health behaviour.
-
-<img src="/images/Curriculum/PE/PE%206.jpeg" style="width:50%">
-
-<img src="/images/Curriculum/PE/PE%207.jpeg" style="width:50%">
-
-
-<img src="/images/Curriculum/PE/PE%208.jpeg" style="width:30%">
-
-
-<img src="/images/Curriculum/PE/PE%209.jpeg" style="width:50%">
-
-
-<img src="/images/Curriculum/PE/PE%2010.jpeg" style="width:50%">
-
-
-<img src="/images/Curriculum/PE/PE%2011.jpeg" style="width:50%">
-
-
-**_\*Photos taken before COVID-19_**
-
-**Enrich**
-
-
-**1) P1 and P2 Structured Play (EAGLETS day)**
-
-During the P1 and P2 structured play on EAGLETS day, students participate in a variety of sports which help in the development of numerous life skills. They learn to develop sports skills and inculcate school values, good habits and learning dispositions such as thinking independently., Students also gain understanding of the format and game rules along with the fundamental skills required for Floorball, Basketball, Sepak Takraw and Table Tennis through modified play. Through individual and group activities, students learn to be patient and resilient in the face of challenges, demonstrate team spirit and develop core values such as respect and self-discipline.
-
-<img src="/images/Curriculum/PE/PE%2012.png" style="width:60%">
-
-
-<img src="/images/Curriculum/PE/PE%2013.png" style="width:60%">
-
-
-**2) P3 Swimsafer Programme**
-
-All P3 students participated in this 8-week modular swimming programme to develop water competency in a fun and safe way. The SwimSafer programme consists of six progressive stages. Survival and activity skills are taught in each stage of the programme and students work progressively toward the next stage. At the end of the programme, students have a chance to earn a Swimsafer certificate if they pass both the practical and theory components successfully.
-
-<img src="/images/Curriculum/PE/PE%2014.jpeg" style="width:50%">
-
-
-<img src="/images/Curriculum/PE/PE%2015.jpeg" style="width:50%">
-
-
-**_\*Photos taken before COVID-19_**
-
-**3) P5 Camp**
-
-During the P5 annual camp, students participate in a variety of team-building and outdoor activities. Strong mutual support is developed among peers as students step out of their comfort zones to live independently for 3 days and 2 nights.
-
-<img src="/images/Curriculum/PE/PE%2016.jpeg" style="width:50%">
-
-<img src="/images/Curriculum/PE/PE%2017.jpeg" style="width:45%">
-
-
-**_\*Photos taken before COVID-19_**
-
-<br>
-
-**Excel**
-
-1) National Physical Fitness Award (P4 and P6)
-
-2) Junior Sports Academy
-
-3) External Sports Competition
-
-4) Direct School Admission (Singapore Sports School)
-
-5) National School Games
+<h3><strong>Vision</strong></h3>
+<p>Every Qihuaian a competent mover who demonstrates the physical skills,
+practices, knowledge, and values to lead a life of active, healthy and
+holistic living</p>
+<h3><strong>Mission</strong></h3>
+<p>To nurture in every student the knowledge, skills, values, and healthy
+practices essential for lifelong active and healthy living, through meaningful,
+purposeful, and engaging physical learning experiences&nbsp;</p>
+<h3><strong>Key Programmes</strong></h3>
+<h4><strong>Engage</strong></h4>
+<p><strong>1) Play@Qihua Programme</strong>
+</p>
+<p>The Play@Qihua Programme provides students with opportunities to stay
+active and enjoy unstructured play before and after school, during recess
+and lunch breaks. Through engaging in activities such as basketball, badminton,
+skipping and table tennis, students develop physical skills while having
+fun.</p>
+<p>Beyond play, the programme encourages students to take ownership by organising
+their own games and equipment. This fosters important values of care, responsibility,
+and teamwork, as students learn to set up and keep equipment properly,
+ensuring a safe and enjoyable environment for all.</p>
+<p>
+<br><strong>2) Sports Carnival</strong>
+</p>
+<p>The Annual Sports Carnival is a much-anticipated event that encourages
+friendly competition among the four Houses while promoting school values,
+fair play, and good sportsmanship. It aims to foster a healthy lifestyle
+and strengthen positive relationships between students and teachers.</p>
+<p>During the carnival, students participate in a variety of engaging activities,
+including Interhouse Games, inflatables, VR games and mini trampoline .
+Throughout the event, students are reminded to uphold the school values,
+ensuring a spirit of respect, integrity and teamwork in the activities.</p>
+<p><strong>3) Health Fortnight</strong>
+</p>
+<p>The annual Health Fortnight features activities such as Milovan, health
+quiz, Fruittie-Veggie Bite programme, health tips, assembly talks and Anti-drug
+Ambassador activities. The objectives of Health Fortnight are to educate
+students about pertinent health topics in a holistic manner and to reinforce
+positive health behaviour.</p>
+<h4><strong>Enrich</strong></h4>
+<p><strong>1)&nbsp; P1 and P2 Structured Play (EAGLETS day)</strong>
+</p>
+<p>On EAGLETS Day, our Primary 1 and 2 students engage in a variety of structured
+play activities designed to develop essential life skills. Through modified
+games such as Floorball, Basketball, Sepak Takraw, and Table Tennis, students
+learn the basic rules, game formats, and fundamental skills needed to participate
+confidently.</p>
+<p>Apart from physical skills, these activities also help students cultivate
+important school values and positive learning dispositions. Through both
+individual and group activities, students learn to be patient and resilient
+in the face of challenges, demonstrate team spirit and develop core values
+such as respect and self-discipline.</p>
+<p>
+<br><strong>2) P3 Swimsafer Programme</strong>
+</p>
+<p>All P3 students participated in this 8-week modular swimming programme
+to develop water competency in a fun and safe way. The SwimSafer programme
+consists of six progressive stages. Survival and activity skills are taught
+in each stage of the programme and students work progressively toward the
+next stage. At the end of the programme,&nbsp; students have a chance to
+earn a Swimsafer certificate if they pass both the practical and theory
+components successfully. This opportunity allows them to develop resilience
+and confidence while building strong bonds of mutual support and friendship
+with their peers and teachers.</p>
+<p><strong>3) P5 Camp</strong>
+</p>
+<p>During the Primary 5 Annual Camp, students participate in an array of
+outdoor activities that are thoughtfully designed to nurture collaboration,
+problem-solving, and resilience. These activities challenge students to
+communicate effectively, work together, and support one another in overcoming
+obstacles.</p>
+<p>Over the immersive experience of three days and two nights, students step
+out of their comfort zones to live independently, away from home for the
+first time. Throughout the camp, students learn to appreciate the importance
+of looking out for one another, respecting different perspectives, persevering
+through challenges, and taking responsibility for their actions — all essential
+qualities that contribute to their holistic growth as individuals and members
+of the school community.</p>
+<h4><strong>Excel</strong></h4>
+<p><strong>1) National Physical Fitness Award (P4 and P6)</strong>
+</p>
+<p><strong>2) Junior Sports Academy&nbsp;</strong>
+</p>
+<p><strong>3) External Sports Competition</strong>
+</p>
+<p><strong>4) Direct School Admission (Singapore Sports School)</strong>
+</p>
+<p><strong>5) National School Games&nbsp;</strong>
+</p>
+<p></p>
+<p></p>
