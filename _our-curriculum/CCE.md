@@ -2,101 +2,211 @@
 title: CCE
 permalink: /curriculum/cce-department/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Our Curriculum
-
-**<font size="6">CCE</font>**
-
-**<font size="5">Vision</font>**
-
-Every Qihuaian a good individual and a useful citizen.
-
-**<font size="5">Mission</font>**
-
-
-To deliver quality learning experiences for the development of 21st century competencies in students.
-
-**<font size="5">Key Programmes</font>**
-
-**<font size="5">Engaging the mass</font>**
-
-
-**1) Character Education Using Behaviour Standards**
-
-Qihua Primary School uses Behaviour Standards from a well-known secular Chinese Classics to teach children character development and good behaviour. The Behaviour Standards emphasises on the basic requisites for being a good person and guidelines for living in harmony with others. The Behaviour Standards cover the same core values found in MOE R3ICH values – Respect, Responsibility, Resilience, Integrity, Care and Harmony. In our efforts to promote Character Education, Qihua Primary School also engages parents and students by inviting them to a series of Character Education Sharing Sessions conducted in English and Chinese.
-
-<img src="/images/Curriculum/CCE/CCE%201.jpeg" style="width:60%">
-		 
-<img src="/images/Curriculum/CCE/CCE%202.jpeg" style="width:40%">
-
-
-**2) Start It Right**
-
-Start It Right is our school-based Character and Citizenship Education programme. The packages are created in-house and activities include lessons which help students to understand the National anthem and pledge, the school’s mission, vision and values and school and class rules. The other activities address issues such as transition from holidays to school, positive affirmations, student leadership training and gathering of information about students’ well-being. In addition, teachers bond with students during interaction activities.
-
-The first day of the term is set aside for teachers to set the tone for joyful learning and creating a caring and safe environment for both teachers and students. The programme provides quality interaction time between form teachers and students. It also enables teachers to observe and assess their students’ behaviour and use “teachable moments” to impart values and SEL skills (self-awareness, self-management, social awareness, relationship management &amp; responsible decision-making) in them.
-
-<img src="/images/Curriculum/CCE/CCE%203.jpg" style="width:60%">
-
-<img src="/images/Curriculum/CCE/CCE%204.jpg" style="width:60%">
-
-<img src="/images/Curriculum/CCE/CCE%205.jpeg" style="width:45%">
-
-<img src="/images/Curriculum/CCE/CCE%206.jpeg" style="width:60%">
-
-
-**3) End It Well**
-
-End It Well includes an end-of-school-year party as a celebration of a community of learners who have grown into a cohesive classroom team. It is a fun and meaningful way to wrap the year as students have spent a lot of time together and every class has developed a distinct group personality. Students and teachers party with food, share their feelings and relive favourite memories with one another.
-
-<img src="/images/Curriculum/CCE/CCE%207.jpeg" style="width:40%">
-		 
-<img src="/images/Curriculum/CCE/CCE%208.jpeg" style="width:50%">
-
-<img src="/images/Curriculum/CCE/CCE%209.jpeg" style="width:50%">
-
-
-**<font size="5">Enabling budding learners</font>**
-
-**1) Care For Buddy**
-
-To help our Primary 1 students to adapt to primary school life, each Primary 1 student is assigned to a Primary 4 buddy. Care for Buddy provides a platform for our Primary 4 students to practise care for their juniors as well as develop their leadership skills. At the same time, the Primary 4 students could also develop social awareness and demonstrate interpersonal skills to build and maintain positive relationships with others.
-
-<img src="/images/Curriculum/CCE/CCE%2010.jpeg" style="width:60%">
-
-<img src="/images/Curriculum/CCE/CCE%2011.jpeg" style="width:60%">
-
-
-**2) HatBITS**
-
-In Qihua, we always believe in establishing rules and routines as this encourages positive behaviours. This is done by enforcing consistency through role-modelling and guiding by the adults in school. We have a structure in place to mindfully teach, practise and reinforce habits. Some of the focuses include greeting, movement, self-management, time management, behavourial standards etc. Curriculum time is factored into the timetable of our Primary 1 to 3 students to teach these focuses explicitly and students get to reflect on their own progress through a semestral self-assessment.
-
-**<font size="5">Enriching the learning experiences</font>**
-
-**1) Overseas Learning Experiences (OLE)**
-
-Overseas Learning Journeys are organised to broaden our students’ global vision and develop their understanding and appreciation of what they have in Singapore. Going overseas without their parents will promote team bonding among the participants and enable them to develop independence, resilience and adaptability.
-<img src="/images/Curriculum/CCE/CCE%2012.jpeg" style="width:60%">
-
-<img src="/images/Curriculum/CCE/CCE%2013.jpeg" style="width:60%">
-
-<img src="/images/Curriculum/CCE/CCE%2014.jpeg" style="width:60%">
-
-<img src="/images/Curriculum/CCE/CCE%2015.jpeg" style="width:60%">
-
-
-**2) International Collaborative Classrooms Project (ICCP)**
-
-Globalisation and technological advancements are some of the key driving forces of the future. Qihua Primary School is committed to help its students develop the necessary competencies to thrive in a fast-changing world. Hence, our collaboration with Higashidai Elementary School provides our students with opportunities to communicate effectively and forge global friendships with peers though technology.
-
-<img src="/images/Curriculum/CCE/CCE%2016.jpeg" style="width:60%">
-
-
-**3) Distribution Events**
-
-As part of our outreach efforts to our community, we collaborate with the Woodlands Community Centre on two distribution events – Mandarin Orange and National Day Distributions. Through these events, our students learn to demonstrate the importance of caring, sharing and giving. Students are also given the opportunities to understand the community better and build relationships with people around them.
-
-<img src="/images/Curriculum/CCE/CCE%2017.jpeg" style="width:50%">
-
-<img src="/images/Curriculum/CCE/CCE%2018.jpeg" style="width:50%">
+<h3><strong>Vision</strong></h3>
+<p>Every Qihuaian — grounded in values, ready to serve.</p>
+<h3><strong>Mission</strong></h3>
+<p>To provide quality learning experiences that empower students with the
+competencies to thrive in the 21st century.</p>
+<h3><strong>Key Programmes</strong></h3>
+<h4><strong>Engaging the mass</strong></h4>
+<p><strong>1) Character Education Through Behaviour Standards</strong>
+</p>
+<p>At Qihua Primary School, we adopt <em>Behaviour Standards</em> — derived
+from a well-regarded secular Chinese classic — to guide our students in
+character development and the cultivation of positive behaviour. These
+standards focus on the fundamental principles of being a good individual
+and provide practical guidance for living harmoniously with others.</p>
+<p>The values embedded within the Behaviour Standards are closely aligned
+with MOE’s R3ICH values: Respect, Responsibility, Resilience, Integrity,
+Care, and Harmony.</p>
+<p>To strengthen the partnership between school and home, we also invite
+parents to join us in a series of Parenting Sharing Sessions, where we
+exchange ideas and strategies for nurturing values at home.</p>
+<p></p>
+<p><strong>2) Start It Right&nbsp;</strong>
+</p>
+<p><em>Start It Right</em> is Qihua Primary School’s school-based Character
+and Citizenship Education (CCE) programme. Designed in-house, the programme
+includes engaging lessons and activities that help students understand
+the significance of the National Anthem and Pledge, the school’s Mission,
+Vision, and Values, as well as class and school rules.</p>
+<p>The activities also address important areas such as transitioning from
+holidays to school, positive affirmations, student leadership development,
+and the gathering of student well-being information. Through interactive
+activities, teachers are also given opportunities to bond meaningfully
+with their students.</p>
+<p>The first day of each school term is specially set aside for teachers
+to set a positive tone for the term—one that promotes joyful learning and
+nurtures a caring and safe environment for all. This dedicated time allows
+for quality teacher-student interaction, where teachers can observe students’
+behaviour, assess their needs, and make use of teachable moments to reinforce
+core values and Social-Emotional Learning (SEL) skills such as:</p>
+<ul>
+<li>
+<p>Self-awareness</p>
+</li>
+<li>
+<p>Self-management</p>
+</li>
+<li>
+<p>Social awareness</p>
+</li>
+<li>
+<p>Relationship management</p>
+</li>
+<li>
+<p>Responsible decision-making
+<br>
+</p>
+</li>
+</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/SIR2__2025_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/SIR_3__2025_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/SIR_4__2025_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/SIR_1__2025_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3) End It Well&nbsp;</strong>
+</p>
+<p><em>End It Well</em> is a year-end celebration that marks the culmination
+of a shared journey among a community of learners. As students and teachers
+reflect on their time together, each class—having grown into a cohesive
+and unique team—comes together to celebrate their achievements and relationships.</p>
+<p>The celebration typically includes food, laughter, and meaningful moments
+of sharing. Students and teachers relive their favourite memories, express
+their feelings, and enjoy a joyful closure to the school year. It is a
+fun and heartfelt way to honour the growth, friendships, and classroom
+spirit that have developed throughout the year.</p>
+<p></p>
+<h4><strong>Enabling Budding Learners</strong></h4>
+<p><strong>1) Care For Buddy&nbsp;</strong>
+</p>
+<p>To support our Primary 1 students in adjusting to primary school life,
+each of them is paired with a Primary 4 buddy. Through the Care for Buddy
+programme, Primary 4 students are given the opportunity to care for their
+juniors while developing leadership, empathy, and interpersonal skills.
+The experience also promotes social awareness as they learn to build and
+sustain positive relationships.</p>
+<p>This buddy system extends across the levels as follows:</p>
+<ul>
+<li>
+<p>Primary 2 students are paired with Primary 5 buddies</p>
+</li>
+<li>
+<p>Primary 3 students are paired with Primary 6 buddies</p>
+</li>
+</ul>
+<p>This structured, school-wide approach nurtures a caring school culture,
+strengthens peer support across levels, and helps all students grow into
+confident and compassionate individuals.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/Care_for_Buddy__2025_.jpg">
+</div>
+<p></p>
+<p><strong>2) HatBITS&nbsp;</strong>
+</p>
+<p>At Qihua, we believe that establishing clear rules and routines lays the
+foundation for positive behaviour. These expectations are consistently
+reinforced through role-modelling and guidance by all adults in the school
+community.</p>
+<p>A structured approach is in place to intentionally teach, practise, and
+reinforce positive habits. Key areas of focus include:</p>
+<ul>
+<li>
+<p>Greeting etiquette</p>
+</li>
+<li>
+<p>Movement around the school</p>
+</li>
+<li>
+<p>Self-management</p>
+</li>
+<li>
+<p>Time management</p>
+</li>
+<li>
+<p>Behavioural standards
+<br>
+</p>
+</li>
+</ul>
+<p>To support this, dedicated curriculum time is allocated for Primary 1
+to 3 students to learn these routines explicitly. Students are also encouraged
+to take ownership of their growth by engaging in semestral self-assessments,
+where they reflect on their progress in developing these essential habits.</p>
+<p></p>
+<h4><strong>Enriching the Learning Experiences</strong></h4>
+<p></p>
+<p><strong>1) Overseas Learning Experiences (OLE)&nbsp;</strong>
+</p>
+<p>Overseas Learning Journeys are organised to broaden our students’ global
+perspectives and deepen their appreciation for what they have in Singapore.
+These experiences expose students to different cultures, customs, and ways
+of life, helping them grow into more informed and empathetic global citizens.</p>
+<p>Travelling without their parents also encourages team bonding among peers
+and provides valuable opportunities for students to develop independence,
+resilience, and adaptability—essential traits for thriving in a rapidly
+changing world.</p>
+<p></p>
+<p></p>
+<p><strong>2) International Collaborative Classrooms Project (ICCP)&nbsp;</strong>
+</p>
+<p>Globalisation and rapid technological advancements are shaping the future
+in powerful ways. At Qihua Primary School, we are committed to equipping
+our students with the competencies they need to thrive in an ever-evolving
+world.</p>
+<p>As part of this effort, our collaboration with Higashidai Elementary School
+offers students meaningful opportunities to communicate effectively and
+forge global friendships with their peers—using technology as a bridge
+across cultures. Through these exchanges, students develop confidence,
+cross-cultural understanding, and a broader worldview.</p>
+<p><strong>3) Distribution Events</strong>&nbsp;</p>
+<p>As part of our outreach efforts to the community, Qihua Primary School
+collaborates with Woodlands Community Centre on a Mandarin Orange distribution
+event. This meaningful initiative provides students with the opportunity
+to experience the values of caring, sharing, and giving in action.</p>
+<p>Through their involvement, students gain a deeper understanding of the
+community around them and learn to build positive relationships with others.
+It is a valuable experience that nurtures empathy, social awareness, and
+a strong sense of belonging.</p>

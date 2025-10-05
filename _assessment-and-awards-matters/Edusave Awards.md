@@ -2,18 +2,191 @@
 title: Edusave Awards
 permalink: /edusave-awards/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-ASSESSMENT &amp; AWARDS MATTERS
-
-**<font size="6">Edusave Awards</font>**
-
-**Eligibility Criteria and Quantum**
-
-<table width="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="126" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Award</strong><sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">1</sup><strong style="box-sizing: inherit; font-weight: bold;"><span>&nbsp;</span>/ Level</strong></span></td><td width="438" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Eligibility Criteria</strong></span></td><td width="156" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Award Quantum</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="126" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">Education Scholarship for Primary School [ESPS]</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">(P5 – P6)</span></p></td><td width="438" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 10% of each level</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall mark<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">2</sup><span>&nbsp;</span>≥ 50%</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</span></p></td><td width="156" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">Top 10% – $350</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="126" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">Edusave Merit Bursary [EMB]</span><br style="box-sizing: inherit;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">(P1 – P2)</span></td><td width="438" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who consistently demonstrated positive learning dispositions in the course of the year</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross monthly household income<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">3</sup><span>&nbsp;</span>below $6,900, or per capita income of less than $1,725</span></p></td><td width="156" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">P1 to P3 – $200</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="126" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">Edusave Merit Bursary [EMB]</span><br style="box-sizing: inherit;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">(P3 – P6)</span></td><td width="438" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 25% of each level excluding ESPS awardees</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall mark<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">2</sup><span>&nbsp;</span>≥ 50%</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross monthly household income below $6,900, or per capita income of less than $1,725</span></p></td><td width="156" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">P3 to P6 – $250</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="126" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">Good Progress Award [GPA]</span><br style="box-sizing: inherit;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">(P2 – P3)</span></td><td width="438" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who do not qualify for EMB, and showed the greatest improvement in learning disposition in the course of the year</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</span></p></td><td width="156" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">P2 to P3 – $100</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="126" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">Good Progress Award [GPA]</span><br style="box-sizing: inherit;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">(P4 – P6)</span></td><td width="438" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 10% of each level in terms of improvement in academic performance</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall mark<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">2</sup><span>&nbsp;</span>≥ 50%</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</span></p></td><td width="156" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">P3 – $100</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">P4 to P6 – $150</span></p></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="126" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">Edusave Character Award</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">[ECHA]</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">(P1 – P6)</span></p></td><td width="438" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates exemplary character traits</span></p></td><td width="156" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">P1 to P3 – $200</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">P4 to P6 – $350</span></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="126" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">Edusave Awards for Achievement, Good Leadership and Services</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">[EAGLES]</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">(P4 – P6)</span></p></td><td width="438" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall mark ≥ 50%</span><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates exemplary qualities in</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Achievements</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership</span></p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Service to school/community</span></p></td><td width="156" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-family: tahoma, arial, helvetica, sans-serif;">P4 to P6 – $250</span></td></tr></tbody></table>
-
-<sup>1</sup>&nbsp;Each student is eligible for either ESPS, EMB or GPA, and/or ECHA award and/or EAGLES award, up to a maximum of 3 awards.
-
-<sup>2</sup>&nbsp;Student who misses any school examination with a weighting above 40% will not be eligible.
-
-<sup>3</sup>&nbsp;Gross household income is based on the total gross monthly income of students’ parents, unmarried siblings and grandparents living with him/her.
+<p>ASSESSMENT &amp; AWARDS MATTERS</p>
+<p><strong>Edusave Awards</strong>
+</p>
+<p><strong>Eligibility Criteria and Quantum</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong><sup>1</sup><strong>&nbsp;/ Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Eligibility Criteria</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Quantum</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education Scholarship for Primary School [ESPS]</p>
+<p></p>
+<p>(P5 – P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 10% of each level</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall mark<sup>2</sup>&nbsp;≥
+50%</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 10% – $350</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edusave Merit Bursary [EMB]
+<br>(P1 – P2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who consistently demonstrated
+positive learning dispositions in the course of the year</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross monthly household income<sup>3</sup>&nbsp;below
+$6,900, or per capita income of less than $1,725</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 to P3 – $200</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edusave Merit Bursary [EMB]
+<br>(P3 – P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 25% of each level excluding
+ESPS awardees</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall mark<sup>2</sup>&nbsp;≥
+50%</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross monthly household income below
+$6,900, or per capita income of less than $1,725</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 to P6 – $250</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Good Progress Award [GPA]
+<br>(P2 – P3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who do not qualify for
+EMB, and showed the greatest improvement in learning dispositions in the
+course of the year</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2 to P3 – $100</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Good Progress Award [GPA]
+<br>(P4 – P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 10% of each level in terms of
+improvement in academic performance</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall mark<sup>2</sup>&nbsp;≥
+50%</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 – $100</p>
+<p></p>
+<p>P4 to P6 – $150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edusave Character Award</p>
+<p></p>
+<p>[ECHA]</p>
+<p>(P1 – P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates exemplary character traits</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 to P3 – $200</p>
+<p></p>
+<p>P4 to P6 – $350</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edusave Awards for Achievement, Good Leadership and Services</p>
+<p></p>
+<p>[EAGLES]</p>
+<p>(P4 – P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall mark ≥ 50%</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates exemplary qualities
+in</p>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Achievements</p>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership</p>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Service to school/community</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 to P6 – $250</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EAGLES Award (E21CC)</p>
+<p>[P1 to P3]</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>● &nbsp; Good conduct</p>
+<p>● &nbsp; Singapore Citizen</p>
+<p>● &nbsp; Consistent and exemplary demonstration of Emerging 21st Century
+Competencies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 to P3 – $200</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><sup>1</sup>&nbsp;Each student is eligible for either ESPS, EMB or GPA,
+and/or ECHA award and/or EAGLES award, up to a maximum of 3 awards.</p>
+<p><sup>2</sup>&nbsp;Student who misses any school examination with a weighting
+above 40% will not be eligible.</p>
+<p><sup>3</sup>&nbsp;Gross household income is based on the total gross monthly
+income of students’ parents, unmarried siblings and grandparents living
+with him/her.</p>
