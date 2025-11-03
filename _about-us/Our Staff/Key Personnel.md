@@ -175,21 +175,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD (Student Development)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rajasveri Renganathan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm See Yuen Ni
 <br><a href="mailto:see_yuen_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yuen_ni@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH (Discipline/Student Leadership)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Shi Kai Thomas
-<br><a href="mailto:ng_shi_kai_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shi_kai_thomas@moe.edu.sg</a>
 </p>
 </td>
 </tr>
