@@ -27,13 +27,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>Fusion Halal Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>28 Nov 2025</p>
 </td>
 </tr>
 </tbody>
@@ -74,7 +74,7 @@ etc.</p>
 <p>Email: qihua_ps@moe.edu.sg</p>
 </li>
 <li>
-<p>Contact Person: Mdm Ang York Hui</p>
+<p>Contact Person: Ms Elizabeth Seah</p>
 </li>
 </ul>
 <p>&nbsp;</p>
