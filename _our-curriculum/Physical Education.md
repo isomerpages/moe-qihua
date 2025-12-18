@@ -25,6 +25,26 @@ fun.</p>
 their own games and equipment. This fosters important values of care, responsibility,
 and teamwork, as students learn to set up and keep equipment properly,
 ensuring a safe and enjoyable environment for all.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/1__Play_at_QH_pic_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/2__Plat_at_QH_pic_2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>2) Sports Carnival</strong>
 </p>
@@ -36,6 +56,51 @@ and strengthen positive relationships between students and teachers.</p>
 including Interhouse Games, inflatables, VR games and mini trampoline .
 Throughout the event, students are reminded to uphold the school values,
 ensuring a spirit of respect, integrity and teamwork in the activities.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/3__Sports_Carnival_Pic_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Curriculum/PE/4__Sports_Carnival_Pic_2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Curriculum/PE/5__Sports_Carnival_Pic_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/6__Sports_Carnival_Pic_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Curriculum/PE/7__Sports_Carnival_Pic_5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/8__Sports_Carnival_Pic_6.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>3) Health Fortnight</strong>
 </p>
 <p>The annual Health Fortnight features activities such as Milovan, health
@@ -43,6 +108,45 @@ quiz, Fruittie-Veggie Bite programme, health tips, assembly talks and Anti-drug
 Ambassador activities. The objectives of Health Fortnight are to educate
 students about pertinent health topics in a holistic manner and to reinforce
 positive health behaviour.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/9__Health_fortnight_pic_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/10__Health_fortnight_Pic_2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/11__Health_fortnoght_pic_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Enrich</strong></h4>
 <p><strong>1)&nbsp; P1 and P2 Structured Play (EAGLETS day)</strong>
 </p>
