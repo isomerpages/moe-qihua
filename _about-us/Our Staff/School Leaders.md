@@ -51,10 +51,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vice-principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Anushia-Devi
+<br><a href="mailto:qihua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qihua_ps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
