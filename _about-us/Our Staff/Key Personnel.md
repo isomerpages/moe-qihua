@@ -31,31 +31,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (UP)</p>
+<p>Year Head (LP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karthi
-<br><a href="mailto:shylaja_gopalan_nair@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shylaja_gopalan_nair@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (UP)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Peter Goh
-<br><a href="mailto:goh_teck_heong_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_teck_heong_peter@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst Year Head (UP)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sofiyanny
-<br><a href="mailto:sofiyanny_mansol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sofiyanny_mansol@moe.edu.sg</a>
+<p>Ms Tan Poh Suan
+<br><a href="mailto:tan_poh_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_suan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -71,29 +51,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head (UP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Peter Goh
+<br><a href="mailto:goh_teck_heong_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_teck_heong_peter@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (LP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sofiyanny
+<br><a href="mailto:sofiyanny_mansol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sofiyanny_mansol@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Asst Year Head (MP)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kiat Ying Xin
-<br><a href="mailto:kiat_ying_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kiat_ying_xin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (LP)
-<br>(Covering Duty)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Poh Suan
-<br><a href="mailto:tan_poh_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_suan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst Year Head (LP)
-<br>(Covering Duty)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Zi Hui
@@ -103,8 +81,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (English)
-<br>(Covering Duty)</p>
+<p>Asst Year Head (UP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kiat Ying Xin
+<br><a href="mailto:kiat_ying_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kiat_ying_xin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Yen Ling
@@ -124,18 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (MTL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Woo Wei Ling
-<br><a href="mailto:woo_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_wei_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD (Science)
-<br>(Covering Duty)</p>
+<p>HOD (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Zhi Hao
@@ -145,7 +121,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (ICT &amp; School Library)</p>
+<p>HOD (Mother Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Woo Wei Ling
+<br><a href="mailto:woo_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_wei_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD (ICT &amp; MRL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Heng Chong Yong
@@ -155,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (CCE-VIA)</p>
+<p>HOD (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Seok Har
@@ -165,25 +151,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (PE/CCA/AES)</p>
+<p>HOD (Student Development)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yee Lay
-<br><a href="mailto:tan_yee_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_lay@moe.edu.sg</a>
+<p>Ms Rajasveri Renganathan
+<br><a href="mailto:Rajasveri_Renganathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajasveri_renganathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Student Development)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rajasveri Renganathan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH (Chinese)</p>
+<p>SH (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm See Yuen Ni
@@ -193,17 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (Student Well-Being)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Cham Bao Rong
-<br><a href="mailto:cham_bao_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cham_bao_rong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH (Music/Aesthetics)</p>
+<p>SH (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Ho Ting
@@ -218,6 +186,36 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lee Kheng Yuen
 <br><a href="mailto:lee_kheng_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kheng_yuen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH (NE/VIA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Yong Sheng Benjamin
+<br><a href="mailto:Chua_Yong_Sheng_Benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_yong_sheng_benjamin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Hafizah
+<br><a href="mailto:nur_hafizah_abd_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hafizah_abd_rahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cham Bao Rong
+<br><a href="mailto:cham_bao_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cham_bao_rong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
