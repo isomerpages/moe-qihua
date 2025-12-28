@@ -133,12 +133,16 @@ positive health behaviour.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/12__Health_fortnight_pic_4.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/13__Health_fortnight_pic_6.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -160,6 +164,26 @@ important school values and positive learning dispositions. Through both
 individual and group activities, students learn to be patient and resilient
 in the face of challenges, demonstrate team spirit and develop core values
 such as respect and self-discipline.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/14__P1_P2_EAGLETS_pic_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/15__P1_P2_EAGLETS_pic_2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>2) P3 Swimsafer Programme</strong>
 </p>
@@ -172,6 +196,27 @@ earn a Swimsafer certificate if they pass both the practical and theory
 components successfully. This opportunity allows them to develop resilience
 and confidence while building strong bonds of mutual support and friendship
 with their peers and teachers.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/PE 14.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/PE 15.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>3) P5 Camp</strong>
 </p>
 <p>During the Primary 5 Annual Camp, students participate in an array of
@@ -186,6 +231,49 @@ of looking out for one another, respecting different perspectives, persevering
 through challenges, and taking responsibility for their actions — all essential
 qualities that contribute to their holistic growth as individuals and members
 of the school community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/18__P5_camp_pic_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/Curriculum/PE/19__P5_camp_pic_2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 63%;" height="auto" width="100%" alt="" src="/images/Curriculum/PE/20__P5_camp_pic_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/21__P5_camp_pic_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/22__P5_camp_pic_5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Excel</strong></h4>
 <p><strong>1) National Physical Fitness Award (P4 and P6)</strong>
 </p>
