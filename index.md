@@ -20,15 +20,16 @@ sections:
           description: Click to find out more
           url: /programmes/llp/
   - infobar:
+      subtitle: Follow us on our social media
+      id: infobar
+      button: Facebook
+      url: https://www.facebook.com/qihuaprimaryschool
+  - infobar:
+      id: infobar
+      button: Instagram
+      url: https://www.instagram.com/qihuaprimaryschool.official
+  - infobar:
       title: Contact Us
       button: Click here
       url: /contact-us
-  - infopic:
-      title: Visit Our Social Media Platforms
-      id: infopic
-      description: View our school events and programmes
-      button: Scan the QR code
-      url: https://www.qihuapri.moe.edu.sg/
-      image: /images/fb_ig2.png
-      alt: Image alt text
 ---
