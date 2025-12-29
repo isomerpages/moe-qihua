@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p><strong>Year Head: Ms Tan Poh Suan</strong> 
-<br><a href="mailto:tan_poh_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_suan@moe.edu.sg</a>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
