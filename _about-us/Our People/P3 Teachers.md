@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p>Year Head: Mdm Justina Tok
-<br><a href="mailto:justina_tok_wei_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">justina_tok_wei_lin@moe.edu.sg</a>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2025 P3 Form Teachers</p>
+<p>2026 P3 Form Teachers</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -28,8 +24,8 @@ variant: tiptap
 <p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Bte Hassan
-<br><a href="mailto:norashikin_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_hassan@moe.edu.sg</a>
+<p>Mdm Lim Siew Hui
+<br><a href="mailto:lim_siew_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -38,8 +34,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sundram Anthony Gerard
-<br><a href="mailto:sundram_anthony_gerard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sundram_anthony_gerard@moe.edu.sg</a>
+<p>Ms Tay Seok Har
+<br><a href="mailto:tay_seok_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_seok_har@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,8 +44,8 @@ variant: tiptap
 <p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Woo Wei Ling
-<br><a href="mailto:woo_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_wei_ling@moe.edu.sg</a>
+<p>Mr Lua Choon Cheng
+<br><a href="mailto:Lua_Choon_Cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lua_choon_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -58,8 +54,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kheng Chew Casey
-<br><a href="mailto:lee_kheng_chew_casey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kheng_chew_casey@moe.edu.sg</a>
+<p>Mdm Tan Pao Yun Gillian
+<br><a href="mailto:tan_pao_yun_gillian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pao_yun_gillian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -68,64 +64,14 @@ variant: tiptap
 <p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Meera D/O Sathasivan
-<br><a href="mailto:meera_sathasivan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meera_sathasivan@moe.edu.sg</a>
+<p>Mdm Rashna Shantini
+<br><a href="mailto:rashna_shantini_yeamalley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashna_shantini_yeamalley@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cheng Li Yin
-<br><a href="mailto:cheng_li_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_li_yin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3-4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hilwa Mohamed
-<br><a href="mailto:hilwa_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hilwa_mohamed@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Athirah Nasuha M Zaki
-<br><a href="mailto:athirah_nasuha_muhamad_zaki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">athirah_nasuha_muhamad_zaki@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3-5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Shi Kai Thomas
-<br><a href="mailto:ng_shi_kai_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shi_kai_thomas@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Amutha D/O Silvam
-<br><a href="mailto:amutha_silvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amutha_silvam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gao Wen
@@ -135,11 +81,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Catherine Vijaya S W Rajendram
+<br><a href="mailto:catherine_vijaya_s_w_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">catherine_vijaya_s_w_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cham Bao Rong
-<br><a href="mailto:cham_bao_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cham_bao_rong@moe.edu.sg</a>
+<p>Mrs Ang Lin
+<br><a href="mailto:ang_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Sook Ling
+<br><a href="mailto:lee_sook_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sook_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Hafizah A Rahim
+<br><a href="mailto:nur_hafizah_abd_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hafizah_abd_rahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
