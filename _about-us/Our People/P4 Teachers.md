@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p>Assistant Year Head : Mr Kiat Ying Xin
-<br><a href="mailto:kiat_ying_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kiat_ying_xin@moe.edu.sg</a>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
