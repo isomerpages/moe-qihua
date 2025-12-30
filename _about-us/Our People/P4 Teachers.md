@@ -28,8 +28,8 @@ variant: tiptap
 <p>4-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rashna Shantini D/O Yeamalley
-<br><a href="mailto:rashna_shantini_yeamalley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashna_shantini_yeamalley@moe.edu.sg</a>
+<p>Mdm Norashikin Hassan
+<br><a href="mailto:norashikin_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_hassan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -38,8 +38,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Heng Chong Yong
-<br><a href="mailto:heng_chong_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_chong_yong@moe.edu.sg</a>
+<p>Mdm Zhao Ying
+<br><a href="mailto:zhao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,8 +48,8 @@ variant: tiptap
 <p>4-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elizabeth Emma Elanggoan
-<br><a href="mailto:elizabeth_emma_elanggoan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_emma_elanggoan@moe.edu.sg</a>
+<p>Mdm Woo Wei Ling
+<br><a href="mailto:woo_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_wei_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -58,8 +58,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kunalan Senthamarai
-<br><a href="mailto:kunalan_senthamarai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kunalan_senthamarai@moe.edu.sg</a>
+<p>Mr Lee Kheng Chew Casey
+<br><a href="mailto:lee_kheng_chew_casey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kheng_chew_casey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -68,8 +68,8 @@ variant: tiptap
 <p>4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kohilavani D/O V S Ramalingam
-<br><a href="mailto:kohilavani_v_s_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kohilavani_v_s_ramalingam@moe.edu.sg</a>
+<p>Mdm Meera D/O Sathasivan
+<br><a href="mailto:meera_sathasivan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meera_sathasivan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -78,8 +78,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Viknesh S/O Tamil Mani
-<br><a href="mailto:viknesh_tamil_mani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">viknesh_tamil_mani@moe.edu.sg</a>
+<p>Ms Cheng Liyin
+<br><a href="mailto:cheng_li_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_li_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
