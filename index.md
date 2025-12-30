@@ -19,26 +19,17 @@ sections:
         - title: Learning for Life Programme
           description: Click to find out more
           url: /programmes/llp/
-  - infopic:
-      title: QihuaConnect
-      subtitle: Issue 2 (2024)
-      id: infopic
-      description: In the latest issue of QihuaConnect, dive into the inspiring
-        learning experiences happening right here at Qihua!
-      button: Click here to view
-      url: https://online.flipbuilder.com/zlpi/stgi/
-      image: /images/QihuaConnect_2_2024.png
-      alt: Image alt text
+  - infobar:
+      subtitle: Follow us on our social media
+      id: infobar
+      button: Facebook
+      url: https://www.facebook.com/qihuaprimaryschool
+  - infobar:
+      id: infobar
+      button: Instagram
+      url: https://www.instagram.com/qihuaprimaryschool.official
   - infobar:
       title: Contact Us
       button: Click here
       url: /contact-us
-  - infopic:
-      title: Visit Our Social Media Platforms
-      id: infopic
-      description: View our school events and programmes
-      button: Scan the QR code
-      url: https://www.qihuapri.moe.edu.sg/
-      image: /images/fb_ig2.png
-      alt: Image alt text
 ---

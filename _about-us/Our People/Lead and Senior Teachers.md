@@ -2,7 +2,7 @@
 title: Lead and Senior Teachers
 permalink: /about-us/our-staff/senior-teachers/
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 variant: tiptap
 ---
 <table style="minWidth: 50px">

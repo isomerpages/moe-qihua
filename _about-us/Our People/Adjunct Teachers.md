@@ -3,7 +3,7 @@ title: Adjunct Teachers
 permalink: /adjunct-teachers/
 variant: tiptap
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 ---
 <p></p>
 <table style="minWidth: 50px">

@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Vision</strong></h3>
-<p>Every Qihuaian an effective communicator with a passion for the English
-Language</p>
+<p>Every Qihuaian a confident and competent communicator with a passion for
+the English Language.</p>
 <h3><strong>Mission</strong></h3>
-<p>To enhance pupils’ mastery of the English Language through quality teaching
-and learning</p>
+<p>To foster a joyful community of learners and confident communicators who
+own their growth through the authentic use of language and reflective assessment.</p>
 <p></p>
 <h3><strong>Overview</strong></h3>
 <p>At Qihua, we implement the National Curriculum, STELLAR 2.0, which seeks

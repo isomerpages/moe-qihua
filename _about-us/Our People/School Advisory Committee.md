@@ -1,10 +1,11 @@
 ---
-title: Executive & Administrative Staff
-permalink: /about-us/our-staff/admin-staff/
-description: ""
-third_nav_title: Our Staff
+title: School Advisory Committee
+permalink: /school-advisory-committee/
 variant: tiptap
+description: ""
+third_nav_title: Our People
 ---
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,35 +13,30 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Executive &amp; Administrative Staff</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p><strong>Chairman</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elizabeth Seah</p>
+<p>Mr Lim Hock Chee, BBM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p><strong>Vice-Chairman</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Faisal Meskam</p>
+<p>Mr Teh Eng Lai, Kevin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p><strong>Committee Member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Jaafar</p>
+<p>Mr Lim Kui Teng</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +44,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang York Hui</p>
+<p>Mr Yang Tse Pin</p>
 </td>
 </tr>
 <tr>
@@ -56,15 +52,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Nasyitah Amirah Haris</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norsiah Samsoo</p>
+<p>Mdm Lee Bee Lian</p>
 </td>
 </tr>
 <tr>
@@ -72,15 +60,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chionh Wen Ru Darryl</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Saadiah Mohd Napiah</p>
+<p>Mr Albert Yap @ Ng Chin Choon</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +68,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mariam Bee Jamal</p>
+<p>Mr Tan Tian Chun</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +76,16 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Lim Thay</p>
+<p>Mr Koh Kah Yoong Milton</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advisor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Poi Hwa</p>
 </td>
 </tr>
 <tr>
@@ -104,25 +93,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phua Ching Tin</p>
+<p>Mdm Winnie Toh Sock Luan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Faryanty Jaffar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Teck Hua</p>
+<p>Mr Ong Bee Chip</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>

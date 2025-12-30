@@ -2,7 +2,7 @@
 title: School Counsellors, SENO & SWO
 permalink: /about-us/our-staff/allied-educators/
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 variant: tiptap
 ---
 <table style="minWidth: 50px">
