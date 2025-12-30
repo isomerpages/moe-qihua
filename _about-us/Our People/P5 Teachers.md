@@ -95,8 +95,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ee Jia Ying
-<br><a href="mailto:ee_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_jia_ying@moe.edu.sg</a>
+<p>Mr Mohamed Ali B Abdul Rahman
+<br><a href="mailto:Mohamed_Ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohamed_Ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -105,8 +105,8 @@ variant: tiptap
 <p>5-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosinah Bte Mohamed Yusof
-<br><a href="mailto:rosinah_mohamed_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosinah_mohamed_yusof@moe.edu.sg</a>
+<p>Mr Mohammad Isham Ibrahim
+<br><a href="mailto:mohammad_isham_b_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_isham_b_ibrahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -115,8 +115,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Ho Ting
-<br><a href="mailto:chan_ho_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ho_ting@moe.edu.sg</a>
+<p>Mdm Marwiyah Mohamed Rawi
+<br><a href="mailto:marwiyah_mohamed_rawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marwiyah_mohamed_rawi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Heng Chong Yong
+<br><a href="mailto:heng_chong_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_chong_yong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -125,8 +135,8 @@ variant: tiptap
 <p>5-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm See Yuen Ni
-<br><a href="mailto:see_yuen_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yuen_ni@moe.edu.sg</a>
+<p>Mdm Laseina Ann
+<br><a href="mailto:laseina_ann_poospanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laseina_ann_poospanathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -135,18 +145,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juliana Johari
-<br><a href="mailto:juliana_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_johari@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Shaliza M Kheir
-<br><a href="mailto:nur_shaliza_mohamed_kheir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shaliza_mohamed_kheir@moe.edu.sg</a>
+<p>Mr Xu Yahua
+<br><a href="mailto:xu_yahua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yahua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
