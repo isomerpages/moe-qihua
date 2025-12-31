@@ -1,19 +1,19 @@
 ---
-title: Infocomm Technology (ICT)
+title: Educational Technology (EdTech)
 permalink: /curriculum/ict/
 description: ""
 variant: tiptap
-third_nav_title: ICT & School Library
+third_nav_title: EdTech & MRL
 ---
 <h3><strong>Vision</strong></h3>
-<p>Harnessing ICT to transform teaching and learning to thrive in the 21st
-century.</p>
+<p>Harnessing EdTech to transform teaching and learning to thrive in the
+21st century.</p>
 <h3><strong>Mission</strong></h3>
-<p>Moulding an ICT empowered, Responsible and Active Community of Learners</p>
+<p>Moulding an EdTech empowered, Responsible and Active Community of Learners</p>
 <h3><strong>Key Programmes</strong></h3>
 <p>In Qihua Primary School, we believe in preparing our students to be technology-empowered
 learners, future-ready leaders and community champions in life. Therefore,
-the ICT department aims to create an ICT enriched environment, providing
+the EdTech department aims to create an EdTech enriched environment, providing
 opportunities for our students to be joyful and responsible digital learners
 through a range of quality learning experiences based on the 4Es (enable,
 engage, enrich, empower) with technology.</p>
@@ -21,12 +21,12 @@ engage, enrich, empower) with technology.</p>
 <p>1. Enable students to demonstrate 21st CC skills through self-directed
 and collaborative learning
 <br>2. Develop in the students critical and reflective thinking, computational
-thinking and ICT skills for the future workforce
+thinking and EdTech skills for the future workforce
 <br>3. Enable students to contribute to the community leveraging on technology</p>
 <h4><strong>Engaging the mass</strong></h4>
 <p><strong>Enhanced version of the Improving Computer Literacy among Pupils Programme (ICLAP+):</strong>
 </p>
-<p>The ICLAP+ focuses on teaching pupils the baseline ICT skills and good
+<p>The ICLAP+ focuses on teaching pupils the baseline EdTech skills and good
 Cyberwellness practices.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -169,7 +169,7 @@ use of technology for the good of the community.</p>
 </table>
 <h4><strong>Enriching the learning experiences</strong></h4>
 <p>At Qihua Primary School, we want to promote the students’ computational
-thinking, problem solving skills and ICT skills for the future workforce
+thinking, problem solving skills and EdTech skills for the future workforce
 by exposing students to Coding and Programming.</p>
 <table style="minWidth: 50px">
 <colgroup>

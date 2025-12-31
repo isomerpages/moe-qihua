@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (ICT &amp; MRL)</p>
+<p>HOD (EdTech &amp; MRL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Heng Chong Yong
