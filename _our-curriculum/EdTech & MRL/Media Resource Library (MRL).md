@@ -6,9 +6,10 @@ description: ""
 third_nav_title: EdTech & MRL
 ---
 <h3><strong>Library Activities &amp; Programmes</strong></h3>
-<p>Our school library is a vibrant hub of learning and discovery. We offer
-a variety of programmes designed to ignite a lifelong passion for reading
-and equip students with essential 21st-century literacy skills.</p>
+<p>Our <strong>Media Resource Library</strong> is a vibrant hub of learning
+and discovery. We offer a variety of programmes designed to ignite a lifelong
+passion for reading and equip students with essential 21st-century literacy
+skills.</p>
 <h4><strong>Engaging the Mass</strong></h4>
 <p><strong>Bringing Books to Our Students</strong>
 </p>
