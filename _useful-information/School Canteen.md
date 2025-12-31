@@ -27,13 +27,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Food Stall</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fusion Halal Food</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Nov 2025</p>
+<p>NA</p>
 </td>
 </tr>
 </tbody>
