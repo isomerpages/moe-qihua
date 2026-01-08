@@ -66,8 +66,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Muslimah Mohd Ishak
-<br><a href="mailto:Muslimah_Mohd_Isahak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muslimah_mohd_isahak</a>
-<a href="mailto:anushia_s_surandharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br><a href="mailto:Muslimah_Mohd_Isahak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muslimah_mohd_isahak@moe.edu.sg</a>
 </p>
 </td>
 </tr>
