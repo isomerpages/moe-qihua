@@ -33,7 +33,7 @@ Click&nbsp;[here](https://schoolibrary.moe.edu.sg/qihuapri/cgi-bin/spydus.exe/MS
 
 **Qihua Primary School Library Policy**
 <br>
-Click [here](/files/School%20Library%20Policy%20for%20student%20handbook%20updated%204%20Oct%202022.pdf)
+Click [here](/files/2026_School_Library_Policy.pdf)
 
 **PSLE 2021 New Scoring System and Secondary School Selection**
 <br>
