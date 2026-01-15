@@ -53,18 +53,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Librarian</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Iffah Liyana Jamaludin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Uplift Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Quinn Lim Ai Ju</p>
+<p>Mr Mohammed Zahid Mohamed Noor</p>
 </td>
 </tr>
 <tr>
