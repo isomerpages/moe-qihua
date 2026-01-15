@@ -75,14 +75,6 @@ variant: tiptap
 <p>Mr Ling Hua Hing Raymond</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gardener</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Aung Thu Ra</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
