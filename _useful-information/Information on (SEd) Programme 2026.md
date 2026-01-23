@@ -99,8 +99,8 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <u>here</u>. The completed opt-out
-form is to be submitted by 06/02/2026.</p>
+of the year and is also downloadable <a href="/files/2026_Info_on_SEd_for_schs_website__Qihua_Primary_Schools__Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 06/02/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6269 6250 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
