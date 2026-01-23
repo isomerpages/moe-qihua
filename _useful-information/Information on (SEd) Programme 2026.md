@@ -80,7 +80,12 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p>At Qihua Primary School, the following Sexuality Education lessons will
 be taught in 2026:</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/P5_SED.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/P5_SED_b.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
