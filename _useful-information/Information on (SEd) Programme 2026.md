@@ -81,12 +81,15 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 be taught in 2026:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/P5_SED.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/P5_SED_a.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/P5_SED_b.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/P6_SED_a.png">
+</div>
 <p></p>
 <p></p>
 <h2><strong>Information for Parents</strong></h2>
