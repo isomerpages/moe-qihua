@@ -4,11 +4,8 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p><strong>Principal's Message for 2026</strong>
-</p>
-<p>
-<br>
-</p>
+<h3><strong>Principal's Message for 2026</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:320px;" height="auto" width="100%" src="/images/About Us/Mrs-Lee-365x600.jpeg">
 </div>
