@@ -161,6 +161,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm See Yuen Ni
+<br><a href="mailto:see_yuen_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yuen_ni@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Hafizah
+<br><a href="mailto:nur_hafizah_abd_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hafizah_abd_rahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,31 +211,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Hafizah
-<br><a href="mailto:nur_hafizah_abd_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hafizah_abd_rahim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cham Bao Rong
 <br><a href="mailto:cham_bao_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cham_bao_rong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm See Yuen Ni
-<br><a href="mailto:see_yuen_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yuen_ni@moe.edu.sg</a>
 </p>
 </td>
 </tr>
