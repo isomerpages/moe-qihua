@@ -146,7 +146,13 @@ or illegal manner.</p>
 </ul>
 <p></p>
 <h4>Responsible AI Use</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/Responsible_AI_Use_Pic.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/Assessment_pic.png">
+</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
