@@ -236,8 +236,8 @@ play, and face-to-face social interactions</p>
 </li>
 <li>
 <p>You should avoid excessive use of your devices outside of designated learning
-hours. For guidance, please refer to Parent Hub: Grow Well SG - Nurturing
-Healthy Behaviours</p>
+hours. For guidance, please refer to <a href="https://www.healthhub.sg/programmes/parent-hub/grow-well-sg/nurture-healthy-behaviours#learn-well" rel="noopener nofollow" target="_blank">Parent Hub: Grow Well SG - Nurturing Healthy Behaviours</a>
+</p>
 </li>
 </ul>
 </li>
