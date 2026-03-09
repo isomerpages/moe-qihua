@@ -51,8 +51,8 @@ resources is <strong>solely be for the purpose of learning</strong>
 <h4>Being a Responsible Digital Citizen Respectful Interaction &amp; Prohibited Acts</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Respect: You must interact with others in a respectful and responsible
-way. You must not post online remarks that are</p>
+<p><strong>Respect</strong>: You must interact with others in a respectful
+and responsible way. You must not post online remarks that are</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>racially and/or religiously insensitive,</p>
