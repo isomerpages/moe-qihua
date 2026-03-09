@@ -227,7 +227,8 @@ unknown files</p>
 <h4>Digital Wellbeing and Balance</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Balance</p>
+<p><strong>Balance</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Technology is a tool, not the whole experience. You are reminded to balance
