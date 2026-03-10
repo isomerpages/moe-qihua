@@ -51,8 +51,8 @@ resources is <strong>solely be for the purpose of learning</strong>
 <h4>Being a Responsible Digital Citizen Respectful Interaction &amp; Prohibited Acts</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Respect: You must interact with others in a respectful and responsible
-way. You must not post online remarks that are</p>
+<p><strong>Respect</strong>: You must interact with others in a respectful
+and responsible way. You must not post online remarks that are</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>racially and/or religiously insensitive,</p>
@@ -227,7 +227,8 @@ unknown files</p>
 <h4>Digital Wellbeing and Balance</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Balance</p>
+<p><strong>Balance</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Technology is a tool, not the whole experience. You are reminded to balance
@@ -236,8 +237,8 @@ play, and face-to-face social interactions</p>
 </li>
 <li>
 <p>You should avoid excessive use of your devices outside of designated learning
-hours. For guidance, please refer to Parent Hub: Grow Well SG - Nurturing
-Healthy Behaviours</p>
+hours. For guidance, please refer to <a href="https://www.healthhub.sg/programmes/parent-hub/grow-well-sg/nurture-healthy-behaviours#learn-well" rel="noopener nofollow" target="_blank">Parent Hub: Grow Well SG - Nurturing Healthy Behaviours</a>
+</p>
 </li>
 </ul>
 </li>
