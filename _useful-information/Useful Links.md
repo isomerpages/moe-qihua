@@ -16,7 +16,7 @@ to support their children’s learning at home.
 <br>
 [School bag](https://www.schoolbag.edu.sg/)
 
-**MOE Financial Assistance Scheme (MOE FAS)**
+**MOE Financial Assistance Scheme (MOE FAS) Application**
 Click [here](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 **NLB website**
