@@ -16,10 +16,13 @@ to support their children’s learning at home.
 <br>
 [School bag](https://www.schoolbag.edu.sg/)
 
+**MOE Financial Assistance Scheme (MOE FAS) Application**
+<br>
+Click [here](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 **NLB website**
 <br>
-Click&nbsp;[here](https://childrenandteens.nlb.gov.sg/).
+Click&nbsp;[here](https://childrenandteens.nlb.gov.sg/)
 
 
 **Admission to QHPS**
@@ -37,7 +40,7 @@ Click [here](/files/2026_School_Library_Policy.pdf)
 
 **PSLE 2021 New Scoring System and Secondary School Selection**
 <br>
-Click&nbsp;[here](https://www.moe.gov.sg/microsites/psle-fsbb/index.html).
+Click&nbsp;[here](https://www.moe.gov.sg/microsites/psle-fsbb/index.html)
 <br>
 
 
