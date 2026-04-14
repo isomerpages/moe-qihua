@@ -92,16 +92,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Hemarooben
-<br><a href="mailto:Hemarooben@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hemarooben@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4-5</p>
 </td>
 <td rowspan="1" colspan="1">
