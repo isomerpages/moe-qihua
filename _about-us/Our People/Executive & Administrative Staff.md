@@ -40,14 +40,6 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Jaafar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ang York Hui</p>
 </td>
 </tr>
@@ -56,7 +48,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Nasyitah Amirah Haris</p>
+<p>Mdm Chiew Kim Fah Christine</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +96,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phua Ching Tin</p>
+<p>Mr Mazli Amri</p>
 </td>
 </tr>
 <tr>
