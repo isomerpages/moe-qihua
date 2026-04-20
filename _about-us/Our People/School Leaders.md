@@ -44,16 +44,6 @@ variant: tiptap
 <p>Vice-principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Suhana Sulaiman
-<br><a href="mailto:qihua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qihua_ps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-principal (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Anushia-Devi
 <br><a href="mailto:qihua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qihua_ps@moe.edu.sg</a>
 </p>
