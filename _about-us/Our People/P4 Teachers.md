@@ -92,6 +92,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Mani - Catherine Vijaya
+<br><a href="mailto:catherine_vijaya_s_w_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">catherine_vijaya_s_w_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4-5</p>
 </td>
 <td rowspan="1" colspan="1">
