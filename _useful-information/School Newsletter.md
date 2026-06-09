@@ -9,7 +9,7 @@ variant: markdown
 [Qihua Connect 2026/1]((https://online.flipbuilder.com/zlpi/zvdt/))
 <br>
 <br>
-<img src="/images/QihuaConnect_2_2024.png" style="width:250px;height:400px;">
+<img src="/images/Useful%20Links/Newsletter_2026.png" style="width:250px;height:400px;">
 <br>
 
 **2024/2**
