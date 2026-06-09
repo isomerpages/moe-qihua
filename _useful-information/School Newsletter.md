@@ -6,7 +6,7 @@ variant: markdown
 ---
 **2026/1**
 <br>
-[Qihua Connect 2026/1]((https://online.flipbuilder.com/zlpi/zvdt/))
+[Qihua Connect 2026/1](https://online.flipbuilder.com/zlpi/zvdt/)
 <br>
 <br>
 <img src="/images/Useful%20Links/Newsletter_2026.png" style="width:250px;height:400px;">
