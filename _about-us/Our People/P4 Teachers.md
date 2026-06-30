@@ -115,18 +115,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rajasveri Renganathan
-<br><a href="mailto:Rajasveri_Renganathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajasveri_renganathan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Zhi Hao
-<br><a href="mailto:wong_zhi_hao_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_zhi_hao_a@moe.edu.sg</a>
+<p>Mr Muhammad Fawaz Abul Fazil
+<br><a href="mailto:Muhammad_Fawaz_Abul_Fazil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fawaz_abul_fazil@moe.edu.sg</a>
 </p>
 </td>
 </tr>

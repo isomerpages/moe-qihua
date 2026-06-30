@@ -95,8 +95,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ali B Abdul Rahman
-<br><a href="mailto:Mohamed_Ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohamed_Ali@moe.edu.sg</a>
+<p>Mr Wong Zhi Hao
+<br><a href="mailto:wong_zhi_hao_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_zhi_hao_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
