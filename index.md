@@ -18,6 +18,15 @@ sections:
         - title: Learning for Life Programme
           description: Click to find out more
           url: /programmes/llp/
+  - infopic:
+      title: Qihua Innojoy Fest 2026
+      subtitle: Join us at
+      id: infopic
+      description: Sat 18 July 2026 @ 9am-1pm
+      button: Click to find out more
+      url: https://youtu.be/EJ4BGSnopPs
+      image: /images/InnoJOY_poster_for_Social_media__3_.png
+      alt: Image alt text
   - infobar:
       subtitle: Follow us on our social media
       id: infobar
