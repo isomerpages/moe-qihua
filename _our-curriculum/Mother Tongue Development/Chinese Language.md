@@ -21,7 +21,7 @@ in the learning of Mother Tongue language through interesting cultural
 activities. These activities allow students to experience the unique cultural
 elements and create opportunities that encourage students to use Mother
 Language in the activities.</p>
-<p></p>
+<h4><strong>Enabling Budding Learners</strong></h4>
 <p><strong>Mother Tongue Support Programme( MTSP)</strong>
 </p>
 <p>MTSP was introduced to all primary schools in 2017. It is a customised
@@ -36,7 +36,7 @@ skills
 <br>● Immersive language environment to enable students to learn MTL with
 confidence and joy.
 <br>● Taught by specially trained Mother Tongue Language teachers.</p>
-<p></p>
+<h4><strong>Enriching the Learning Experiences</strong></h4>
 <p><strong>BICEP</strong>
 </p>
 <p>In 2020, Qihua Primary had collaborated with Singapore Hokkien Huay Kuan(HKHK)
