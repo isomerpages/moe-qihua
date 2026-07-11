@@ -44,21 +44,6 @@ skills and concepts to build good foundation in students.</p>
 who have weak basic numeracy after school.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%201.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%202.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%203.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%204.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%205.jpg">
-</div>
 <p><strong>Programmes to ENGAGE:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -79,12 +64,6 @@ which develop conceptual understanding of Mathematics.</p>
 <p>E-Learning: provides opportunities for self-directed learning.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%206.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%207.jpg">
-</div>
 <p><strong>Programmes to ENRICH:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -124,7 +103,4 @@ explain the different methods that they use for solving the problem.</p>
 </ul>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%208.jpg">
-</div>
 <p></p>
