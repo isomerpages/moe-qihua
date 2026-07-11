@@ -103,9 +103,6 @@ Learning Programme.</p>
 <p>Lower primary students are paired with peers to improve their reading
 skills. Through this guided peer interaction, students enhance their oral
 reading fluency while gaining confidence in their reading abilities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Buddy_reading_1.jpg">
-</div>
 <p></p>
 <p><strong>3) Kidsread Programme<br></strong>Selected Primary 2 students
 develop a love of reading and establish good reading habits through engaging
