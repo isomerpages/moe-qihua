@@ -4,9 +4,10 @@ permalink: /curriculum/mathematics-department/
 description: ""
 variant: tiptap
 ---
-<p>Our Curriculum</p>
-<p><strong>Key Programmes</strong>
-</p>
+<h3><strong>Vision</strong></h3>
+<p>Every Qihuaian, an engaged Mathematics learner equipped with problem solving
+skills and Mathematical concepts.</p>
+<h3><strong>Key Programmes</strong></h3>
 <p><strong>Our Programmes enable our students to:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -124,6 +125,6 @@ explain the different methods that they use for solving the problem.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%208.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Curriculum/Key%20Prog%208.jpg">
 </div>
 <p></p>
