@@ -3,9 +3,7 @@ collections:
     output: true
     order:
       - English.md
-      - Mathematics/.keep
-      - Mathematics/Vision & Mission.md
-      - Mathematics/Key Programmes.md
+      - Mathematics.md
       - Science.md
       - Mother Tongue Development/.keep
       - Mother Tongue Development/Chinese Language.md
@@ -14,7 +12,6 @@ collections:
       - CCE.md
       - EdTech & MRL/.keep
       - EdTech & MRL/Educational Technology (EdTech).md
-      - EdTech & MRL/Acceptable Use Policy (AUP).md
       - EdTech & MRL/Media Resource Library (MRL).md
       - Student Development.md
       - Physical Education.md

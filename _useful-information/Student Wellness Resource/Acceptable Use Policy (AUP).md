@@ -3,7 +3,7 @@ title: Acceptable Use Policy (AUP)
 permalink: /acceptable-use-policy-aup/
 variant: tiptap
 description: ""
-third_nav_title: EdTech & MRL
+third_nav_title: Student Wellness Resource
 ---
 <h4>Purpose of the Acceptable Use Policy (AUP)</h4>
 <p>Technology is an essential part of learning in today’s world. As a <strong>Google for Education Reference School</strong>,

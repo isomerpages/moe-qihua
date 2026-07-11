@@ -42,9 +42,6 @@ a variety of presentations, including:</p>
 <p>Inspiring talks and sharing sessions by celebrated local authors.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ICT MRL/Authors__Talk.jpg">
-</div>
 <h4><strong>Enabling Budding Learners</strong></h4>
 <p><strong>Thematic Displays</strong>
 </p>
