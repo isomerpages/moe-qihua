@@ -53,9 +53,6 @@ try out an array of sporting activities such as mini trampoline, inflatables,
 carnival games, sports tryout and PE challenge. Students are also reminded
 about the need to exhibit the school values during the activities. In addition,
 medals are awarded to students who set the best records for the PE challenge.</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Programmes/LLP%209.jpg">
-</div>
 <p><strong>4. Sports Camp</strong>
 </p>
 <p>The Sports camp aims to provide student athletes with real-life experiential
