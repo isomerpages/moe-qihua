@@ -4,7 +4,6 @@ collections:
     order:
       - Mathematics.md
       - English.md
-      - Mathematics/.keep
       - Science.md
       - Mother Tongue Development/.keep
       - Mother Tongue Development/Chinese Language.md
