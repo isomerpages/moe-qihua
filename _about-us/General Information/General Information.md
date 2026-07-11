@@ -14,6 +14,6 @@ variant: tiptap
 <p>Students may purchase the school uniform from the school bookshop.</p>
 <h4></h4>
 <h4><strong>Big Heart Student Care</strong></h4>
-<p>Contact Amirah at 8189 2284</p>
+<p>Contact Big Heart at 8189 2284</p>
 <p><a href="https://bigheartstudentcare.com/interest/" rel="noopener noreferrer nofollow" target="_blank">https://bigheartstudentcare.com/interest/</a>
 </p>
