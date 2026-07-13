@@ -21,6 +21,30 @@ in the learning of Mother Tongue language through interesting cultural
 activities. These activities allow students to experience the unique cultural
 elements and create opportunities that encourage students to use Mother
 Language in the activities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTL_Fortnight_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTL_Fortnight_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTL_Fortnight_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTL_Fortnight_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTL_Fortnight_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTL_Fortnight_8.jpg">
+</div>
 <h4><strong>Enabling Budding Learners</strong></h4>
 <p><strong>Mother Tongue Support Programme( MTSP)</strong>
 </p>
@@ -36,6 +60,23 @@ skills
 <br>● Immersive language environment to enable students to learn MTL with
 confidence and joy.
 <br>● Taught by specially trained Mother Tongue Language teachers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTSP_Picture_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTSP_Picture_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTSP_Picture_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTSP_Picture_4.jpg">
+</div>
+<p></p>
 <h4><strong>Enriching the Learning Experiences</strong></h4>
 <p><strong>BICEP</strong>
 </p>
@@ -58,4 +99,22 @@ values.</p>
 <br>b. A Recapitulation of Chinese Culture and History (中华文化)
 <br>c. Chinese Oratorical Skill Training (口语训练)
 <br>d. Overseas Immersion Programme (for P5 level only) (五年级海外浸濡）</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/BICEP2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/BICEP3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/BICEP4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/BICEP7.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
