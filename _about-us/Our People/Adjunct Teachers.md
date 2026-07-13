@@ -107,8 +107,8 @@ third_nav_title: Our People
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Wee Theng
-<br><a href="mailto:tan_wee_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_theng@moe.edu.sg</a>
+<p>Ms Guna-Kohilavani V S R
+<br><a href="mailto:Kohilavani_V_S_Ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kohilavani_v_s_ramalingam@moe.edu.sg</a>
 </p>
 </td>
 </tr>

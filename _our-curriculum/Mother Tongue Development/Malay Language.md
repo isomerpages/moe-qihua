@@ -14,13 +14,32 @@ Language.</p>
 <h4><strong>Engaging the mass</strong></h4>
 <p><strong>Mother Tongue Language (MTL) Fortnight</strong>
 </p>
-<p>During the MTL Fortnight 2020, students took part in various activities
-in class to understand and appreciate the uniqueness of their own mother
-tongue language and culture. These activities aim to provide the exposure
-and experience to pique the student’s interest and be inquisitive learners.
-Students are given opportunities to take part in hands-on activities and
-share their learning with their teachers and friends using their mother
-tongue language confidently.</p>
+<p>During MTL Fortnight 2026, students participated in a range of school-based
+and external activities designed to deepen their understanding and appreciation
+of the uniqueness of their Mother Tongue Language and culture. These experiences
+aim to spark students’ interest, nurture their curiosity, and encourage
+them to become inquisitive learners.</p>
+<p>Students are given opportunities to take part in hands-on activities and
+to share their learning confidently with teachers and peers in their Mother
+Tongue Language. Since 2025, lower primary students have also been given
+the opportunity to showcase their talents in singing, dancing, and acting
+through Fiesta Bahasa Permata Cilik.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/mtl_fortnight_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTL_fortnight_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTl_fortnight_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/mtl_fortnight_2.jpg">
+</div>
 <h4><strong>Enabling budding learners</strong></h4>
 <p><strong>Mother Tongue Support Programme (MTSP)</strong>
 </p>
@@ -31,3 +50,20 @@ since 2020. The programme aims to provide additional support for Primary
 to instil joy of learning. Bite-sized teaching resources are used to build
 a strong foundation in the pupil’s oral and literacy skills to bridge some
 learning gaps.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTSP_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTSP_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTSP_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/MT/MTSP_4.jpg">
+</div>
+<p></p>
