@@ -27,6 +27,15 @@ sections:
       url: https://youtu.be/EJ4BGSnopPs
       image: /images/InnoJOY_poster_for_Social_media__3_.png
       alt: Image alt text
+  - infopic:
+      title: Qihua Connect
+      subtitle: Read our newsletter
+      id: infopic
+      description: Issue 2026/1
+      button: Click to read
+      url: https://online.flipbuilder.com/zlpi/zvdt/
+      image: /images/Useful Links/Newsletter_2026.png
+      alt: Image alt text
   - infobar:
       subtitle: Follow us on our social media
       id: infobar
@@ -40,13 +49,4 @@ sections:
       title: Contact Us
       button: Click here
       url: /contact-us
-  - infopic:
-      title: Qihua Connect
-      subtitle: Read our newsletter
-      id: infopic
-      description: Issue 2026/1
-      button: Click to read
-      url: https://online.flipbuilder.com/zlpi/zvdt/
-      image: /images/Useful Links/Newsletter_2026.png
-      alt: Image alt text
 ---
