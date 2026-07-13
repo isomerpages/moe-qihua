@@ -58,18 +58,4 @@ values.</p>
 <br>b. A Recapitulation of Chinese Culture and History (中华文化)
 <br>c. Chinese Oratorical Skill Training (口语训练)
 <br>d. Overseas Immersion Programme (for P5 level only) (五年级海外浸濡）</p>
-<p><strong>Thumbs Up</strong>
-</p>
-<p>The Chinese Department collaborates with SPH to conduct a new reading
-programme using ‘Thumbs Up Junior’, a Chinese student publication produced
-by Singapore Press Holdings (SPH) for lower primary students.
-<br>Volunteers from SPH will conduct the one-hour reading session on a weekly
-basis.</p>
-<p>This programme aims to stretch students beyond school curriculum:</p>
-<p>● Read extensively
-<br>● Develop interests in CL
-<br>● Exposure to current affairs, broaden their horizons.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Curriculum/Chinese%2022.jpg">
-</div>
 <p></p>
