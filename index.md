@@ -40,4 +40,13 @@ sections:
       title: Contact Us
       button: Click here
       url: /contact-us
+  - infopic:
+      title: Qihua Connect
+      subtitle: Read our newsletter
+      id: infopic
+      description: Issue 2026/1
+      button: Click to read
+      url: https://online.flipbuilder.com/zlpi/zvdt/
+      image: /images/Useful Links/Newsletter_2026.png
+      alt: Image alt text
 ---
