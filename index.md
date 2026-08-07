@@ -4,7 +4,8 @@ title: Qihua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: The General Office will close at 12:30 PM on 7 Aug 2026. Regular
+  operations will resume on 11 Aug 2026.
 sections:
   - hero:
       background: /images/Homepage GIF 4.gif
