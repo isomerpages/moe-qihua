@@ -4,8 +4,7 @@ title: Qihua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: The General Office will close at 12:30 PM on 7 Aug 2026. Regular
-  operations will resume on 11 Aug 2026.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage GIF 4.gif
@@ -19,15 +18,6 @@ sections:
         - title: Learning for Life Programme
           description: Click to find out more
           url: /programmes/llp/
-  - infopic:
-      title: Qihua Innojoy Fest 2026
-      subtitle: Join us at
-      id: infopic
-      description: Sat 18 July 2026 @ 9am-1pm
-      button: Know more about Qihua Pri
-      url: https://youtu.be/EJ4BGSnopPs
-      image: /images/InnoJOY_poster_for_Social_media__3_.png
-      alt: Image alt text
   - infopic:
       title: Qihua Connect
       subtitle: Read our newsletter
