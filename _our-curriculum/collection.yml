@@ -5,10 +5,10 @@ collections:
       - English.md
       - Mathematics.md
       - Science.md
-      - Mother Tongue Development/.keep
-      - Mother Tongue Development/Chinese Language.md
-      - Mother Tongue Development/Malay Language.md
-      - Mother Tongue Development/Tamil Language.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
       - CCE.md
       - EdTech & MRL/.keep
       - EdTech & MRL/Educational Technology (EdTech).md
